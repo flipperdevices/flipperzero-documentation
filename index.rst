@@ -24,6 +24,7 @@ Welcome to the Flipper Zero Firmware Developer Documentation!
    docs/RoadMap
    docs/UnitTests
    docs/UniversalRemotes
+   docs/GeneratingDocs
 
 
 This documentation is intended for developers who want to modify the firmware of the Flipper Zero. If you are looking for the user manual, please visit `the User Documentation <https://docs.flipperzero.one/>`_.
