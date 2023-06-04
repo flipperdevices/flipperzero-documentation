@@ -1,11 +1,11 @@
-.. meta::8158bf13f7e4483f9ddeac1be46d23489a18e54daa587f3c981da819598b985ee01704b0fc18984029f00cb2d672e9dea630101e6b3c3467827a45b415e2f4bc
+.. meta::ec10d234f0d0ee660ee07fa98cb14544431d8a5b87c54f1cf71ed655d76f95eec35569b13ce6cb353e2703481bee60bd65c61f4fe7fd95fcfba8f78e425fd7c2
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/nfc/scenes/nfc_scene.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/nfc/scenes/nfc_scene.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/nfc/scenes/nfc\_scene.h Source File
-===========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/nfc/scenes/nfc\_scene.h Source File
+===============================================================================================
 
 .. container:: doxygen-content
 

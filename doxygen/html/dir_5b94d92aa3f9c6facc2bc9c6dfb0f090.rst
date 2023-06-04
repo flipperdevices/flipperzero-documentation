@@ -1,11 +1,11 @@
-.. meta::34759c1ac4196d468a7ca3bbc6318920b58751715d76e8d136082a9b27f6509a47a0ea5e94da3088667ac85bfec0a6b44e2728cb686c5f4009669dbbcd23f01d
+.. meta::fcc5e0417f6e4380a35b786687fba435060e3a9ab98f94b64cd796730f047e66b42aa9b2161e63a39a94288ab16d2f2fc95fec94aefacb5548e1793f70d5fe60
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/FreeRTOS-glue Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/FreeRTOS-glue Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/FreeRTOS-glue Directory Reference
-===========================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/FreeRTOS-glue Directory Reference
+===============================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::792b87743a1300d4bac9e2f32e451d79067c002ca3e37ab17c697ffbb5fd6753268b9392db1055cb8e8d997cab5d14ef890d8b1014c54112bd299d281b2f4647
+.. meta::0e14e797031aa36fbb6917c21a2f8d287c3d2c553f0fbc8e270daed04248ec862270e9f3cb8a79cde3d5c1712a74a10262d6985d315e6876d0a400ea300d9cf6
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/infrared/scenes/infrared_scene_config.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/infrared/scenes/infrared_scene_config.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/infrared/scenes/infrared\_scene\_config.h Source File
-=============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/infrared/scenes/infrared\_scene\_config.h Source File
+=================================================================================================================
 
 .. container:: doxygen-content
 

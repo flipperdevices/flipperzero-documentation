@@ -1,11 +1,11 @@
-.. meta::33b6d09991272b110acca41a08d4e7a896d503d44adb5e89c48812746b47454e4293450d34dd327090232e26cf6369f0d29f6914bf1d72b44e494d98229a87a6
+.. meta::c211c8a117243b49be28e174866170e50a1b1047cc204e11bacfbf4efd2effaed9f9f32c59ba79f1cf2a932f39503101a38c8bf5ae94112b0a477833818e0524
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/tools/bit_lib.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/tools/bit_lib.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/tools/bit\_lib.h Source File
-=============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/tools/bit\_lib.h Source File
+=================================================================================
 
 .. container:: doxygen-content
 

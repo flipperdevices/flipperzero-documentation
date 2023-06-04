@@ -1,11 +1,11 @@
-.. meta::c907350efabc5a2119026d739c488aba3e2b8e84a85d89ac7c20c31097e65581e1c7c5117897e3c6dce168c169663c9ad34cef1d9075a6e628aa03603f757ca4
+.. meta::0b3350a5945a1677ca1e9a858aa6b6458eb5a4c710ad5fe010d424d038b1e110c7a9a0312a7368598d91f3f1f095788b48f8921f7662ccf4d7526acb5c64b7ee
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/debug/unit_tests/minunit.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/debug/unit_tests/minunit.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/debug/unit\_tests/minunit.h Source File
-==========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/debug/unit\_tests/minunit.h Source File
+==============================================================================================
 
 .. container:: doxygen-content
 

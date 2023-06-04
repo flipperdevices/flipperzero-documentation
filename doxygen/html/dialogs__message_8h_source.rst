@@ -1,11 +1,11 @@
-.. meta::2d0e03db5bd6de4f782d1c06a9ec66c9641e09aad3ce954dda871f53e0f5507d5168377bac593dd7507000704b98fe7cacc0bb2a86a2b1a0f99d8e51097aa437
+.. meta::5d3d16330f0e01840ad20a9cf8314bf16562b6b00f63e07977920e79b7e99fc6248a0ae3bd985215911e69b3bf6dab9302d26b8c8c4cc76502d5ac15f75eb11f
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/dialogs/dialogs_message.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/dialogs/dialogs_message.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/dialogs/dialogs\_message.h Source File
-==================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/dialogs/dialogs\_message.h Source File
+======================================================================================================
 
 .. container:: doxygen-content
 

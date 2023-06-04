@@ -1,11 +1,11 @@
-.. meta::bdcf81d7743dfdc069042a2c8e035d21342e1d3dfc28a209f26cbb53815a6651ca91abcf988369e5fd0873511d666b56d9ea871ed0f316abc64ed6bade62e95a
+.. meta::a639768640828d9d485226d6e8dab7aabcb478b0f2ba4bb9f95e3e3803f847a337581b75cff98c8ec69cae61200c4fe4011ff1bcaed8bd1b0a7d7ebd7220c16e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/ibutton/protocols/dallas/protocol_dallas_base.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/ibutton/protocols/dallas/protocol_dallas_base.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/ibutton/protocols/dallas/protocol\_dallas\_base.h Source File
-=======================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/ibutton/protocols/dallas/protocol\_dallas\_base.h Source File
+===========================================================================================================
 
 .. container:: doxygen-content
 

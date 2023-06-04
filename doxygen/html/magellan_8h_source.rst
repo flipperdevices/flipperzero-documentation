@@ -1,11 +1,11 @@
-.. meta::cc54340e14eaaf718f51f64dae0ea7ff45ea0d9fcd39e63cb7e9bafb45b01f3b8ddf67755790a6d511b1dcbfb1babbb30b541c78b381ece29bbc3d6b1ebfd9f7
+.. meta::aa21fb8b0a5df7c4b0127dd2457201f7e7b852e904efe0122ec16df500ab27f6f6184adb12925bab3fe8afa028e183ef257af4ec895c722feea18c15494449f9
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/magellan.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/magellan.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/magellan.h Source File
-=================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/magellan.h Source File
+=====================================================================================
 
 .. container:: doxygen-content
 

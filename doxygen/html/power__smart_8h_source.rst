@@ -1,11 +1,11 @@
-.. meta::a7f5d9f5bfef3215deb21ed1f5e1a2cd3e6861dab39fc9eae3c6ed22b501c8a68e26ec7984de27e075ec8cb90e19c49621e083f06f6b463dbdb0777e049e59be
+.. meta::6db0b8069b8bf78723f4ced834492c91b85621e1214fe84ca0be4006d6dbebe9213757fbec9893482e8aee026da913cf4f29ae8d8905f7411183deee1991eff1
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/power_smart.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/power_smart.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/power\_smart.h Source File
-=====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/power\_smart.h Source File
+=========================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::13a22aeb988ca5aec5e8b62a67485d508cd4d02298c98f516b88ed7b0beacf136683f673bab33f8dea040fc7b8152b36e2d1c6661e06fe9060eb244a7b961f3e
+.. meta::e9a7bda50b9489207f7233d3145293abd6dd0515882f4b9591b8e175514bf8ebbfde2b3d2de991ac1edac0306da492ac7e2fb8219384d68017b080c27e4912d4
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/nfc/parsers/troika_parser.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/nfc/parsers/troika_parser.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/nfc/parsers/troika\_parser.h Source File
-==================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/nfc/parsers/troika\_parser.h Source File
+======================================================================================
 
 .. container:: doxygen-content
 

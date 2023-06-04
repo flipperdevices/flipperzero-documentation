@@ -1,11 +1,11 @@
-.. meta::c116a502014296bd1abac2ff2c5c43ee10fe17b7ca75418564b466ca6965fd8a4cde1dd10c0647cb9cba20481a8d1f5048c51656513c7d0ed642b36a1c56fb6e
+.. meta::5d3169850c3e3b787b64fdc946b50e6a05342dffb305cbfa1df8b8b015dc15fd476ac5aa50fef42f771cbb81bd3a92b89b96128eef5be31fc40401778fd6bc9e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/furi/core/log.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/furi/core/log.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/furi/core/log.h File Reference
-====================================================================
+/Users/astrr/flipper/flipperzero-firmware/furi/core/log.h File Reference
+========================================================================
 
 .. container:: doxygen-content
 

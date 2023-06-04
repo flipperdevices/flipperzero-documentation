@@ -1,11 +1,11 @@
-.. meta::d1677622b4a8044c082c72cdb4ea587aea5fdd1b576339201ee8f494131b1d99cfbc3d98de7122ae8c98d0ee78a5f37c1d3bb91daf5f382c248c65932de6a246
+.. meta::ed119d4638446c824ac16821c285549dada6f2163b3476a4fb34c12fc5906010c37e90f7e7aae2af730267b6b6c76f1e6dea29d888ef0d6b19a8905620a7cda6
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/scher_khan.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/scher_khan.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/scher\_khan.h Source File
-====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/scher\_khan.h Source File
+========================================================================================
 
 .. container:: doxygen-content
 

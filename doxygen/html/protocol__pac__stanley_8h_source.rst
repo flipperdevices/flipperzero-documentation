@@ -1,11 +1,11 @@
-.. meta::c0ec2f3e65ea75f282fef235bc78523df67f13304dcf142ddee3ed31bdc9a52ac6bd12743df2cc072fb7812de5cb6bf95928f7964e90dc6636991d7920b98c48
+.. meta::e2e0c507fadf88db5d26eb05fadf34c06171b62b48982934bf6b6c926a54c0281e042ea6e26462e6ac203d27b44695f4bf812e9c426332be387adedec9bf6b0f
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol_pac_stanley.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol_pac_stanley.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol\_pac\_stanley.h Source File
-===============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol\_pac\_stanley.h Source File
+===================================================================================================
 
 .. container:: doxygen-content
 

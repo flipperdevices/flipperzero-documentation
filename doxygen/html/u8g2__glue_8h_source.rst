@@ -1,11 +1,11 @@
-.. meta::c292bc1a57e985b4adec5311321328307186f9896bbe22fa2e61c8be201fd79c6f82bf8779e2bb1dd569603514f84785909c3cc0f93d1c66fb6369e762cb8488
+.. meta::b7e3ee8bc545b3db6d9a5b81ed59d00a2eb2f30a1c3419290833636cc514c0cc59122515d701cead84186138459217e0974f5ce3bceb6c1c20d7192d79303857
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/u8g2/u8g2_glue.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/u8g2/u8g2_glue.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/u8g2/u8g2\_glue.h Source File
-=======================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/u8g2/u8g2\_glue.h Source File
+===========================================================================
 
 .. container:: doxygen-content
 

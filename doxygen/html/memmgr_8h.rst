@@ -1,11 +1,11 @@
-.. meta::3b979eaf3268c84889d5b842201e05394688035584b93935fcbe7b1049535b7cefa0cf74b797caa3f4093597f7d4bb3bc06e8e8b175a88ea229e50cb3794e820
+.. meta::04127b9d09e5ee7983d9b70a13ba6e8f8d420ef91e761ff7bade0ddc91bfb303955a4e906d8908099e72a89799059d1418e49403d3a0122faf2a22a417b0c3c7
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/furi/core/memmgr.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/furi/core/memmgr.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/furi/core/memmgr.h File Reference
-=======================================================================
+/Users/astrr/flipper/flipperzero-firmware/furi/core/memmgr.h File Reference
+===========================================================================
 
 .. container:: doxygen-content
 

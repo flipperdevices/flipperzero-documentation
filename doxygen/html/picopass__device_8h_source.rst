@@ -1,11 +1,11 @@
-.. meta::a1ee02b4a21cda0ad5e8741de5f9f0d5570548e110959aa41660c8b1274197c6550e086548e0f93dc86145bac2d2b15860b031d13294263a393bf37489121cdb
+.. meta::462e52748b2f683a0dd79a7dbc0f8b6f8e7227c6ddedd5c35ffc78eb4b83f4f8b6e887330bf4b9a0b1207e5cbfead4a8b66da33afd60aa30d3f5e095fbd0d727
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/picopass/picopass_device.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/picopass/picopass_device.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/picopass/picopass\_device.h Source File
-===================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/picopass/picopass\_device.h Source File
+=======================================================================================================
 
 .. container:: doxygen-content
 

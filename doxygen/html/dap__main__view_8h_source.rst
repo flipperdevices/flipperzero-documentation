@@ -1,11 +1,11 @@
-.. meta::96b2ffd00a2fd0d915d737fa6c00151f823e2b8200a21a33fd608365b9a15a92d0ee66d1e43c3310650bd5673e918bc84d684abdc9c26328e1c3f9cd3e6fc693
+.. meta::9a39faefeb97f75426411181231dab598c1a9a98ea3f70174e7cb2e4337345100841f29dd563e5710cbcbe978b153496003f8ab89b1fca2e9f8557365d258874
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/dap_link/gui/views/dap_main_view.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/dap_link/gui/views/dap_main_view.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/dap\_link/gui/views/dap\_main\_view.h Source File
-=============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/dap\_link/gui/views/dap\_main\_view.h Source File
+=================================================================================================================
 
 .. container:: doxygen-content
 

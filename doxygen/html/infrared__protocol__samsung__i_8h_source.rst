@@ -1,11 +1,11 @@
-.. meta::1a8bf03cb8c558bf095cd99748f007631bf04c4eb69a69a376c9abe304b8508877ef3989ad20920765e6abeec3c50cfa9b7c648777574b89a0485cdc7fa8a466
+.. meta::6bd9030fd58322dbddf47e7c49ddecf84787f1cad3d330e6e8b8166c0f1ae627570948fa5120d406017f83415747261bae1507cbae2e7eb71799c21600da54b9
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/infrared/encoder_decoder/samsung/infrared_protocol_samsung_i.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/infrared/encoder_decoder/samsung/infrared_protocol_samsung_i.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/infrared/encoder\_decoder/samsung/infrared\_protocol\_samsung\_i.h Source File
-========================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/infrared/encoder\_decoder/samsung/infrared\_protocol\_samsung\_i.h Source File
+============================================================================================================================
 
 .. container:: doxygen-content
 

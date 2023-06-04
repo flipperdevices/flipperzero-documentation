@@ -1,11 +1,11 @@
-.. meta::dec5e21e7cd5cd71fc50cbe49f2182a2fc64536698bb990ba8dcff71db5a2077272de32b64a771774e9299d9e736b2f54a52df33520219eca072e26f89f4a137
+.. meta::a55d2c721fe34a35541289afb8f2004f08ecf798a5a9a414664a7370c114e7285edab44dcf9821a585908090b66d84f63186a884968ad7705bf95e2c9c80ab33
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/weather_station/helpers Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/weather_station/helpers Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/weather\_station/helpers Directory Reference
-========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/weather\_station/helpers Directory Reference
+============================================================================================================
 
 .. container:: doxygen-content
 

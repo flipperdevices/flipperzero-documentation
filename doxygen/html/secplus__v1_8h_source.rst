@@ -1,11 +1,11 @@
-.. meta::88343b7f2cd4899c6c3dd46178cfe03716da0122d8dc369e68c60a966d4ecd5b5ba152321e49536082dcfd16c5ec223cf08fd2f9d228a17227d91d38aa0428da
+.. meta::69136c223d3026d8bd6e1814fcec0791df88f365d4e62862eebb498dac747be8e33ece1f575defd3a7c33d0fc997344e7b41b273f3b5e7aeb47e06f90623bc63
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/secplus_v1.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/secplus_v1.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/secplus\_v1.h Source File
-====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/secplus\_v1.h Source File
+========================================================================================
 
 .. container:: doxygen-content
 

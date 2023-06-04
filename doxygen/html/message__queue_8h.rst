@@ -1,11 +1,11 @@
-.. meta::01ce9fe75a17f7fa7985f0c8bec8e353ac39344b74ca173d472dd2ed5ac82acca1f25a411fa86afa6372a6674cdb75c4b379efc13f76f699fec6b217cba68f29
+.. meta::8485a616a49b6f70fce9f197dfae9f4b4703ff429d563e9ae119232349bae6dc6ee43c301781b9e1ae598919a7f847e388d90bf3206db90ccd3fb401ea9b729d
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/furi/core/message_queue.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/furi/core/message_queue.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/furi/core/message\_queue.h File Reference
-===============================================================================
+/Users/astrr/flipper/flipperzero-firmware/furi/core/message\_queue.h File Reference
+===================================================================================
 
 .. container:: doxygen-content
 

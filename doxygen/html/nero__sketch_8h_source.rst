@@ -1,11 +1,11 @@
-.. meta::046e5e3948f610baaac6280d636ff1526f990e93bd633a5a068713c177d5ef47cd6638c28c57e2c35c3951ecbe8281d8ba8c1454946379aa384e4747be52ed16
+.. meta::bd02f594e1edec357757081022c55a10ede0ebaee05e07cd7652be9b85a563b519595f12f0d5239d184783ef7ac29ac934071c4d697ea087d52e05810979e4fc
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/nero_sketch.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/nero_sketch.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/nero\_sketch.h Source File
-=====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/nero\_sketch.h Source File
+=========================================================================================
 
 .. container:: doxygen-content
 

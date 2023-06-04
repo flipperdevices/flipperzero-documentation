@@ -1,11 +1,11 @@
-.. meta::7258869595f2257cc00864b6e7e32f76eac2ffc9f105b280b5bcf6695da035e965b54a73ec3f21b6ae3c1249bae5d6eaa57b3194b8bf821da6b3a2cd2ce67255
+.. meta::5788720e559fb01cc12947b7c3eac125558148a58b088e7fc6f0d3cb06a2aa59296aac6b800c7d253c3d25baddf7934f5bdb014a5f7890c60896792bb07c0b58
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/nice_flor_s.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/nice_flor_s.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/nice\_flor\_s.h Source File
-======================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/nice\_flor\_s.h Source File
+==========================================================================================
 
 .. container:: doxygen-content
 

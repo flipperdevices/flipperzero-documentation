@@ -1,11 +1,11 @@
-.. meta::78105b8bc10360d02a56c470759ed3f2b6244d5f96192e18d5f839ecf251d2c9e47763705ae9f5412ffd7992c6396181e8930b00bfc6d614fbfa7697a1207d88
+.. meta::20b95739b93d11efb36c3d72a7bf4412942385f4b1d159c718a944c07c757d8a58649d299c3f35a007fd9feb8c55598fc721d0d994ae3be9dca6fdeccf74d1aa
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/print/wrappers.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/print/wrappers.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/print/wrappers.h Source File
-======================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/print/wrappers.h Source File
+==========================================================================
 
 .. container:: doxygen-content
 

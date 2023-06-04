@@ -1,11 +1,11 @@
-.. meta::5ca50025993b8159d2db501b3ef7e1d69404b1e8b5fec987f9ecfaba96ddc0fc78a9320abfb51f485ee0f88d71446c38cf3ca224f69e2e7720fc786d096c5747
+.. meta::71cad696015d4b0c4615d4ca82e03d098dadebb0e7d91ce55cd75289a286099ff6fde1b573b58265f8c379cd1b24415efac68e815dc916bae9f23b010a4422a7
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/infrared/encoder_decoder/common/infrared_common_i.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/infrared/encoder_decoder/common/infrared_common_i.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/infrared/encoder\_decoder/common/infrared\_common\_i.h Source File
-============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/infrared/encoder\_decoder/common/infrared\_common\_i.h Source File
+================================================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::be1f624810ed4380d0d799dec34f4d1b8a149b7d5f47d37526015c5a60a13c18a5366f7bdd58e32520ab932a1ab848c011e7d64959ef1d83cdf4c1304e435e42
+.. meta::2bf2984612597145175790846d9e47736c5a05ed59e53189398557d82bdb4234a04f74ff1a391bacd5fed07e5a0ab9bdcbd71682876b28047f8f8e4193f973a2
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/weather_station/protocols/acurite_606tx.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/weather_station/protocols/acurite_606tx.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/weather\_station/protocols/acurite\_606tx.h Source File
-===================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/weather\_station/protocols/acurite\_606tx.h Source File
+=======================================================================================================================
 
 .. container:: doxygen-content
 

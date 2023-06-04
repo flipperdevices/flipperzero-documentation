@@ -1,11 +1,11 @@
-.. meta::b5c0937c71e6bbd152ab9e4bc328fd1dcebb440a05215a901bb1fa3b202dfc1412d487ca1de54ac0e372ab87a36639dcb59a506baba72e38a084c67c73865b4e
+.. meta::2886860d7eb4760a336c95ae68f99bdde012efeaa9227614c8641d106ce71103010fc7db1242256d6ab34ab9c07a347dce8127f397fa54bda248ba2bdec54972
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/view_stack.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/view_stack.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/view\_stack.h File Reference
-============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/view\_stack.h File Reference
+================================================================================================
 
 .. container:: doxygen-content
 

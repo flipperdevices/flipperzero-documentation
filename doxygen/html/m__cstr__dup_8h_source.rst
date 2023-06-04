@@ -1,11 +1,11 @@
-.. meta::9203ff2e3ac8f6cdd43678deb3f74721518510697ef047bc078812e867ac45e0da0107a4f48a6ca8aa92a6747e590b08aff13facedfb1bf8457d872f78663134
+.. meta::e4a886979ceed7e16f95acabedfb3b4d733b09090cfb7377b4d2537c5ca13d13a34a56a83b5e600b351c74864bee777270cc00feaaf347aa938dff6efef8670c
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/toolbox/m_cstr_dup.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/toolbox/m_cstr_dup.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/toolbox/m\_cstr\_dup.h Source File
-============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/toolbox/m\_cstr\_dup.h Source File
+================================================================================
 
 .. container:: doxygen-content
 

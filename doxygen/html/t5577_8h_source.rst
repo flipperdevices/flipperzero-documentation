@@ -1,11 +1,11 @@
-.. meta::bf8230c05eccdf028e4c35aef8b14b3af043f12e4b7a12c7bbbc87d0d6c47b0b91ba034bdc3ea5188e3a83763df4565e18744ecddd17e9cf75ef29eee9058054
+.. meta::206ef16e8b0846c64014532068dd0d63a2e5a8376ab2ae0b5bf88a093f16705d39b189ffb9aa1435949f13c0788f6e6fe2b689c4811292f57269d88dad0ce5d9
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/tools/t5577.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/tools/t5577.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/tools/t5577.h Source File
-==========================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/tools/t5577.h Source File
+==============================================================================
 
 .. container:: doxygen-content
 

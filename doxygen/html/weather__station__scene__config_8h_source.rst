@@ -1,11 +1,11 @@
-.. meta::a7ac4781d6bffd033607dad6520007a15393cff8d5cbf51eb31d5b8e895f1917e3bb4c000cd842ba6eafad32c5f24608681cee6229080287a4581de9ae1cda12
+.. meta::99ae53fb17907c6cc064053d330449694512a0797cafe1a15867a7601c9a7dc890310b38b44823885e50094340466a8e4e8c24ae6821f87f5bf7b57a6c1f695d
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/weather_station/scenes/weather_station_scene_config.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/weather_station/scenes/weather_station_scene_config.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/weather\_station/scenes/weather\_station\_scene\_config.h Source File
-=================================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/weather\_station/scenes/weather\_station\_scene\_config.h Source File
+=====================================================================================================================================
 
 .. container:: doxygen-content
 

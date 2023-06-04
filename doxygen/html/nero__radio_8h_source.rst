@@ -1,11 +1,11 @@
-.. meta::6c303769b73589a889d0f1547ac4af5220813a4c6c5aa71e9117e2a98075d0a580fd7c49bb5da80bdfbf346ce4a0cb1ff9b769404857a5c82e9dc5d612ee7801
+.. meta::71d195ba3d8d6edd2c3ac0345a05b9fc3eed96e0378fd58cf9f03c499e3f8eb7dd34cf46afd1a4ecc2088e061f9a6ecfb1d185368e41827992a51cb30359bb92
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/nero_radio.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/nero_radio.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/nero\_radio.h Source File
-====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/nero\_radio.h Source File
+========================================================================================
 
 .. container:: doxygen-content
 

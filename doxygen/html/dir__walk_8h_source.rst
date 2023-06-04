@@ -1,11 +1,11 @@
-.. meta::47f9e30173dbc40a1df5ff2dbb016a5f2414ce6282dc354866fae796b3589533841d3604d94851d10237c79c902ccbb54ba53ba89072b9eb280c4476fce4b817
+.. meta::6fba91195b798fdb2849d6e3cb992a6d3a088c9c3f2beeaabe8722b7caf3af1748764ca4e113af6816aedf8c4acd28e5014ecfa86997080256ccf74d781d52f0
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/toolbox/dir_walk.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/toolbox/dir_walk.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/toolbox/dir\_walk.h Source File
-=========================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/toolbox/dir\_walk.h Source File
+=============================================================================
 
 .. container:: doxygen-content
 

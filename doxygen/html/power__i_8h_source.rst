@@ -1,11 +1,11 @@
-.. meta::d7c81376d4881a6621f41b748bdc4f136a20a03a2eb071c7ecc733cc68fb63d91fb45df38104b8a48db11d63fe6d422f172effc1c52503379e9dd619b0c08fa1
+.. meta::30d3363c34fbc41496fcc9a99dff82957109f94a8fc545b0e0805010de4dc0f5dc2ffe8239e677b06e43c4db1384fc46eaddc446f4a4bfe9358b986a09b6edbd
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/power/power_service/power_i.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/power/power_service/power_i.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/power/power\_service/power\_i.h Source File
-=======================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/power/power\_service/power\_i.h Source File
+===========================================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::75ca49bf27bc58579ff677aa44670eaa617fb13fb59a2f82917da7d79860403b55c6e9a6a1d8a28519cdac321de67111c406babc63804bc8d1469796a11148ef
+.. meta::2b9582295cb3021c37e37f8d828f767e447893f70faecd495ea5c9d3e46b9eac8d124e01bd99715b0d79707ba02a40d264af7318a582db80ee250f7a7692e53d
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/megacode.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/megacode.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/megacode.h Source File
-=================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/megacode.h Source File
+=====================================================================================
 
 .. container:: doxygen-content
 

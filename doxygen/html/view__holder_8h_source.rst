@@ -1,11 +1,11 @@
-.. meta::dbcb644624678dbab1a577eb9bfddff7f14b8340f1f69275ff16f1886fa99e60a962fbe723d5d603c06d3ae2dbbb9a4c1b2f14763d4593933c69f79fbfa67144
+.. meta::45e5e28a863a4a723e836bb6f0f805fb076294062ce41caf9421e04f4db0dd4caa242aae30bc6e0fef0497810fd7abe528427be272dee61b29737e5f7fa9ab02
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/dialogs/view_holder.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/dialogs/view_holder.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/dialogs/view\_holder.h Source File
-==============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/dialogs/view\_holder.h Source File
+==================================================================================================
 
 .. container:: doxygen-content
 

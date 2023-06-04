@@ -1,11 +1,11 @@
-.. meta::595f6104cc361588cdde5d2bdbf9b0783387a7e50f6e85111c34e2df8c9922b589f54179d21219584ca01106289cec22a2c75fb9a35459475bd86c3a3fdab1a6
+.. meta::4006c72b43ceb8e8cc49c72ebe6ce02c5d675d0b34e2b54047725c73a9b20632fdf2f6f88eb31cd9f2bbd50ffdad6555dd834d7756145449b873489bc9cb5afe
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/holtek.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/holtek.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/holtek.h Source File
-===============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/holtek.h Source File
+===================================================================================
 
 .. container:: doxygen-content
 

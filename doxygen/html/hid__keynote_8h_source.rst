@@ -1,11 +1,11 @@
-.. meta::667bbb3c9a0fa704482915ad15046fee559babf63cb216871d2ec38700de7d60a095c13b8e94a977f79dee1214afe14a97931662f1623b455e539e59d5d96db5
+.. meta::7cd853b12ed7a1e982e81bb3070de4611952556b3fd388d79a9303b7764925fae91f4b18d2812f65a25b203583ed8c5a7376e77e2aa6ca42070b496d903d42d5
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/hid_app/views/hid_keynote.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/hid_app/views/hid_keynote.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/hid\_app/views/hid\_keynote.h Source File
-=====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/hid\_app/views/hid\_keynote.h Source File
+=========================================================================================================
 
 .. container:: doxygen-content
 

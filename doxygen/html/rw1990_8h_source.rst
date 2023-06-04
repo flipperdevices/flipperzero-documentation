@@ -1,11 +1,11 @@
-.. meta::922e60e1180cf36918b1121c845a148173abf6d01cda233aacef913ec7fd10805237df13afa953382a0975833d206aa8a218bec62c3ddd8625b74b05c4271211
+.. meta::b3bcdab42547666b7dbebf5635cb3e6d7f29b9c78f1b1bb28c7ad586211dba8151d10b3039a4824e1504fedd71e0c07040393f02ed6ab12817d8869cfe41b2d5
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/ibutton/protocols/blanks/rw1990.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/ibutton/protocols/blanks/rw1990.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/ibutton/protocols/blanks/rw1990.h Source File
-=======================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/ibutton/protocols/blanks/rw1990.h Source File
+===========================================================================================
 
 .. container:: doxygen-content
 

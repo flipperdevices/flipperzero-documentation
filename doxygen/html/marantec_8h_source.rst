@@ -1,11 +1,11 @@
-.. meta::880aff8c74e6a9f24c43e41c854e00372974295dc2b8879fd3dfd6beb09ee80fe91e45f028f73439232a0d3649cf1748a022197839d415ec980cae6024340ef0
+.. meta::74986c51bfafaa28cc0800107b2e0a9cf8d9ce6839663116537e2f55aa9502b6a3c5040305d5723596765d3c4e13168bb6c8595c66691adef2d2374627ef022b
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/marantec.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/marantec.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/marantec.h Source File
-=================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/marantec.h Source File
+=====================================================================================
 
 .. container:: doxygen-content
 

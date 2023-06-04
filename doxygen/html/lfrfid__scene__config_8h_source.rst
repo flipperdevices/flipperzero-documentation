@@ -1,11 +1,11 @@
-.. meta::553f6fb52502898525105ebde02990b5d50aff2f2b8ece5bea1a8acf8c475b59860adda73e970711479e5515dce93d6b4905bee76507784969f27258527781d6
+.. meta::7c0aeb967e76b267358b129859b36302a2f858bc32e6f4eca22f41980e4f788f7364fb6fa179ec3bbf159c0e4bf09b3084a64b28742f131e5a3240ca2c706849
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/lfrfid/scenes/lfrfid_scene_config.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/lfrfid/scenes/lfrfid_scene_config.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/lfrfid/scenes/lfrfid\_scene\_config.h Source File
-=========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/lfrfid/scenes/lfrfid\_scene\_config.h Source File
+=============================================================================================================
 
 .. container:: doxygen-content
 

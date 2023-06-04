@@ -1,11 +1,11 @@
-.. meta::14f684359f4e273e1e4d02efea720ab2f8c6bce0954f27fe01317068d1711609217a03ddb829e7728d73ae9b9ba53eea9890d074a284edc0a630867bf1343982
+.. meta::6b28a014dce10719d2125cd68f66653b95b3cf03c7c11e371aa9bbaedc274646e613477cb70e89a248794cfea32b8bc87daa7e591987733560dbc866b6d9cbd7
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/nfc/helpers/mfkey32.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/nfc/helpers/mfkey32.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/nfc/helpers/mfkey32.h Source File
-===========================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/nfc/helpers/mfkey32.h Source File
+===============================================================================
 
 .. container:: doxygen-content
 

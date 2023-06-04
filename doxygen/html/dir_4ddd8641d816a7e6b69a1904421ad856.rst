@@ -1,11 +1,11 @@
-.. meta::f1557eaee8dcfc8d8426c0ca070b347e8dcbbe0f992060189906ab2ab797c6f54d9b3c32dc42919204cc0a0c5fb1027eab94dc4764f35f94fad2f4faebb832de
+.. meta::bf969140a700995bb1459a856e3e4f2caacf70a7630d89060eb9f3a2c3dc91d04417660a45a1eb9012513f0fbf00e954654c620a4c178d0aee3d3fc22931a785
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/settings/power_settings_app/scenes Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/settings/power_settings_app/scenes Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/settings/power\_settings\_app/scenes Directory Reference
-===========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/settings/power\_settings\_app/scenes Directory Reference
+===============================================================================================================
 
 .. container:: doxygen-content
 

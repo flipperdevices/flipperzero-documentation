@@ -1,11 +1,11 @@
-.. meta::789a7a3d195ae470e0e9c3a35dcab8cf1abb06d68d2eab42bd762e9ff2780bad0e826fc5a9480e996c736424b0f84b0f5f3f1f73e67ff1124584fa8ab5a1139c
+.. meta::80e927844bd363195bbf59c306a944a86822774671da0038ba0f59a67f19b1b71839b74c99ff2fa7edb330c07c5eee721dfd1c853bba1827091a4a9b1aa2da42
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/weather_station/protocols/thermopro_tx4.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/weather_station/protocols/thermopro_tx4.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/weather\_station/protocols/thermopro\_tx4.h Source File
-===================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/weather\_station/protocols/thermopro\_tx4.h Source File
+=======================================================================================================================
 
 .. container:: doxygen-content
 

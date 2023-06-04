@@ -1,11 +1,11 @@
-.. meta::9b12682eba6f5f5b26a2e58a3d2fe1fc5ff0a1863e56c26af4e9ef49cc487f7b74eedbe910920a6aba0c987c34392b8de0a8f4ee5171f1c131bb5c0daaa83b8b
+.. meta::fe9c605ce7abec2163263215c6cf5b9a6bbf4dd41f2390b1d23082511f197d677a530a1ce98295fd11a178d056e19f897d6ca137941013a03362441f8c582023
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/inc/stm32.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/inc/stm32.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/inc/stm32.h Source File
-=================================================================================
+/Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/inc/stm32.h Source File
+=====================================================================================
 
 .. container:: doxygen-content
 

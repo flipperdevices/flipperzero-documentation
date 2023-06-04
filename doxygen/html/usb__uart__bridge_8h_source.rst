@@ -1,11 +1,11 @@
-.. meta::106d63afb1816466bc7826d136d24db0dd0be47f476b2837cae63fb2fa2e250658e3de5b4076f3522fc9c89f8917c4e8d5d026ea1c0498d6beea16dfbae193c1
+.. meta::c27429056cb7c76323da92b9384bf297fcbbc3e55a0cc9ace99c00b3bd72825dbebee962c70491b249903f2360f8b6472fa1531858096f4f2b00f68b1c3249a7
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/gpio/usb_uart_bridge.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/gpio/usb_uart_bridge.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/gpio/usb\_uart\_bridge.h Source File
-============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/gpio/usb\_uart\_bridge.h Source File
+================================================================================================
 
 .. container:: doxygen-content
 

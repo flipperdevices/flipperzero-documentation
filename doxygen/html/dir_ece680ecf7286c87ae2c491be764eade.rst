@@ -1,11 +1,11 @@
-.. meta::8f8c78546ad987de3276f6fa564dc690968aaabcc554e4e7f683690f4adfc72be99152cd2757625da266b78ec9c8f91a3c806260988c5fd5d72fccbba98bb7c6
+.. meta::5df208d69b9e2432e303471d190f08842f4adc272f4323eab62785c2f088694bcafdab5783748d8e03b5a6762067fd5da754dcad2081979626ac34ee4025447b
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/dap_link Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/dap_link Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/dap\_link Directory Reference
-=========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/dap\_link Directory Reference
+=============================================================================================
 
 .. container:: doxygen-content
 

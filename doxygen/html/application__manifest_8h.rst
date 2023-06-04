@@ -1,11 +1,11 @@
-.. meta::c69f215d8c51a2bbb6f1ffa3b9bcf99ae41514a84c178f9b782cf0c2d39a3564e8109917434031830ee0c564703d38745091f8bdcf8b766f4deca88dad053da8
+.. meta::78cc8b91ed7612c5d80aaa51aa2245555c820998c599f395d30e11ab35b5c0dabc2fed89a67b1300259a22805cc0d3b800ced8e72f7ed4f0497bdd4caacab9d0
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/flipper_application/application_manifest.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/flipper_application/application_manifest.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/flipper\_application/application\_manifest.h File Reference
-=====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/flipper\_application/application\_manifest.h File Reference
+=========================================================================================================
 
 .. container:: doxygen-content
 

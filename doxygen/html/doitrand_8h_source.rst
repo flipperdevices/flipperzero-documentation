@@ -1,11 +1,11 @@
-.. meta::a5cf950274fa299497bda57be01b16d8e20973551bee03f8cd102c0172469ff49294a10c0afb76292a4f2e750d6101a00cc640f91edb7801d5af7d73cbd22b82
+.. meta::08444f47295ae3cf4ca076cf0ee7744e56b19c2fc54ceec2fe1be770601937254bfa7f30426752da9bf702aa8f3af3928b039f305b52ac6e914379a6a8396041
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/doitrand.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/doitrand.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/doitrand.h Source File
-=================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/doitrand.h Source File
+=====================================================================================
 
 .. container:: doxygen-content
 

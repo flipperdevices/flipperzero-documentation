@@ -1,11 +1,11 @@
-.. meta::1f417ddda58a7dcc3ad3d1ad6a9f5de4ab0c4b0be0da2913f7be139b2b6441eaff5c2b7611ef76f89bb81c03f9010179e530cd93d876a33b9fa8b2e623fc26ca
+.. meta::a08a53b29a84f3b87e6e197d187857fbd95cf7b1983649378c212eb651db4175dcd5359fd58e1cbe39135abd79638a96e94eb290633fe9334ec7705719624339
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/toolbox/crc32_calc.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/toolbox/crc32_calc.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/toolbox/crc32\_calc.h Source File
-===========================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/toolbox/crc32\_calc.h Source File
+===============================================================================
 
 .. container:: doxygen-content
 

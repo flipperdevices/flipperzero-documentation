@@ -1,11 +1,11 @@
-.. meta::7c791164b781b288a81ebef6fc11a4bb47ebeae9b014ecf240896b09f99a2cc0f77826e5c9b26739caa6786049ab9cd1dacebcf1c08e0bb53913cfe05a1d9de0
+.. meta::0d50fe704bc61f04f6a5f05573a26b3c82ce5af68296bcfd7206f489240f782c35f51d3e4d50ed09c82db1a0b1b14aa8afdd5e01d8db929d1e0c0bf86188917d
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/bad_usb/scenes/bad_usb_scene_config.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/bad_usb/scenes/bad_usb_scene_config.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/bad\_usb/scenes/bad\_usb\_scene\_config.h Source File
-=============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/bad\_usb/scenes/bad\_usb\_scene\_config.h Source File
+=================================================================================================================
 
 .. container:: doxygen-content
 

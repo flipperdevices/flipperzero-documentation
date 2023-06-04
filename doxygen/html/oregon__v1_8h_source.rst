@@ -1,11 +1,11 @@
-.. meta::34fdcadf0579b69fca294e3085a23f5f286649267403ffb11bf5a496b725114e5cdef5ef75c203c533658bb5afd561535ca272fbfa399c16c5a4732aad3fbb9c
+.. meta::3c812f8b3d7568872d968ee092099a200e7035d8daf58fe935c6280c50accf4fbf7eae647c5d6a7c2a4cd49598fed822f309483fd8a20604703c593adb41df4d
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/weather_station/protocols/oregon_v1.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/weather_station/protocols/oregon_v1.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/weather\_station/protocols/oregon\_v1.h Source File
-===============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/weather\_station/protocols/oregon\_v1.h Source File
+===================================================================================================================
 
 .. container:: doxygen-content
 

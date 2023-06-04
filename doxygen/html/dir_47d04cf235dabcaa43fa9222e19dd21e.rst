@@ -1,11 +1,11 @@
-.. meta::24b0f965ddc268555b9cf4813c1457fef21f57bea343c5b65cddc53fa6792354698edcc6e7d1d0c6e5c39bb8d2d9ea5b980180405dcbd29dd028b9cbb8da819c
+.. meta::e4a6793793cf491de8cd0d68306cf6c125d617461804cd7fcba0d0e218f4b4b21f5ace4e831207c11242b950b74c1fad3bffa15a953cba6f47b36e33f2572031
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/snake_game Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/snake_game Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/snake\_game Directory Reference
-===========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/snake\_game Directory Reference
+===============================================================================================
 
 .. container:: doxygen-content
 

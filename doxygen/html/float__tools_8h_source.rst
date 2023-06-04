@@ -1,11 +1,11 @@
-.. meta::dffb29ea4c634c4d9b1bb9ca5eab9c310a520d98b836d55f08eabadfd5137c025f170133fea298f829004a7d6fb158639975fd3be74f12fa2433a26c43df1571
+.. meta::681cb548c76555ee5b636116b91c4d2b00a2b0809490f5e087fecd672b013d4dbe94d4859d9bc7a44a6a820180d5f623a716f30866b51d0c46a07ec5a4a828eb
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/toolbox/float_tools.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/toolbox/float_tools.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/toolbox/float\_tools.h Source File
-============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/toolbox/float\_tools.h Source File
+================================================================================
 
 .. container:: doxygen-content
 

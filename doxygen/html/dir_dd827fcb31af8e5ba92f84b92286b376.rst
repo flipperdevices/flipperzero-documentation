@@ -1,11 +1,11 @@
-.. meta::80ae5b002f338a595d47e7d3a54ca933f3eaacc5e6e157d5ece3864a6c5f2bb782110d9cc0590e361568e024f190fcbb97625238342c5b901344bfc959639b26
+.. meta::451fbcde4ccf2a6e0645744e3f60e41921ab3ecaf001f955db4a40d33291efba796229ae22f69e41dcb5cb5839b70ab6b49c53b3eb98d5608372e3dd059a817a
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/print Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/print Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/print Directory Reference
-===================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/print Directory Reference
+=======================================================================
 
 .. container:: doxygen-content
 

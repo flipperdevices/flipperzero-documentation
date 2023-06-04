@@ -1,11 +1,11 @@
-.. meta::4efc0f2aff2fb70c1845f5499cb1bc83d6877bd44eadf0c08454ee543cbee03c3674411f61bbd5d426c75da162f9c5aaf24cb3e592cef2291be67163c5dc4587
+.. meta::d287eb0dbcee5adfc4e8173741c003800a80673b98302bb3a46f03f0777bf7635dba3e3a281ddd7c78c9584d9f92cf1bb6817695315ea61f6a6c0f9526e08861
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/views/desktop_events.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/views/desktop_events.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/views/desktop\_events.h Source File
-=======================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/views/desktop\_events.h Source File
+===========================================================================================================
 
 .. container:: doxygen-content
 

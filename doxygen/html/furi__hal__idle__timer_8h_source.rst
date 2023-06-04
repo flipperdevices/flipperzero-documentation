@@ -1,11 +1,11 @@
-.. meta::ab8761249927451326650494397e0930cdb1c1d5121d75eb447a36e2e5058e82d511ef007e8ea276e4fcc87c1909988a1aec7d1c3dbb7123c7d4711317091fbd
+.. meta::50521ed4b07a9e5af174b80953adb45dfe4b89134b085b725eba16554dc63bfe56cee62ccb79ee91b21c575bdc245e2844f34750453972471134655973a40f4e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/furi_hal/furi_hal_idle_timer.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/furi_hal/furi_hal_idle_timer.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/furi\_hal/furi\_hal\_idle\_timer.h Source File
-========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/furi\_hal/furi\_hal\_idle\_timer.h Source File
+============================================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::c07ad1e4d25cf018745466321644da3e0f145698def2e88ee741adaec1fab4aff127c4a5f02b6d5237e590ca4e7a8b506697cc7138ab6053c6d3e7523a3d7345
+.. meta::362261a5070689f5cbefe0ed6a58a172d8010294e31c9561e7fe43c31236b8a3095714e1e3f6e266f460473cd2db27a6276ab20906771b9de1cb4463dac4d88a
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/debug/battery_test_app Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/debug/battery_test_app Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/debug/battery\_test\_app Directory Reference
-===============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/debug/battery\_test\_app Directory Reference
+===================================================================================================
 
 .. container:: doxygen-content
 

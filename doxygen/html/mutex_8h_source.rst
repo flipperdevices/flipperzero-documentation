@@ -1,11 +1,11 @@
-.. meta::4b4004c1a48ab109f1d45e331cad7db6aca9e9638b8f8044257a4b055a838ad1a9b8d569eca612af5515773e2ff0442eaef6c17d399575e2de43ea1ee5dd28d6
+.. meta::317d6449c0ada7ea7c00071b4d9cde74453f5cfa45d306aa2e032641d7b2f5e67166ab3c67500df53e9b9727a2ccf0da0044deffbdb34ecb6d7f70ccacb9bc94
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/furi/core/mutex.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/furi/core/mutex.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/furi/core/mutex.h Source File
-===================================================================
+/Users/astrr/flipper/flipperzero-firmware/furi/core/mutex.h Source File
+=======================================================================
 
 .. container:: doxygen-content
 

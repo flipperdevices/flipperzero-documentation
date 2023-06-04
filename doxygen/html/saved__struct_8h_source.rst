@@ -1,11 +1,11 @@
-.. meta::3d59c3ea765dda9c92714116442fdc07f88668658514ac01b0c341b07092772fe1aaae64557bab0e6c45733eb2a92dd6ff52098f4384c1ef66aad7646ec55d0e
+.. meta::4cb5f884b559a05cd1dd5033403c4f331a7cfb01bb5aa9d03921c9f4db20e3d2e6556908962c58092d0171e5b6f29984e9384a7cc3c2e37ebbc67c2d78c3a705
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/toolbox/saved_struct.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/toolbox/saved_struct.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/toolbox/saved\_struct.h Source File
-=============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/toolbox/saved\_struct.h Source File
+=================================================================================
 
 .. container:: doxygen-content
 

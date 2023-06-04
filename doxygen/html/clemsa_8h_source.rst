@@ -1,11 +1,11 @@
-.. meta::71c8b475f95bf9f18e0d5a525676f924e6d2e517bc6532af8d734717fb6a03d57107c6af937dd4745e6f607c329fd168d7ba1d9373f89246f0536aa5e70cc549
+.. meta::795f7164480811fa2af4433f23cd5e2d96662740b6165fa4df0e9f79834a7a95480a32608403ef951d232acb298b640642ba39e64c99be024086cab63df13799
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/clemsa.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/clemsa.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/clemsa.h Source File
-===============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/clemsa.h Source File
+===================================================================================
 
 .. container:: doxygen-content
 

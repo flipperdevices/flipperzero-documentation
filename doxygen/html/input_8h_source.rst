@@ -1,11 +1,11 @@
-.. meta::cc968aea8e01eb3ebb9c7268636d9218824d11b4729b1e4276134f3107c62c74b8c645fb8aca893dd1bda1a50d9f87c76255ebb4373e5b2f442466d7159f605e
+.. meta::1745eb1d1de557b22813eab778689e34b3a503e2d2605c5e447d9afd7f86bf271e915777d1b2d2843357e4dca336c468488a6c167fec78184669af4ac1db5b71
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/input/input.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/input/input.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/input/input.h Source File
-=====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/input/input.h Source File
+=========================================================================================
 
 .. container:: doxygen-content
 

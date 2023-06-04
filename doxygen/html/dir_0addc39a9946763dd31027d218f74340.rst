@@ -1,11 +1,11 @@
-.. meta::8101c8092cf09102aa2ac6339033ed62ede4b8aa1654bbec5f83507a0e8469eea2350c3ecd6a34f98718d519813eee3aa9836cbe61a2b76e4f2133c2cd53040e
+.. meta::bc77e425b9aa5e20fa1a5e985c4b34dc0af2f35b2de3362c6a9d60b3d2c9fa6de2dea22af655f7c82fe8a5d33046c084ae07dd6c49a4ba429debba771ed89575
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/system/storage_move_to_sd/scenes Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/system/storage_move_to_sd/scenes Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/system/storage\_move\_to\_sd/scenes Directory Reference
-==========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/system/storage\_move\_to\_sd/scenes Directory Reference
+==============================================================================================================
 
 .. container:: doxygen-content
 

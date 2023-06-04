@@ -1,11 +1,11 @@
-.. meta::47eff5225b2560fd5e1af2883af89ccdeebf6819201f7f7655701948b029b8805d478fb90b9b60becec799a3109ac224456ced8cf22dd8c7ceec43c986d70beb
+.. meta::1592733418ae878f69f34659ac85965df2a335e0bbe35c1e1b79ecad7add4e5c20c6fb10d48cff3b522edb5cb98f99cd313691ee31f2ec14dede3bc25d1573da
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/drivers/cc1101.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/drivers/cc1101.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/drivers/cc1101.h Source File
-======================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/drivers/cc1101.h Source File
+==========================================================================
 
 .. container:: doxygen-content
 

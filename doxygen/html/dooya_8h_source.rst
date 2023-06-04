@@ -1,11 +1,11 @@
-.. meta::164d98da4bc24e41457360510032ad17f4a86788f481e7c24c756e7c6ea8625fe66cf361a457715cb1bee0189317761df583a2aeb637e295f7b3a06f4d7cad17
+.. meta::d6bdd3f25b2112fe2735309d3c8ca34c7525508800a49dbdefa3e02e09b823ed13b25affc2f2e8e6ac644669e95d9ee98fd17f57af72a615f941a5114ed37f0c
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/dooya.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/dooya.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/dooya.h Source File
-==============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/dooya.h Source File
+==================================================================================
 
 .. container:: doxygen-content
 

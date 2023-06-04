@@ -1,11 +1,11 @@
-.. meta::5a405bde12af31e1451d169b3c1945a8097533f58a3c1d4c1a802e7b542e97ddff46b0103680a35e97e38e6077e40adad7e5444a48416d5fbd53fadc9033245b
+.. meta::50241014b5908aa413524c815575c98a1268a318d150f4f3326f9f0cd566c251be972f004001fda669fd0df5cd50379ee2252634f2279887c0d6346250972208
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/linear.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/linear.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/linear.h Source File
-===============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/linear.h Source File
+===================================================================================
 
 .. container:: doxygen-content
 

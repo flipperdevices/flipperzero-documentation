@@ -1,11 +1,11 @@
-.. meta::8b138167c6e9c6d570f6a81edbd48c46a6f9a523444929fb1ceed61438f96848c4cf860d55f0f4120923c409c55b7fd59cbcba98f19746a67d66b917d59a1189
+.. meta::ab12b2fab92c09e31979f231c1d45e82b739b72766fe7d2947eed9f92b3e7762c68a368b9ec8db35a1f6e67a7263735d9021d53b9721363dc32b696d655b6eb6
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/infrared/encoder_decoder/rc6 Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/infrared/encoder_decoder/rc6 Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/infrared/encoder\_decoder/rc6 Directory Reference
-===========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/infrared/encoder\_decoder/rc6 Directory Reference
+===============================================================================================
 
 .. container:: doxygen-content
 

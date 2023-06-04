@@ -1,11 +1,11 @@
-.. meta::42243f18894dae88e88f4469b80f8a5f6836f6453d84dfbe7aedc1ff8105a17b68bb68f572c1b0e0e615728381d2ada426c8b0434dd5db06bfc6813313b38cc3
+.. meta::d0e4550f1471ff30d61970c8a7103c4ed5741f9974a331733f138a1ff1c9bf107abd08d75d27dd5312f455c610bef782bd93b9aa5571857d091f85b4b553d6fe
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/smc5326.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/smc5326.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/smc5326.h Source File
-================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/smc5326.h Source File
+====================================================================================
 
 .. container:: doxygen-content
 

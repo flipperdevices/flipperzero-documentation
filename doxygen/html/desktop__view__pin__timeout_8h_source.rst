@@ -1,11 +1,11 @@
-.. meta::e09a4f9cc2aa4f2211fb18dfb285febda18a05c7cd9aeef95c503d3f00e9e25f274a40e2ea7e34ed8403a030b8b05f72532913b1c04ce19a088c0acf9ec44e07
+.. meta::58126301a79710bd87825bc2527578f583ab46f31a6e5f501f111cba3a7045d7dd126f14e4e0903424171ab72034a60e01a9e6c10972cc8e1aad1c6b5a8afa1b
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/views/desktop_view_pin_timeout.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/views/desktop_view_pin_timeout.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/views/desktop\_view\_pin\_timeout.h Source File
-===================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/views/desktop\_view\_pin\_timeout.h Source File
+=======================================================================================================================
 
 .. container:: doxygen-content
 

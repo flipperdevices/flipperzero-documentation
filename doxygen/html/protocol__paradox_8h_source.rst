@@ -1,11 +1,11 @@
-.. meta::589fd93e3ae9bf10c98f133026cfd7336aa1235a69f36d10a9889a6cbc0abd5739f3ac287ba4b9745be9885376bd743cd10bf036661d384cfd51b2c9a84c6a1c
+.. meta::0c3fbee13a63a40b21fed26467b49786fadb2b8cd999f74e117de183c941ac82a073112f6d9df0df3fe65ebe17a13b90d44010eb6dec5a08a4e8790e3be06ff6
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol_paradox.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol_paradox.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol\_paradox.h Source File
-==========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol\_paradox.h Source File
+==============================================================================================
 
 .. container:: doxygen-content
 

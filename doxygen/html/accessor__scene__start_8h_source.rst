@@ -1,11 +1,11 @@
-.. meta::6a8357eb1d2663b59fed5aec6d5d2b102b3ad75350624faecd9606bd8ebae0cf99ca95f5c12f57b9ab4f0585afe47d573f9b907ccb2b7468c7e5a924a1817edc
+.. meta::ef7785ece6bcfe65828028523ce445dc52793e9ce6658d497335d8045bfa9e6affdab6487f6f26486c6bc2b8ab6d6fcc386712e1d517b562e6784b1e0f3c93fe
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/debug/accessor/scene/accessor_scene_start.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/debug/accessor/scene/accessor_scene_start.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/debug/accessor/scene/accessor\_scene\_start.h Source File
-============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/debug/accessor/scene/accessor\_scene\_start.h Source File
+================================================================================================================
 
 .. container:: doxygen-content
 

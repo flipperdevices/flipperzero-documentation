@@ -1,11 +1,11 @@
-.. meta::ac7cb090cdb7bb19bb47467ae07542c79f08072c1b79d3f50e6792daef66e24b0ff7f4fd69ae26a3620929c7f63383d96e6ed9bdfb1dc03665bde7fde264f250
+.. meta::34c78b94e72e1473d0576f674284e78f05456996af95a88253315cc984565de03ae03537cb03af33753a5cc73d555182ae6767df6f88e18dff5e6b718d72e672
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/system/storage_move_to_sd/storage_move_to_sd.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/system/storage_move_to_sd/storage_move_to_sd.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/system/storage\_move\_to\_sd/storage\_move\_to\_sd.h Source File
-===================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/system/storage\_move\_to\_sd/storage\_move\_to\_sd.h Source File
+=======================================================================================================================
 
 .. container:: doxygen-content
 

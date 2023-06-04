@@ -1,11 +1,11 @@
-.. meta::c701a035d5a0624d0396d791e2909a5bac5c583c0a64b2fde38066e595611c79301f5500843f0a392a805cd9d7704244a00f8687435e2ee1185bef5633334c8c
+.. meta::0cb501784487d968be5878664e656833c131d9ddefce947e243b71212242fa61b36dc4efb7198ab6a79fee2f033898c94685d70e16e93b541c1148c16217a945
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/princeton.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/princeton.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/princeton.h Source File
-==================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/princeton.h Source File
+======================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::c75741935a8938732c0367bb7718685b70c61d63b019dad56cf003b5740cb2592ae61c4fad28c462e1b972ac3da1d41118b2230a119d9573b2244f51278e7b92
+.. meta::2c836c41e8d51b6493de529a2baf1abaf6574ce6b5eb7443c990ebd5dc6a33f256fa9fe68dcaf837da36239815395564f8253ea8d98eee03e27d4ad04ad115ca
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/subghz/helpers/subghz_frequency_analyzer_worker.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/subghz/helpers/subghz_frequency_analyzer_worker.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/subghz/helpers/subghz\_frequency\_analyzer\_worker.h Source File
-========================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/subghz/helpers/subghz\_frequency\_analyzer\_worker.h Source File
+============================================================================================================================
 
 .. container:: doxygen-content
 

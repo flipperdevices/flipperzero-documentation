@@ -1,11 +1,11 @@
-.. meta::c0b26819a796276cfeebb34312aeb893458a81bca681bc96eba8fd04e259a6cf1647f0bea5ec76d0d95d4fc233c78b09794b3daaf0289c8e91966f4bf2c9f026
+.. meta::3575f7b212b04133e9c0769f4c7b051a2737031e4d3ec182856b62ab87c4ab58cf7bf47de7d096a2d7514b5a16f405cd0a3d8dc22ffdda55b00d912cf658ee56
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/one_wire Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/one_wire Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/one\_wire Directory Reference
-=======================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/one\_wire Directory Reference
+===========================================================================
 
 .. container:: doxygen-content
 

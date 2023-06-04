@@ -1,11 +1,11 @@
-.. meta::f30072633a8e12d04eab47aeadaa622c5885bd8e886e967429a364b007e287aef1e2f8c630325f7df36da004e902c7758f1d4f141a01436196f30f97ffbda89c
+.. meta::0292cd62eddd791cf8b95cf56bc64d08e52976e3899c1d50109176246175aa8f9134185407439430fe73fb9e3db2ffe2c5d7697da2ce3b62eaf08e6e5322d744
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/flipper_application/plugins/composite_resolver.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/flipper_application/plugins/composite_resolver.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/flipper\_application/plugins/composite\_resolver.h Source File
-========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/flipper\_application/plugins/composite\_resolver.h Source File
+============================================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::e0b809580b9b226fac886c4e5a35391dbc6d76a2d233ef5224dc4a347374ab24c90c0c4d2656db6e4f940d3628b44d2e3dfee5c71ea4816193275e96f7aa1809
+.. meta::c2477c899e1bacce29cb743ef37acbb6f2b688aa4c67a73a5570ac139f0e5da809d405e34189dc8d801426850acac2aad4b0610977002a27bc67310d0ee4ff30
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/furi/core/semaphore.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/furi/core/semaphore.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/furi/core/semaphore.h File Reference
-==========================================================================
+/Users/astrr/flipper/flipperzero-firmware/furi/core/semaphore.h File Reference
+==============================================================================
 
 .. container:: doxygen-content
 

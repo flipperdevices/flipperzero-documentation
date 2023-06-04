@@ -1,11 +1,11 @@
-.. meta::1ab3d735452b8691615f811e7c4db29948eb3457bffdea4509ac79129244665e8a9ee766309d05c410e45a6fe94ef7fdf2fc9a238e0b82c452d4dffa26fc9a4c
+.. meta::4a1bca372faa8aa9209384c54b2782e4ed40a5478c82f081ea8aa494b78a8541fd95ccefd4b491be888ebde9dd2300fd220d463b4a37d3d01f39ef5da9687a87
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/view_port.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/view_port.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/view\_port.h Source File
-========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/view\_port.h Source File
+============================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::e2333e68861db4f90b0deb89e9d47c08c6bca5c3392f8d164a66b97a1be8105d33a37d4bed05ddd55449dfe97f4aeacfdd944b5ad6e1fed64ce2699cd45190ea
+.. meta::b1511f0350644782c797dacd96a071aeed75daca0a0284b5d6ef821c8de11d72e0085ac6787a9aba589bcebd8482ef5126229dd8143b492f893b0bfa3823680e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/weather_station/protocols/lacrosse_tx141thbv2.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/weather_station/protocols/lacrosse_tx141thbv2.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/weather\_station/protocols/lacrosse\_tx141thbv2.h Source File
-=========================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/weather\_station/protocols/lacrosse\_tx141thbv2.h Source File
+=============================================================================================================================
 
 .. container:: doxygen-content
 

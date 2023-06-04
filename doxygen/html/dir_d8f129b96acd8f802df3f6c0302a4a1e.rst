@@ -1,11 +1,11 @@
-.. meta::f033e571b0aa88cdcd6fd6673b4f7126f6b846e1b08e702516a61197d5ddc9d291773c943e9686369f581e65d58ee44e23530280f5205034395a3de76fd59211
+.. meta::5155f5f1bf0c732937c598e7b315bdc57b8d5dff403caf323ce7a78d26b3d005e2389fb2e21fe3111c49544d1e41a443dbc67fd31b0a478bbcbedd6b66593a45
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/heatshrink Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/heatshrink Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/heatshrink Directory Reference
-========================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/heatshrink Directory Reference
+============================================================================
 
 .. container:: doxygen-content
 

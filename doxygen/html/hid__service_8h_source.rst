@@ -1,11 +1,11 @@
-.. meta::d16dea21fc74367c43d5781889d31b792d4cb6ee6971caab678c1a64a33052dc29199bfc5b459d6ce144d22fa94ac2f1c3a9c9395c75709a68247788ef48120d
+.. meta::427707b34e9a1b959353ee823db74a6f6b6c0565d0d2f39a3425daaeb6a6bac6b85a0ed63b031ade8b265285319377af785ad059a9a6cb17a20647758ab56fcb
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/ble_glue/hid_service.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/ble_glue/hid_service.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/ble\_glue/hid\_service.h Source File
-==============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/ble\_glue/hid\_service.h Source File
+==================================================================================================
 
 .. container:: doxygen-content
 
