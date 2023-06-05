@@ -13,6 +13,7 @@ To use `fbt`, you only need `git` installed in your system.
  > However, if you wish to use tools supplied with the toolchain outside `fbt`, you can open an *fbt shell*, with properly configured environment.
  >    - On Windows, simply run `scripts/toolchain/fbtenv.cmd`.
  >    - On Linux & MacOS, run `source scripts/toolchain/fbtenv.sh` in a new shell.
+ >    - You can also type ```. `./fbt -s env` ``` in your shell. (Keep  the "." at the beginning.)
  
  If your system is not supported by pre-built toolchain variants or you want to use custom versions of dependencies, you can `set FBT_NOENV=1`. `fbt` will skip toolchain & environment configuration and will expect all tools to be available on your system's `PATH`. *(this option is not available on Windows)*
  
@@ -55,7 +56,7 @@ To run cleanup (think of `make clean`) for specified targets, add the `-c` optio
 
 ## FBT targets
 
-`fbt` keeps track of internal dependencies, so you only need to build the highest-level target you need, and `fbt` will make sure everything they depend on is up-to-date.
+**`fbt`** keeps track of internal dependencies, so you only need to build the highest-level target you need, and **`fbt`** will make sure everything they depend on is up-to-date.
 
 ### High-level (what you most likely need)
 
@@ -80,7 +81,7 @@ To run cleanup (think of `make clean`) for specified targets, add the `-c` optio
 ### Firmware targets
 
 - `faps` - build all external & plugin apps as [`.faps`](./AppsOnSDCard.md#fap-flipper-application-package).
-- `fbt` also defines per-app targets. For example, for an app with `appid=snake_game` target names are:
+- **`fbt`** also defines per-app targets. For example, for an app with `appid=snake_game` target names are:
   - `fap_snake_game`, etc. - build single app as `.fap` by its application ID.
   - Check out [`--extra-ext-apps`](#command-line-parameters) for force adding extra apps to external build.
   - `fap_snake_game_list`, etc - generate source + assembler listing for app's `.fap`.
@@ -112,6 +113,8 @@ To run cleanup (think of `make clean`) for specified targets, add the `-c` optio
 
 Default configuration variables are set in the configuration file: `fbt_options.py`.
 Values set in the command line have higher precedence over the configuration file.
+
+You can also create a file called `fbt_options_local.py` that will be evaluated when loading default options file, enabling persisent overriding of  default options without modifying default configuration.
 
 You can find out available options with `./fbt -h`.
 
