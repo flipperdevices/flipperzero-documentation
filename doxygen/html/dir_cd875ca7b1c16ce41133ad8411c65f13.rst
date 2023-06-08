@@ -1,11 +1,11 @@
-.. meta::1f97e70011771afd3d2c7119de1d351cc4d44f00c9b74886bc167e4c6bb79baa1330f54efe8e490eea2aed63c68aabfc71532217925051759ed80863c9bb133e
+.. meta::a579c8942749115b89ee6f49e7447a94f9c3b6da5e7d70009ad51a02c154fea100b5f85bfce6ea85d361795e5ac95697c57a4dd63946324eaf6d5e30585020be
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/debug/rpc_debug_app Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/debug/rpc_debug_app Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/debug/rpc\_debug\_app Directory Reference
-============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/debug/rpc\_debug\_app Directory Reference
+================================================================================================
 
 .. container:: doxygen-content
 

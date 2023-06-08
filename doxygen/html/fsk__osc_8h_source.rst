@@ -1,11 +1,11 @@
-.. meta::edb39388946be7ccd4b981fd5343c08335f5f8a553e22f10edec71c55934863891bc43c4f9425a13521b5741cb2f7ff7a9c2735a8c3e03117d52b492ec13052d
+.. meta::4b57b950b79280af3c13f3818df7bd66f5ef937b3591c18c688f73647bd464f14595f40f5201647946c4b1fed13770bd21f7022a2674aada16c95ddd4a6c27fd
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/tools/fsk_osc.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/tools/fsk_osc.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/tools/fsk\_osc.h Source File
-=============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/tools/fsk\_osc.h Source File
+=================================================================================
 
 .. container:: doxygen-content
 

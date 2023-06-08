@@ -1,11 +1,11 @@
-.. meta::40f04a44e17692e681d32c0da5fbab5d62ae50297cd1a397e3c2bbccb94ee3a046764800d9b7f71485ee006a4c3161b87208aa59241a1a29708e4c5ed7e1de37
+.. meta::56bb4b44e09bcec8c02be94d10bc8f94bed06264c1762c46b9ad7bae966f41614abd94851f9bf541d4630ee914f6b3014542ff5f89c13a589bbf8a06420acbd8
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/loader/firmware_api/firmware_api.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/loader/firmware_api/firmware_api.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/loader/firmware\_api/firmware\_api.h Source File
-============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/loader/firmware\_api/firmware\_api.h Source File
+================================================================================================================
 
 .. container:: doxygen-content
 

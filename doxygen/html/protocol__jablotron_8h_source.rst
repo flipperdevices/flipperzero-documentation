@@ -1,11 +1,11 @@
-.. meta::e89f71e26333710090dd3447271013268c23d49717bd328286c476c291b6a8ef5a37c602c5097bf6b68cea3032522ae5a65acb8335f919c90047171860f9facc
+.. meta::62ae935c4f887cb52658c9e4df1f20ffe9db62f6c1230b46d9a4d39b366e1f1cc5befce9483ccbf685fa45bba8249d794835d0a0bc0fa49d9e276c9021d20385
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol_jablotron.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol_jablotron.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol\_jablotron.h Source File
-============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol\_jablotron.h Source File
+================================================================================================
 
 .. container:: doxygen-content
 

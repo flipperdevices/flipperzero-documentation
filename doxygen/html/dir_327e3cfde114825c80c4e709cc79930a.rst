@@ -1,11 +1,11 @@
-.. meta::ad75c91c1ad56fc8ceac240758b2000f269282361dcd72879692c365b5d51f6d7d6759892f17ab4fc739e72ce0f288f39a6827aaf3d249a9e83a0b84198534ff
+.. meta::33a86e43e0349d4037b6f33d7dd083bba3465bb85a508f2cd5b1f2f97c00ba5beaeb0c54a4d60ec81a2bcf42b16cc9f7bfb2f5f230ca6bc68d0f6ac7ac9c4b33
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/infrared/worker Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/infrared/worker Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/infrared/worker Directory Reference
-=============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/infrared/worker Directory Reference
+=================================================================================
 
 .. container:: doxygen-content
 

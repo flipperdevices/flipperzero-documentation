@@ -1,11 +1,11 @@
-.. meta::010f7ff6a9d0312108c21634506813115b5971c85b6c3231f3106b1e76f5e572d1dc986a9790605549a6cd0e7ae0428b217f9e1ee60e6ab6ab01776f271683da
+.. meta::c010d5247983fbb147ba34046d46daec95edaca4a7a444f08770bb3117ee30af33c0250a55586fe0a5497c30618d46e52b53fb1d1db0a57c48b0f7cdf8c95ec9
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/toolbox/random_name.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/toolbox/random_name.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/toolbox/random\_name.h Source File
-============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/toolbox/random\_name.h Source File
+================================================================================
 
 .. container:: doxygen-content
 

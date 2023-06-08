@@ -1,11 +1,11 @@
-.. meta::a1f649469c3b998236a6e3e4dea97d82fdbabe2c3c24003fa1e4b102946fb228cd8755c2cd6055690448084d33c14fe1e04da0a81bfa4c257f1dc90108eac4c4
+.. meta::167f4f05a13dca30028dffc7a91ba1cba3f0b1da482ea380216952f38e9a04981145c7aa7b104a6951cd7b7a486f9d20fc57f6ff6e7b8a0ac23dd17e09946799
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/drivers/bq25896_reg.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/drivers/bq25896_reg.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/drivers/bq25896\_reg.h Source File
-============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/drivers/bq25896\_reg.h Source File
+================================================================================
 
 .. container:: doxygen-content
 

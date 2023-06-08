@@ -1,11 +1,11 @@
-.. meta::a5ad59adb3f8eaf3f0648c2c2dc82554159f50c9c290520752becfde74db58cdd0377a0c29df4ddddb5bef82eb5ecce1b47236a24d2a5d95dc8b145303f75143
+.. meta::5e9bea5e1a3b0ee5f351da6ccd3bbe4f2584cb828cde9b7b604d227a1e8f8ce14a3a2027f4f2a38efaed51023d6430843fffd1fc519e01d9ae2a9ee7e890558a
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/digital_signal/digital_signal.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/digital_signal/digital_signal.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/digital\_signal/digital\_signal.h Source File
-=======================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/digital\_signal/digital\_signal.h Source File
+===========================================================================================
 
 .. container:: doxygen-content
 

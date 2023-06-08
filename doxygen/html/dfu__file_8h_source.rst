@@ -1,11 +1,11 @@
-.. meta::cd190e1d51477f80d67440a5b6a0cbf6203ecd043f678ea5b8180285ff06888d2a5fa34c29395f12a6658129504a388781c195a7af13ff534e8c41c9912abd7d
+.. meta::b856c758283a089eba5a33b1dc8c29bc295ff80e87fafee4b47d65c008b83e229d34875aaaed37b9163732dc091c05eb022a0f4ab6e9b09e62b56a072f5f1c8a
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/update_util/dfu_file.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/update_util/dfu_file.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/update\_util/dfu\_file.h Source File
-==============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/update\_util/dfu\_file.h Source File
+==================================================================================
 
 .. container:: doxygen-content
 

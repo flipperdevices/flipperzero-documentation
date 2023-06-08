@@ -1,11 +1,11 @@
-.. meta::562057c39af512a450a5c5b3d09727ee9a2aae195e8904be76f2f3a81807c32a6d23a60c8a2963a258a41d3c76d13d8d7c7ad94a7bf865544dd27b7a0955e2ee
+.. meta::0417b4284270ce2f9647e472763a2aebb0f01254f7cbcbac42817603020de9e5991bf3ba983d7b92c1c7fffa71d61f468cf53cc012ef2f0d6690f4067c9fc981
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/gate_tx.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/gate_tx.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/gate\_tx.h Source File
-=================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/gate\_tx.h Source File
+=====================================================================================
 
 .. container:: doxygen-content
 

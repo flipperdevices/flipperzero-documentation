@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/desktop_settings.h Source File</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/desktop_settings.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -57,7 +57,7 @@ $(function() {
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="preprocessor">#include &lt;toolbox/saved_struct.h&gt;</span></div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="preprocessor">#include &lt;storage/storage.h&gt;</span></div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span> </div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="preprocessor">#define DESKTOP_SETTINGS_VER (6)</span></div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="preprocessor">#define DESKTOP_SETTINGS_VER (7)</span></div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span> </div>
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="preprocessor">#define DESKTOP_SETTINGS_PATH INT_PATH(DESKTOP_SETTINGS_FILE_NAME)</span></div>
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="preprocessor">#define DESKTOP_SETTINGS_MAGIC (0x17)</span></div>
@@ -85,30 +85,27 @@ $(function() {
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span><span class="preprocessor">#define MIN_PIN_SIZE 4</span></div>
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span><span class="preprocessor">#define MAX_APP_LENGTH 128</span></div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span><span class="preprocessor">#define FAP_LOADER_APP_NAME &quot;Applications&quot;</span></div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span> </div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno"><a class="line" href="struct_pin_code.html">   41</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    InputKey data[MAX_PIN_SIZE];</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>    uint8_t length;</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>} <a class="code hl_struct" href="struct_pin_code.html">PinCode</a>;</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno"><a class="line" href="struct_favorite_app.html">   46</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>    <span class="keywordtype">bool</span> is_external;</div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>    <span class="keywordtype">char</span> name_or_path[MAX_APP_LENGTH];</div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>} <a class="code hl_struct" href="struct_favorite_app.html">FavoriteApp</a>;</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span> </div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno"><a class="line" href="struct_desktop_settings.html">   51</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    <a class="code hl_struct" href="struct_favorite_app.html">FavoriteApp</a> favorite_primary;</div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <a class="code hl_struct" href="struct_favorite_app.html">FavoriteApp</a> favorite_secondary;</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>    <a class="code hl_struct" href="struct_pin_code.html">PinCode</a> pin_code;</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>    uint8_t is_locked;</div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>    uint32_t auto_lock_delay_ms;</div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>    uint8_t dummy_mode;</div>
-<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>} <a class="code hl_struct" href="struct_desktop_settings.html">DesktopSettings</a>;</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno"><a class="line" href="struct_pin_code.html">   39</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    InputKey data[MAX_PIN_SIZE];</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    uint8_t length;</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>} <a class="code hl_struct" href="struct_pin_code.html">PinCode</a>;</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno"><a class="line" href="struct_favorite_app.html">   44</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    <span class="keywordtype">bool</span> is_external;</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    <span class="keywordtype">char</span> name_or_path[MAX_APP_LENGTH];</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>} <a class="code hl_struct" href="struct_favorite_app.html">FavoriteApp</a>;</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span> </div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno"><a class="line" href="struct_desktop_settings.html">   49</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    <a class="code hl_struct" href="struct_favorite_app.html">FavoriteApp</a> favorite_primary;</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    <a class="code hl_struct" href="struct_favorite_app.html">FavoriteApp</a> favorite_secondary;</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    <a class="code hl_struct" href="struct_pin_code.html">PinCode</a> pin_code;</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    uint32_t auto_lock_delay_ms;</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>    uint8_t dummy_mode;</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>} <a class="code hl_struct" href="struct_desktop_settings.html">DesktopSettings</a>;</div>
 <div class="ttc" id="afuri__hal_8h_html"><div class="ttname"><a href="furi__hal_8h.html">furi_hal.h</a></div><div class="ttdoc">Furi HAL API.</div></div>
-<div class="ttc" id="astruct_desktop_settings_html"><div class="ttname"><a href="struct_desktop_settings.html">DesktopSettings</a></div><div class="ttdef"><b>Definition:</b> desktop_settings.h:51</div></div>
-<div class="ttc" id="astruct_favorite_app_html"><div class="ttname"><a href="struct_favorite_app.html">FavoriteApp</a></div><div class="ttdef"><b>Definition:</b> desktop_settings.h:46</div></div>
-<div class="ttc" id="astruct_pin_code_html"><div class="ttname"><a href="struct_pin_code.html">PinCode</a></div><div class="ttdef"><b>Definition:</b> desktop_settings.h:41</div></div>
+<div class="ttc" id="astruct_desktop_settings_html"><div class="ttname"><a href="struct_desktop_settings.html">DesktopSettings</a></div><div class="ttdef"><b>Definition:</b> desktop_settings.h:49</div></div>
+<div class="ttc" id="astruct_favorite_app_html"><div class="ttname"><a href="struct_favorite_app.html">FavoriteApp</a></div><div class="ttdef"><b>Definition:</b> desktop_settings.h:44</div></div>
+<div class="ttc" id="astruct_pin_code_html"><div class="ttname"><a href="struct_pin_code.html">PinCode</a></div><div class="ttdef"><b>Definition:</b> desktop_settings.h:39</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

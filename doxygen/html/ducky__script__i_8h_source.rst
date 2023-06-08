@@ -1,11 +1,11 @@
-.. meta::bc2d72d13433af0aca216b2089441a5ee2efde46cf11446a8205edb73eac75333dc2c845f15893640dd3e0fc9bb87ded0b2303610afa209877241821c2857447
+.. meta::93c77ff7d7d1334493e4e3b383144b5a8a9fff1827fff0333ba71b3151106d0c3b91014827af52f81fab8fa9a493dbd3abf057e4c05554eeec3b57f33b4cd69e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/bad_usb/helpers/ducky_script_i.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/bad_usb/helpers/ducky_script_i.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/bad\_usb/helpers/ducky\_script\_i.h Source File
-=======================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/bad\_usb/helpers/ducky\_script\_i.h Source File
+===========================================================================================================
 
 .. container:: doxygen-content
 

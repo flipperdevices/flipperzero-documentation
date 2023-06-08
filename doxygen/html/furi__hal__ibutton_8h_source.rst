@@ -1,11 +1,11 @@
-.. meta::b630bcde640e4e224df7f68b8bf94e758d623a7900f09ed712a1153f1b67e89e77f01f9f8e7ed1d0405eba63592054d90bb945c68748dd1a02f76e7017a0aedd
+.. meta::bac6fcf6f1cfab3706aca27fa6f836044e3e8be4f9361129ab5cb2ef078ac79d79d0709387092d7c8209c82ed618970d5765867c9ce0469ea2608d80f988ec32
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/furi_hal/furi_hal_ibutton.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/furi_hal/furi_hal_ibutton.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/furi\_hal/furi\_hal\_ibutton.h Source File
-====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/furi\_hal/furi\_hal\_ibutton.h Source File
+========================================================================================================
 
 .. container:: doxygen-content
 

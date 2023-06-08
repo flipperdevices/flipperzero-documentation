@@ -1,11 +1,11 @@
-.. meta::342301dc0ad123ca633ca4aea70a7f96eccc6f84f08eb4996db8b827ed05a80e608a41dbb4e81e8b3c86450e4d192db4f8225a2a50431664b8c661b3ec957d70
+.. meta::29e3272e4237abfe4f2e61bef74d26f4aec4f336af3b23427483293117bedf611b9bbfb6a3db9dda26a1c05e052f04e3b721ac3f9f8012f436f58ea0d80c200a
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/flipper_application/elf/elf_file.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/flipper_application/elf/elf_file.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/flipper\_application/elf/elf\_file.h File Reference
-=============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/flipper\_application/elf/elf\_file.h File Reference
+=================================================================================================
 
 .. container:: doxygen-content
 

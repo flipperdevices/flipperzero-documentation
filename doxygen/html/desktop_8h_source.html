@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/desktop.h Source File</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/desktop.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -49,8 +49,24 @@ $(function() {
 <div class="contents">
 <div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="preprocessor">#pragma once</span></div>
 <div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span> </div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">typedef</span> <span class="keyword">struct </span><a class="code hl_struct" href="struct_desktop.html">Desktop</a> <a class="code hl_struct" href="struct_desktop.html">Desktop</a>;</div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="preprocessor">#include &lt;furi.h&gt;</span></div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span> </div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">typedef</span> <span class="keyword">struct </span><a class="code hl_struct" href="struct_desktop.html">Desktop</a> <a class="code hl_struct" href="struct_desktop.html">Desktop</a>;</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span> </div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#define RECORD_DESKTOP &quot;desktop&quot;</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span> </div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keywordtype">bool</span> desktop_api_is_locked(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* instance);</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span> </div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="keywordtype">void</span> desktop_api_unlock(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* instance);</div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span> </div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno"><a class="line" href="struct_desktop_status.html">   13</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    <span class="keywordtype">bool</span> locked;</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>} <a class="code hl_struct" href="struct_desktop_status.html">DesktopStatus</a>;</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span> </div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><a class="code hl_struct" href="struct_furi_pub_sub.html">FuriPubSub</a>* desktop_api_get_status_pubsub(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* instance);</div>
 <div class="ttc" id="astruct_desktop_html"><div class="ttname"><a href="struct_desktop.html">Desktop</a></div><div class="ttdef"><b>Definition:</b> desktop_i.h:38</div></div>
+<div class="ttc" id="astruct_desktop_status_html"><div class="ttname"><a href="struct_desktop_status.html">DesktopStatus</a></div><div class="ttdef"><b>Definition:</b> desktop.h:13</div></div>
+<div class="ttc" id="astruct_furi_pub_sub_html"><div class="ttname"><a href="struct_furi_pub_sub.html">FuriPubSub</a></div><div class="ttdef"><b>Definition:</b> pubsub.c:15</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

@@ -1,11 +1,11 @@
-.. meta::bfd44c283e96155c0d781701ca5460e16512f7990ef8d29eea8617396882afba8aa8a35d4147e30b181ef6014660ec9c47406bf5885c77e151d1a9e4386022f3
+.. meta::6d93e35ccd373e1c54b9c500dc57193d161f06a5dd2b572536f3009a5caa49a69c1fff790fca34994766b9b3fd25b4513d6803ada71942f8d6509970a5f63197
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/widget.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/widget.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/widget.h Source File
-============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/widget.h Source File
+================================================================================================
 
 .. container:: doxygen-content
 

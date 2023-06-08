@@ -1,11 +1,11 @@
-.. meta::5f691b4fa3551aa6ffdaf4e3959582cde4af77d0d5ad48216497ebb0db76b7c1273787bb56e9d0045ce37c36074bc55846dd2f4ec53056195aea30725bae8ddf
+.. meta::d27c21a04327c807a8361e858ca1729ffbde99718761cdd9bf90116d3e1281f0ab95a977601d38f5769cf0776f04b0b1f700ae5090aa5f70a1899961e0e109b3
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/debug/blink_test Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/debug/blink_test Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/debug/blink\_test Directory Reference
-========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/debug/blink\_test Directory Reference
+============================================================================================
 
 .. container:: doxygen-content
 

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/desktop_i.h Source File</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/desktop_i.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -120,16 +120,18 @@ $(function() {
 <div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>    <a class="code hl_struct" href="struct_furi_pub_sub_subscription.html">FuriPubSubSubscription</a>* input_events_subscription;</div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>    FuriTimer* auto_lock_timer;</div>
 <div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span> </div>
-<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>    <span class="keywordtype">bool</span> in_transition;</div>
-<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>};</div>
-<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span> </div>
-<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span><a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop_alloc();</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>    <a class="code hl_struct" href="struct_furi_pub_sub.html">FuriPubSub</a>* status_pubsub;</div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span> </div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>    <span class="keywordtype">bool</span> in_transition;</div>
+<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>};</div>
 <div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span> </div>
-<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span><span class="keywordtype">void</span> desktop_free(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop);</div>
-<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span><span class="keywordtype">void</span> desktop_lock(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop);</div>
-<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span><span class="keywordtype">void</span> desktop_unlock(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop);</div>
-<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span><span class="keywordtype">void</span> desktop_set_dummy_mode_state(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop, <span class="keywordtype">bool</span> enabled);</div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span><span class="keywordtype">void</span> desktop_set_stealth_mode_state(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop, <span class="keywordtype">bool</span> enabled);</div>
+<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span><a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop_alloc();</div>
+<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span> </div>
+<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span><span class="keywordtype">void</span> desktop_free(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop);</div>
+<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span><span class="keywordtype">void</span> desktop_lock(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop);</div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span><span class="keywordtype">void</span> desktop_unlock(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop);</div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span><span class="keywordtype">void</span> desktop_set_dummy_mode_state(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop, <span class="keywordtype">bool</span> enabled);</div>
+<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span><span class="keywordtype">void</span> desktop_set_stealth_mode_state(<a class="code hl_struct" href="struct_desktop.html">Desktop</a>* desktop, <span class="keywordtype">bool</span> enabled);</div>
 <div class="ttc" id="agui_8h_html"><div class="ttname"><a href="gui_8h.html">gui.h</a></div><div class="ttdoc">GUI: main API.</div></div>
 <div class="ttc" id="apopup_8h_html"><div class="ttname"><a href="popup_8h.html">popup.h</a></div><div class="ttdoc">GUI: Popup view module API.</div></div>
 <div class="ttc" id="ascene__manager_8h_html"><div class="ttname"><a href="scene__manager_8h.html">scene_manager.h</a></div><div class="ttdoc">GUI: SceneManager API.</div></div>
@@ -138,7 +140,7 @@ $(function() {
 <div class="ttc" id="astruct_desktop_html"><div class="ttname"><a href="struct_desktop.html">Desktop</a></div><div class="ttdef"><b>Definition:</b> desktop_i.h:38</div></div>
 <div class="ttc" id="astruct_desktop_lock_menu_view_html"><div class="ttname"><a href="struct_desktop_lock_menu_view.html">DesktopLockMenuView</a></div><div class="ttdef"><b>Definition:</b> desktop_view_lock_menu.h:12</div></div>
 <div class="ttc" id="astruct_desktop_main_view_html"><div class="ttname"><a href="struct_desktop_main_view.html">DesktopMainView</a></div><div class="ttdef"><b>Definition:</b> desktop_view_main.c:12</div></div>
-<div class="ttc" id="astruct_desktop_settings_html"><div class="ttname"><a href="struct_desktop_settings.html">DesktopSettings</a></div><div class="ttdef"><b>Definition:</b> desktop_settings.h:51</div></div>
+<div class="ttc" id="astruct_desktop_settings_html"><div class="ttname"><a href="struct_desktop_settings.html">DesktopSettings</a></div><div class="ttdef"><b>Definition:</b> desktop_settings.h:49</div></div>
 <div class="ttc" id="astruct_desktop_slideshow_view_html"><div class="ttname"><a href="struct_desktop_slideshow_view.html">DesktopSlideshowView</a></div><div class="ttdef"><b>Definition:</b> desktop_view_slideshow.c:13</div></div>
 <div class="ttc" id="astruct_desktop_view_locked_html"><div class="ttname"><a href="struct_desktop_view_locked.html">DesktopViewLocked</a></div><div class="ttdef"><b>Definition:</b> desktop_view_locked.c:27</div></div>
 <div class="ttc" id="astruct_desktop_view_pin_input_html"><div class="ttname"><a href="struct_desktop_view_pin_input.html">DesktopViewPinInput</a></div><div class="ttdef"><b>Definition:</b> desktop_view_pin_input.c:18</div></div>
@@ -147,8 +149,8 @@ $(function() {
 <div class="ttc" id="astruct_furi_pub_sub_subscription_html"><div class="ttname"><a href="struct_furi_pub_sub_subscription.html">FuriPubSubSubscription</a></div><div class="ttdef"><b>Definition:</b> pubsub.c:8</div></div>
 <div class="ttc" id="astruct_furi_thread_html"><div class="ttname"><a href="struct_furi_thread.html">FuriThread</a></div><div class="ttdef"><b>Definition:</b> thread.c:26</div></div>
 <div class="ttc" id="astruct_gui_html"><div class="ttname"><a href="struct_gui.html">Gui</a></div><div class="ttdoc">Gui structure.</div><div class="ttdef"><b>Definition:</b> gui_i.h:59</div></div>
-<div class="ttc" id="astruct_loader_html"><div class="ttname"><a href="struct_loader.html">Loader</a></div><div class="ttdef"><b>Definition:</b> loader_i.h:17</div></div>
-<div class="ttc" id="astruct_notification_app_html"><div class="ttname"><a href="struct_notification_app.html">NotificationApp</a></div><div class="ttdef"><b>Definition:</b> notification_app.h:47</div></div>
+<div class="ttc" id="astruct_loader_html"><div class="ttname"><a href="struct_loader.html">Loader</a></div><div class="ttdef"><b>Definition:</b> loader_i.h:14</div></div>
+<div class="ttc" id="astruct_notification_app_html"><div class="ttname"><a href="struct_notification_app.html">NotificationApp</a></div><div class="ttdef"><b>Definition:</b> notification_app.h:48</div></div>
 <div class="ttc" id="astruct_popup_html"><div class="ttname"><a href="struct_popup.html">Popup</a></div><div class="ttdef"><b>Definition:</b> popup.c:5</div></div>
 <div class="ttc" id="astruct_scene_manager_html"><div class="ttname"><a href="struct_scene_manager.html">SceneManager</a></div><div class="ttdef"><b>Definition:</b> scene_manager_i.h:17</div></div>
 <div class="ttc" id="astruct_view_dispatcher_html"><div class="ttname"><a href="struct_view_dispatcher.html">ViewDispatcher</a></div><div class="ttdef"><b>Definition:</b> view_dispatcher_i.h:17</div></div>

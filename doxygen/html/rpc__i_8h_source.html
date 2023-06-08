@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/rpc/rpc_i.h Source File</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/rpc/rpc_i.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -85,17 +85,20 @@ $(function() {
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span><span class="keywordtype">void</span> rpc_system_gpio_free(<span class="keywordtype">void</span>* ctx);</div>
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span><span class="keywordtype">void</span>* rpc_system_property_alloc(<a class="code hl_struct" href="struct_rpc_session.html">RpcSession</a>* session);</div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span><span class="keywordtype">void</span> rpc_debug_print_message(<span class="keyword">const</span> PB_Main* message);</div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span><span class="keywordtype">void</span> rpc_debug_print_data(<span class="keyword">const</span> <span class="keywordtype">char</span>* prefix, uint8_t* buffer, <span class="keywordtype">size_t</span> size);</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span><span class="keywordtype">void</span>* rpc_desktop_alloc(<a class="code hl_struct" href="struct_rpc_session.html">RpcSession</a>* session);</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span><span class="keywordtype">void</span> rpc_desktop_free(<span class="keywordtype">void</span>* ctx);</div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span> </div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span><span class="keywordtype">void</span> rpc_cli_command_start_session(<a class="code hl_typedef" href="cli_8h.html#a4cf37d4c2950c1ca0dd1d8f7e4aacee5">Cli</a>* cli, <a class="code hl_struct" href="struct_furi_string.html">FuriString</a>* args, <span class="keywordtype">void</span>* context);</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>PB_CommandStatus rpc_system_storage_get_error(FS_Error fs_error);</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span><span class="keywordtype">void</span> rpc_debug_print_message(<span class="keyword">const</span> PB_Main* message);</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span><span class="keywordtype">void</span> rpc_debug_print_data(<span class="keyword">const</span> <span class="keywordtype">char</span>* prefix, uint8_t* buffer, <span class="keywordtype">size_t</span> size);</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span> </div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span><span class="keywordtype">void</span> rpc_cli_command_start_session(<a class="code hl_typedef" href="cli_8h.html#a4cf37d4c2950c1ca0dd1d8f7e4aacee5">Cli</a>* cli, <a class="code hl_struct" href="struct_furi_string.html">FuriString</a>* args, <span class="keywordtype">void</span>* context);</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span> </div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>PB_CommandStatus rpc_system_storage_get_error(FS_Error fs_error);</div>
 <div class="ttc" id="acli_8h_html"><div class="ttname"><a href="cli_8h.html">cli.h</a></div><div class="ttdoc">Cli API.</div></div>
 <div class="ttc" id="acli_8h_html_a4cf37d4c2950c1ca0dd1d8f7e4aacee5"><div class="ttname"><a href="cli_8h.html#a4cf37d4c2950c1ca0dd1d8f7e4aacee5">Cli</a></div><div class="ttdeci">struct Cli Cli</div><div class="ttdoc">Cli type anonymous structure.</div><div class="ttdef"><b>Definition:</b> cli.h:38</div></div>
 <div class="ttc" id="astruct_furi_string_html"><div class="ttname"><a href="struct_furi_string.html">FuriString</a></div><div class="ttdef"><b>Definition:</b> string.c:4</div></div>
 <div class="ttc" id="astruct_rpc_handler_html"><div class="ttname"><a href="struct_rpc_handler.html">RpcHandler</a></div><div class="ttdef"><b>Definition:</b> rpc_i.h:14</div></div>
-<div class="ttc" id="astruct_rpc_session_html"><div class="ttname"><a href="struct_rpc_session.html">RpcSession</a></div><div class="ttdef"><b>Definition:</b> rpc.c:62</div></div>
+<div class="ttc" id="astruct_rpc_session_html"><div class="ttname"><a href="struct_rpc_session.html">RpcSession</a></div><div class="ttdef"><b>Definition:</b> rpc.c:66</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

@@ -1,11 +1,11 @@
-.. meta::930aaec77cda6a2a3cd8d0f0da82274b06b698087b5158febed0f19fff049445023ddee4534f34c64876cf865d0b5643d343653e514a6e609cd613a524fc7a89
+.. meta::9483af52c70aec97e9312536efea64de8d7bf222613bb1b0ca7ae722ab8612c65e5e9c7815244177b708f70232b4b70cb6eaba3620780b0b54fefb004ab55841
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/canvas.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/canvas.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/canvas.h Source File
-====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/canvas.h Source File
+========================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::af1489c033e99cfa991f8bce7d979a819f603efd2b60c87a5bb88b1c66634d3b9f6b2e3869159e38e4fba826ebe707bd628cc9ecc124ff4ac6864ddf9e7fe68e
+.. meta::4771502b6645c36d30a309705e62dfcff3bfc9bad8adc6f6d4bc2bd96b60cce2c1b6efeb454f9501e980f0d531ee76c2e3fbba7122b8e0e42873c41f980cc680
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/settings/desktop_settings/views/desktop_settings_view_pin_setup_howto.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/settings/desktop_settings/views/desktop_settings_view_pin_setup_howto.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/settings/desktop\_settings/views/desktop\_settings\_view\_pin\_setup\_howto.h Source File
-============================================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/settings/desktop\_settings/views/desktop\_settings\_view\_pin\_setup\_howto.h Source File
+================================================================================================================================================
 
 .. container:: doxygen-content
 

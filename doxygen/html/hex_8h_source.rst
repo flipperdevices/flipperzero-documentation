@@ -1,11 +1,11 @@
-.. meta::93f0abb81d5066c96f0b3544d852eb50a7fb757c67fb783d5462f4f49cf55b9e80489f93afa20b587a32db66b180f3f39bb24fca4f27daaee298006dc2abe49d
+.. meta::46ddafe70fe401655eb289428224f40a714ee0c4c891ead8d1629a5f926a5f915e51ac56043c5e5fd97dc4fa08849d35215d6f3ac2523162d924c016d3c0c7d6
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/toolbox/hex.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/toolbox/hex.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/toolbox/hex.h Source File
-===================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/toolbox/hex.h Source File
+=======================================================================
 
 .. container:: doxygen-content
 

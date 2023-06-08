@@ -1,11 +1,11 @@
-.. meta::ac9549dd32a16401dcbc61a5ca364eda0f49a323b24c78e08f2c600d025693a85e61374a3db04aeafb4c6a48f3f7a856e785e0ccea023aa951d695488e84d4b6
+.. meta::f8640c77370e95bc774f22b4f157525cc6041e6d7a0a376227e8e7e107c9e6ac2b062f83fc9cf6b861b441e64f6d436107dd72643db3571ac37e48f5cb6807a9
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/somfy_telis.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/somfy_telis.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/somfy\_telis.h Source File
-=====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/somfy\_telis.h Source File
+=========================================================================================
 
 .. container:: doxygen-content
 

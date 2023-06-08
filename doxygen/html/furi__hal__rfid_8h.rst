@@ -1,11 +1,11 @@
-.. meta::27322faf386b09b0f4a1f10d4731204c58d4adb77ac6f0b61465ece849ae21276fff185e2dd926fe1bcc2ef8640b1e283dc3032674a2f7685d60e6db7d906e3d
+.. meta::6de4901fc820c67e97fd33846848268ff5920af5d2aa40d298b3002673a3ca98e677648b52291cb0111252fab35c2697712b181fb4d56627c2c1526dbb70256d
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/furi_hal/furi_hal_rfid.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/furi_hal/furi_hal_rfid.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/furi\_hal/furi\_hal\_rfid.h File Reference
-====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/furi\_hal/furi\_hal\_rfid.h File Reference
+========================================================================================================
 
 .. container:: doxygen-content
 

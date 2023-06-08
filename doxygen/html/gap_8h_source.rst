@@ -1,11 +1,11 @@
-.. meta::891b95bf6495246b7f2b98b11c40477789d74ff4c82cf4cd2cdf6d31c08b8431e4f777e4fa4c78032322cb9a69ff9a8a3f9c7fd7b9192d747f205ec21644f1d3
+.. meta::3512a9937d598ee794858e25a173fe82b1a21d2cb8a340516e2178bfc5fa79667a56a9cf46627ad97c48a11176576f11765930f485d29971a26aebfbe00157d7
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/ble_glue/gap.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/ble_glue/gap.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/ble\_glue/gap.h Source File
-=====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/ble\_glue/gap.h Source File
+=========================================================================================
 
 .. container:: doxygen-content
 

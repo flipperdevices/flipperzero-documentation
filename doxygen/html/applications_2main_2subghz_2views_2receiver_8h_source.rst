@@ -1,11 +1,11 @@
-.. meta::a5f4ac0c7bbedb8b0e09df3dad723a27ea21da7190722528e9911cf5ffdab9565618896f5e85c61e75110f75883e0213521a66dba3c8ddfe17bcc78e7d2e0d67
+.. meta::e9a59e6dafbae41361724944f137d7059e8a9db9917da92960157be41e33bb3f4027c50fc4364c3aa8abd9c7321e56f62c63556c77de581394b4392180957e44
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/subghz/views/receiver.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/subghz/views/receiver.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/subghz/views/receiver.h Source File
-===========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/subghz/views/receiver.h Source File
+===============================================================================================
 
 .. container:: doxygen-content
 

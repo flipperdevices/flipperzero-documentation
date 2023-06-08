@@ -1,11 +1,11 @@
-.. meta::ad2dd3fc90383a596bf4dc2f0647b9905fd4221cc350e51ab4ca1b52ca0fe704432831b67f852a194328509337a0e2dcc5cfe1be7b186713de0856b05346d410
+.. meta::54edf973347a740b13b1c82c9bee1dd9c1b49fe9d3bc666e81cc3a5c33d86bbbfc6899f82cbee467bdff9723f8de8a9c357bda72c56b518eabc192b87955484f
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/dolphin/dolphin.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/dolphin/dolphin.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/dolphin/dolphin.h Source File
-=========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/dolphin/dolphin.h Source File
+=============================================================================================
 
 .. container:: doxygen-content
 

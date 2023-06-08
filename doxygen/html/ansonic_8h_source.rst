@@ -1,11 +1,11 @@
-.. meta::694a93b61eadd61dc22d3b08bfc86b1d6d76dc95312f8cfa20e6ecb179b73dc2ff7d3f19555fcbce886574765108148d99ee6bcdee6791439e0c5a28290b61c4
+.. meta::d4c29161463c6a371007193d2c3cbafa95867261073d3e38f8f1ea43da11cd9ecc213e991f423d4e0f406ddd6c940d59885a55de95aafcd1653fce8c995e7d63
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/ansonic.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/ansonic.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/ansonic.h Source File
-================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/ansonic.h Source File
+====================================================================================
 
 .. container:: doxygen-content
 

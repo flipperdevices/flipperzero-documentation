@@ -1,11 +1,11 @@
-.. meta::4906c09b2d4f38a8741f3362f3a81ac40679b992c5936999108a541d83491d63bbb7f4e7b0467360c98861a44898804313e4b7065da21b900d4fc8811545af46
+.. meta::ae949ce944aaae87115ad50932d1b850a0239adfc27716df52a4f5efb713712488128543ec9b6783886d5ec03b281dd4eb49a28beaacf44972a510cf926760de
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/scenes/desktop_scene_config.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/scenes/desktop_scene_config.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/scenes/desktop\_scene\_config.h Source File
-===============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/scenes/desktop\_scene\_config.h Source File
+===================================================================================================================
 
 .. container:: doxygen-content
 

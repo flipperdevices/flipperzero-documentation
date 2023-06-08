@@ -1,11 +1,11 @@
-.. meta::6bd40fb35960bb48d7060e8c90940bc957917a5159dfd06af77f4c8fa58eb0d51e1245e6d330e568612b5dde6f7a4c98e9d84904687f48bc36af9377d5f52001
+.. meta::f833dc13c3ef2bcbef7d8001431126355d18e9277b77b027fe067fc7d73b9f0e56c3f8e1ee70d570610c3eb8c7c447c821ad6828bae8197442bf2b3120ec856e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol_viking.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol_viking.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol\_viking.h Source File
-=========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol\_viking.h Source File
+=============================================================================================
 
 .. container:: doxygen-content
 

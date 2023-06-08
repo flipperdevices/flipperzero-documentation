@@ -1,11 +1,11 @@
-.. meta::f85d3a45d90b9dccc96905b3ffff6ef6a841479d22f402d26f4ed3dc814c0dc2468dccd84c44ae061f8f08dd775bb192ba5a885f6fdc4658ef2603203eedb4e1
+.. meta::6819b3379148063c886d04ec2b15a50031a5454beb3ec9e00ea78a3b94ac45fd3d19dab1c60667e48a4f7f89ddabfae356588bb38af3d99c3bc954d97f84727f
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/widget_elements Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/widget_elements Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/widget\_elements Directory Reference
-============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/widget\_elements Directory Reference
+================================================================================================================
 
 .. container:: doxygen-content
 

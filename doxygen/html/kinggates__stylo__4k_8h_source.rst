@@ -1,11 +1,11 @@
-.. meta::bcec7a547f478d04038320ce24fc210b26c6156fed3c8d58d35ad1d23be3639370df2ede702061be82a90401d0cfeb911920d325cc330823809dbe5f05e426d3
+.. meta::e52581d688ed7a3c8931419948606dabc7fc400d874058ab12e6989c08fc2cafaef32bbc287d39212918d1a94162ed772476422495a1b9656ff4196b0be5a481
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/kinggates_stylo_4k.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/kinggates_stylo_4k.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/kinggates\_stylo\_4k.h Source File
-=============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/kinggates\_stylo\_4k.h Source File
+=================================================================================================
 
 .. container:: doxygen-content
 

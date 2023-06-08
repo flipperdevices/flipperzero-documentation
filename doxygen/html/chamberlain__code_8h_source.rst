@@ -1,11 +1,11 @@
-.. meta::b07d272a47f6d6b01c26cd2226c6ee7b7c56bd859e1a897480794bc782b023b2ce7049069cb739119aed0de4763599673079ef5edb31a350f514b9a4dd671d8a
+.. meta::8f05e32c270bbec4286a9618197847744dc733a4cca15b197b85e2ad32a2503432b781830ab3ba86805d97cce2d2151cb5c7428695b89317cbede364329d1234
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/chamberlain_code.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/chamberlain_code.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/chamberlain\_code.h Source File
-==========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/chamberlain\_code.h Source File
+==============================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::090243e6f67d81ba39e34c3b2b5def41aeb78302571031aac40257d1becd5825bc89b8d79b0ce03fb06703dbe479287e42b6f312c96bd16a2c64c0d22ac6234b
+.. meta::d83782c917b404f7662757c81d561539c6b89cf87c82cc6588b05d2a53b8a5c949edaab024a6c699c38847925daf90c295594359e91bf2d0bddb0ad754c72b09
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/gpio Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/gpio Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/gpio Directory Reference
-================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/gpio Directory Reference
+====================================================================================
 
 .. container:: doxygen-content
 

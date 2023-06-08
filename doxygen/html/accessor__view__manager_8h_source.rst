@@ -1,11 +1,11 @@
-.. meta::5ee001db3ac3d6daeee7a0c0ae1cac1bfa4f1de11d10b36d24b4616f8d7552a9419e748e02e99f9fc5e9ee7f5d3e0a8e3c2fda319800e8f4b7363ab121f656f4
+.. meta::e6018c273ea2758e64af9bf50c5e80492efc854cb7f0c7524b25360a0d92831f0d10f91a57ef49ef4db44dbf4f142baf52c66377c63d8573cd1c931733a82bd5
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/debug/accessor/accessor_view_manager.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/debug/accessor/accessor_view_manager.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/debug/accessor/accessor\_view\_manager.h Source File
-=======================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/debug/accessor/accessor\_view\_manager.h Source File
+===========================================================================================================
 
 .. container:: doxygen-content
 

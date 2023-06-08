@@ -1,0 +1,14 @@
+.. meta::5dfc042bd6201d02e020dae758882761319fb34ee1d1efb980853b743ff6a8b3614a7a58f3d03195dde3509e93ea2637d767ae0bc7f40c8add52539d6d295d51
+
+:orphan:
+
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/cmsis_core Directory Reference
+
+/Users/astrr/flipper/flipperzero-firmware/lib/cmsis\_core Directory Reference
+=============================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: dir_6cb95780239ccd9325f85450195f017e.html

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal_bt.h File Reference</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal_bt.h File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -45,6 +45,7 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Data Structures</a> &#124;
 <a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
@@ -64,6 +65,11 @@ $(function() {
 </div>
 <p><a href="furi__hal__bt_8h_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Data Structures</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_furi_hal_bt_hardfault_info.html">FuriHalBtHardfaultInfo</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
 <tr class="memitem:a18337a7eb547ba953e8c5e06edf91e68"><td class="memItemLeft" align="right" valign="top"><a id="a18337a7eb547ba953e8c5e06edf91e68" name="a18337a7eb547ba953e8c5e06edf91e68"></a>
@@ -195,6 +201,9 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>furi_hal_bt_stop_rx</
 <tr class="memitem:ab57bec4ae981cf38a526fb9da6a53e06"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="furi__hal__bt_8h.html#ab57bec4ae981cf38a526fb9da6a53e06">furi_hal_bt_ensure_c2_mode</a> (BleGlueC2Mode mode)</td></tr>
 <tr class="memdesc:ab57bec4ae981cf38a526fb9da6a53e06"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check &amp; switch C2 to given mode.  <a href="furi__hal__bt_8h.html#ab57bec4ae981cf38a526fb9da6a53e06">More...</a><br /></td></tr>
 <tr class="separator:ab57bec4ae981cf38a526fb9da6a53e06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c74a6e064cc7638e18ab62d564bc1b5"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="struct_furi_hal_bt_hardfault_info.html">FuriHalBtHardfaultInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="furi__hal__bt_8h.html#a4c74a6e064cc7638e18ab62d564bc1b5">furi_hal_bt_get_hardfault_info</a> ()</td></tr>
+<tr class="memdesc:a4c74a6e064cc7638e18ab62d564bc1b5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get hardfault info.  <a href="furi__hal__bt_8h.html#a4c74a6e064cc7638e18ab62d564bc1b5">More...</a><br /></td></tr>
+<tr class="separator:a4c74a6e064cc7638e18ab62d564bc1b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >BT/BLE HAL API. </p>
@@ -313,6 +322,26 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>furi_hal_bt_stop_rx</
   </table>
   </dd>
 </dl>
+
+</div>
+</div>
+<a id="a4c74a6e064cc7638e18ab62d564bc1b5" name="a4c74a6e064cc7638e18ab62d564bc1b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c74a6e064cc7638e18ab62d564bc1b5">&#9670;&nbsp;</a></span>furi_hal_bt_get_hardfault_info()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="struct_furi_hal_bt_hardfault_info.html">FuriHalBtHardfaultInfo</a> * furi_hal_bt_get_hardfault_info </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get hardfault info. </p>
+<dl class="section return"><dt>Returns</dt><dd>hardfault info. NULL if no hardfault </dd></dl>
 
 </div>
 </div>

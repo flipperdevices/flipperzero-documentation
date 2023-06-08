@@ -1,11 +1,11 @@
-.. meta::df35c83b5a4add5ed640f8690977541434775a6cdffd6328a6ec8d8ef40439223d003efd236f772e899fcc86250ea2c92429f5d9f2c475a075524d3be368006a
+.. meta::cd5f77ee4103b67fed6663176d9714ff27b5e7978dc8fd3d79f322a963028adb054195efc87ec65f0b771c616a449ffeeed33e79dc05eee81720467f6ad399cc
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/cli/cli_commands.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/cli/cli_commands.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/cli/cli\_commands.h Source File
-===========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/cli/cli\_commands.h Source File
+===============================================================================================
 
 .. container:: doxygen-content
 

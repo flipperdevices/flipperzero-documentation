@@ -1,11 +1,11 @@
-.. meta::ac720818fdadaafb5bf09badebdd77ed77642691494c50bd33e39f74d15d801791f2e8336d278bcbaab354ae9960edb86facf9c7c7c96a6b9ea126ed2461685f
+.. meta::033fc175d120b7e141025f89cd340e6ebdb01889b2095c2cdefa65568a58599f94bddfadb5dd95367e4ae388688208d728aa0fce4ad1fcb5751e38727c6d0485
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/settings/system Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/settings/system Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/settings/system Directory Reference
-======================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/settings/system Directory Reference
+==========================================================================================
 
 .. container:: doxygen-content
 

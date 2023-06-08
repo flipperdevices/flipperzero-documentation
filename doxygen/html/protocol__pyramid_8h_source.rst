@@ -1,11 +1,11 @@
-.. meta::5c53e99631b55ba25720cbf51fbf296b35cf7dcc12b314546682ef87469e6383e777a29263671b2ab1ce930a50f31081c91b2a654347305e67417a87ed01fc42
+.. meta::e54d885cc89938e154985de8d6c6643a78eacc8cf91a373c9322a9bc324d53fe426cbe0fb87ecc69dc036513261fe134e85704fe57085c0bfb1b3321ccba1006
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol_pyramid.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol_pyramid.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol\_pyramid.h Source File
-==========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol\_pyramid.h Source File
+==============================================================================================
 
 .. container:: doxygen-content
 

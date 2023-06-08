@@ -1,11 +1,11 @@
-.. meta::af2c4c3fa7b6df6ce5182b499b60d7cbcd944a3f34f1f6d2ce7ec8914ed7a7a4c829c62e48c2f2ff5c09e94a1ccd505ed5aa9ffccd909f9ef19eb1171cb1344c
+.. meta::28fc1ba8c34627ed73094f3c85b539b8f60e4695b87c72fdd5f2d68644e840cacc240b4b337bfc380f9fdc03509dd39ac2cdfcc976488fca90051642b9d7c8b2
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/lfrfid/views/lfrfid_view_read.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/lfrfid/views/lfrfid_view_read.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/lfrfid/views/lfrfid\_view\_read.h Source File
-=====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/lfrfid/views/lfrfid\_view\_read.h Source File
+=========================================================================================================
 
 .. container:: doxygen-content
 

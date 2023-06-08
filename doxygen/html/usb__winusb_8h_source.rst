@@ -1,11 +1,11 @@
-.. meta::af6530482159ccbf16a63daa7215a6a6ef597baf77ba6a6fd1afbc7f5b08d4cb1d63943507f148a1858acb12a3bfbbc847420a18409c4eccff9d9f38d764d478
+.. meta::d7c17877bcd3225476cefe8453ce689e3e14fbf5684c61945a61f0c2052ac39b00b12dbc5ae9c9c683fad547ff5dfb5e93a55079a0a22d3a0f034d9a954fbc30
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/dap_link/usb/usb_winusb.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/dap_link/usb/usb_winusb.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/dap\_link/usb/usb\_winusb.h Source File
-===================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/dap\_link/usb/usb\_winusb.h Source File
+=======================================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::3637a5ddc5bc77f76528a7fcbdb5a1c79fc768f2f90ad3c55e60f7ea14f45f00a379677ada4249f00495ceb466c946d29beeab9f3df36a63c426f84fe77fa570
+.. meta::c2f4c715968d7a0252d891d097e05add053ef1bb3ed7ef32c5d3ac3197b41fd9ff2946044bf3f393ee813dd12982b9a96e1e8798d4bcca0ea35ba9fab9a0fc40
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/storage/storages/sd_notify.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/storage/storages/sd_notify.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/storage/storages/sd\_notify.h Source File
-=====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/storage/storages/sd\_notify.h Source File
+=========================================================================================================
 
 .. container:: doxygen-content
 

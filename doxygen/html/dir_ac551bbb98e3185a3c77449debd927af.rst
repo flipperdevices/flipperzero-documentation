@@ -1,11 +1,11 @@
-.. meta::6580c9dfeb68efa5a9c07bb793318edac6d7624e4ada16bc1642bebf01d66bccb3c1d62c95f8fd083ee9bf31f0ec8c2334ccdc5ba684d79101db73170bbb25d0
+.. meta::54fd1ecc4046072df4111e875a2106b0295b1998066c6be9a8973a14705749702891d59f30709da877b2bea36aea190419a88c3b49c77467c4a5bfc6debfe8f1
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/dolphin/helpers Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/dolphin/helpers Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/dolphin/helpers Directory Reference
-===============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/dolphin/helpers Directory Reference
+===================================================================================================
 
 .. container:: doxygen-content
 

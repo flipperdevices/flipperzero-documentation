@@ -1,11 +1,11 @@
-.. meta::d7c46a3bb1296a10cd05ecb26405b8247a4ae187cbe9ab0a3b3529a9ccf7898e0d171cf1a43e312766a6f1f493a4a741f0f9321c2d455457d397961b0f46fa20
+.. meta::f0fd28939282d90fd749784dedaadcdea72dd9f89e63178c7957a505e66306f2374cc80fcfc85a6df22c9c177f3110a62a957ba2c4a04be52e6b865d7360aa7e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/nfc/helpers/nfc_custom_event.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/nfc/helpers/nfc_custom_event.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/nfc/helpers/nfc\_custom\_event.h Source File
-====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/nfc/helpers/nfc\_custom\_event.h Source File
+========================================================================================================
 
 .. container:: doxygen-content
 

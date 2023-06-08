@@ -1,11 +1,11 @@
-.. meta::78e70c2332c3267f88b45fd37cc10abe7ae2256e54376686ec96c3374fd2dfb4ce92eb17c920f70c50e869e0088579ce544e6cea9af33f46811168406d479bfd
+.. meta::46d5450e4657e277921239fea59c632b914e1d03cdfabe20798c669a38693039f48466f77f680ea08df2d957f5ce4acf514c1f3f1ec34864ca545a6887afa161
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/drivers/lp5562.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/drivers/lp5562.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/drivers/lp5562.h Source File
-======================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/drivers/lp5562.h Source File
+==========================================================================
 
 .. container:: doxygen-content
 

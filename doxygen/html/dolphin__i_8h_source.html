@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/dolphin/dolphin_i.h Source File</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/dolphin/dolphin_i.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -86,13 +86,11 @@ $(function() {
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span> </div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span><a class="code hl_struct" href="struct_dolphin.html">Dolphin</a>* dolphin_alloc();</div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span><span class="keywordtype">void</span> dolphin_free(<a class="code hl_struct" href="struct_dolphin.html">Dolphin</a>* dolphin);</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span><span class="keywordtype">void</span> dolphin_event_send_async(<a class="code hl_struct" href="struct_dolphin.html">Dolphin</a>* dolphin, <a class="code hl_struct" href="struct_dolphin_event.html">DolphinEvent</a>* event);</div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span> </div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span><span class="keywordtype">void</span> dolphin_event_send_async(<a class="code hl_struct" href="struct_dolphin.html">Dolphin</a>* dolphin, <a class="code hl_struct" href="struct_dolphin_event.html">DolphinEvent</a>* event);</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span><span class="keywordtype">void</span> dolphin_event_send_wait(<a class="code hl_struct" href="struct_dolphin.html">Dolphin</a>* dolphin, <a class="code hl_struct" href="struct_dolphin_event.html">DolphinEvent</a>* event);</div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span><span class="keywordtype">void</span> dolphin_event_send_wait(<a class="code hl_struct" href="struct_dolphin.html">Dolphin</a>* dolphin, <a class="code hl_struct" href="struct_dolphin_event.html">DolphinEvent</a>* event);</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span><span class="keywordtype">void</span> dolphin_event_release(<a class="code hl_struct" href="struct_dolphin.html">Dolphin</a>* dolphin, <a class="code hl_struct" href="struct_dolphin_event.html">DolphinEvent</a>* event);</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span><span class="keywordtype">void</span> dolphin_event_release(<a class="code hl_struct" href="struct_dolphin.html">Dolphin</a>* dolphin, <a class="code hl_struct" href="struct_dolphin_event.html">DolphinEvent</a>* event);</div>
 <div class="ttc" id="afuri__hal_8h_html"><div class="ttname"><a href="furi__hal_8h.html">furi_hal.h</a></div><div class="ttdoc">Furi HAL API.</div></div>
 <div class="ttc" id="apubsub_8h_html"><div class="ttname"><a href="pubsub_8h.html">pubsub.h</a></div><div class="ttdoc">FuriPubSub.</div></div>
 <div class="ttc" id="astruct_dolphin_event_html"><div class="ttname"><a href="struct_dolphin_event.html">DolphinEvent</a></div><div class="ttdef"><b>Definition:</b> dolphin_i.h:18</div></div>

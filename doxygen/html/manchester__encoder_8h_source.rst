@@ -1,11 +1,11 @@
-.. meta::b02bda93989640cb7f914a304a700a5ad37e5c641cdee4614f978234e0ce5a25b0275e4be9e16308c1386207f0998315ba206de7b245b5ddaf5736c94e78c2ea
+.. meta::4bf6403736ac7656be19d9da0a22d67f6c6523ff2c7562e7dcdf1123d7553aa5d31e3245b640efe0bb3a5556623b7cb5085b96d4c6255c948d99613f1ffac8af
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/toolbox/manchester_encoder.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/toolbox/manchester_encoder.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/toolbox/manchester\_encoder.h Source File
-===================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/toolbox/manchester\_encoder.h Source File
+=======================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::9aaedf5ebb7cc89091c7d47b96bc11096e702abbc529ea5740917fc0421d4e403d6e44432a406193f457c2b285a1f73111485092ad99fd58a0388e88668005a1
+.. meta::931ce45862ae5961400ea9a815223a02ae8967d8d4041d737dda7d8d0735c05fa109f239548136ee8d7c75f6168847a8d7abd958c904f2a904856ca990995855
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/nfc_magic/scenes/nfc_magic_scene_config.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/nfc_magic/scenes/nfc_magic_scene_config.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/nfc\_magic/scenes/nfc\_magic\_scene\_config.h Source File
-=====================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/nfc\_magic/scenes/nfc\_magic\_scene\_config.h Source File
+=========================================================================================================================
 
 .. container:: doxygen-content
 

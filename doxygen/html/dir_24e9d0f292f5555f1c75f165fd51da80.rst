@@ -1,11 +1,11 @@
-.. meta::4e36edcc7ccf6015fec8be1ba4d0c0dd4b6ec43aea2f84901dc504a5e456d409586b566d7a60c8ebde458206d88e23010f1dd01fdec486db8efd45dbcc38bca1
+.. meta::99007ff8021aa94ebeae03277ad9767f345e56c5c238cdcd49f199506e2d0baf4eb5e2bc73ce489adbe10120e5ac659b8e965078733c058a7b673fa884133f48
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/signal_generator Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/signal_generator Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/signal\_generator Directory Reference
-=================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/signal\_generator Directory Reference
+=====================================================================================================
 
 .. container:: doxygen-content
 

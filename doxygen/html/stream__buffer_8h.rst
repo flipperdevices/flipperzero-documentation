@@ -1,11 +1,11 @@
-.. meta::23e444018f021fddb92755ebccf824c047bf9603d1c193e77840b4414a81f1d8b0e6f3e812939cc86cafdf3eb8e879699de6265d3fd1f0bc2ab0c5bd8c098081
+.. meta::791b0f970e45a6dceec2e4bfab48d1f3292cc87d539e9ad9deed592192345f0394dbcd7a4ef97ea449a35c9de11bb83c84821cc72a316a1774325d98b52b3d07
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/furi/core/stream_buffer.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/furi/core/stream_buffer.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/furi/core/stream\_buffer.h File Reference
-===============================================================================
+/Users/astrr/flipper/flipperzero-firmware/furi/core/stream\_buffer.h File Reference
+===================================================================================
 
 .. container:: doxygen-content
 

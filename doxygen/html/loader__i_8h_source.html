@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/loader/loader_i.h Source File</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/loader/loader_i.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -47,61 +47,71 @@ $(function() {
   <div class="headertitle"><div class="title">loader_i.h</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="preprocessor">#include &quot;loader.h&quot;</span></div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span> </div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="preprocessor">#include &lt;furi.h&gt;</span></div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="preprocessor">#include &lt;<a class="code" href="furi__hal_8h.html">furi_hal.h</a>&gt;</span></div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="preprocessor">#include &lt;<a class="code" href="pubsub_8h.html">core/pubsub.h</a>&gt;</span></div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="preprocessor">#include &lt;<a class="code" href="cli_8h.html">cli/cli.h</a>&gt;</span></div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#include &lt;lib/toolbox/args.h&gt;</span></div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span> </div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="preprocessor">#include &lt;<a class="code" href="view__dispatcher_8h.html">gui/view_dispatcher.h</a>&gt;</span></div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span> </div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="preprocessor">#include &lt;<a class="code" href="menu_8h.html">gui/modules/menu.h</a>&gt;</span></div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="preprocessor">#include &lt;<a class="code" href="submenu_8h.html">gui/modules/submenu.h</a>&gt;</span></div>
+<div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="preprocessor">#pragma once</span></div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="preprocessor">#include &lt;furi.h&gt;</span></div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="preprocessor">#include &lt;toolbox/api_lock.h&gt;</span></div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="preprocessor">#include &quot;loader.h&quot;</span></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="preprocessor">#include &quot;loader_menu.h&quot;</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span> </div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno"><a class="line" href="struct_loader_app_data.html">    7</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>    <span class="keywordtype">char</span>* args;</div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>    <span class="keywordtype">char</span>* name;</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>    <a class="code hl_struct" href="struct_furi_thread.html">FuriThread</a>* thread;</div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    <span class="keywordtype">bool</span> insomniac;</div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>} <a class="code hl_struct" href="struct_loader_app_data.html">LoaderAppData</a>;</div>
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span> </div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="preprocessor">#include &lt;applications.h&gt;</span></div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="preprocessor">#include &lt;assets_icons.h&gt;</span></div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span> </div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno"><a class="line" href="struct_loader.html">   17</a></span><span class="keyword">struct </span><a class="code hl_struct" href="struct_loader.html">Loader</a> {</div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>    <a class="code hl_typedef" href="thread_8h.html#ac2abfcbec13d87c612b00717f444bda5">FuriThreadId</a> loader_thread;</div>
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span> </div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>    <span class="keyword">const</span> <a class="code hl_struct" href="struct_flipper_application.html">FlipperApplication</a>* application;</div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>    <a class="code hl_struct" href="struct_furi_thread.html">FuriThread</a>* application_thread;</div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>    <span class="keywordtype">char</span>* application_arguments;</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>    <a class="code hl_typedef" href="cli_8h.html#a4cf37d4c2950c1ca0dd1d8f7e4aacee5">Cli</a>* cli;</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>    <a class="code hl_struct" href="struct_gui.html">Gui</a>* gui;</div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span> </div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>    <a class="code hl_struct" href="struct_view_dispatcher.html">ViewDispatcher</a>* view_dispatcher;</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>    <a class="code hl_struct" href="struct_menu.html">Menu</a>* primary_menu;</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>    <a class="code hl_struct" href="struct_submenu.html">Submenu</a>* settings_menu;</div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno"><a class="line" href="struct_loader.html">   14</a></span><span class="keyword">struct </span><a class="code hl_struct" href="struct_loader.html">Loader</a> {</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    <a class="code hl_struct" href="struct_furi_pub_sub.html">FuriPubSub</a>* pubsub;</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    FuriMessageQueue* queue;</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>    <a class="code hl_struct" href="struct_loader_menu.html">LoaderMenu</a>* loader_menu;</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>    <a class="code hl_struct" href="struct_loader_app_data.html">LoaderAppData</a> app;</div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>};</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span> </div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="keyword">typedef</span> <span class="keyword">enum</span> {</div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>    LoaderMessageTypeStartByName,</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>    LoaderMessageTypeAppClosed,</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>    LoaderMessageTypeShowMenu,</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>    LoaderMessageTypeMenuClosed,</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>    LoaderMessageTypeLock,</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>    LoaderMessageTypeUnlock,</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>    LoaderMessageTypeIsLocked,</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>} LoaderMessageType;</div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span> </div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    <span class="keyword">volatile</span> uint8_t lock_count;</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span> </div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>    <a class="code hl_struct" href="struct_furi_pub_sub.html">FuriPubSub</a>* pubsub;</div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>};</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno"><a class="line" href="struct_loader_message_start_by_name.html">   31</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>    <span class="keyword">const</span> <span class="keywordtype">char</span>* name;</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>    <span class="keyword">const</span> <span class="keywordtype">char</span>* args;</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>} <a class="code hl_struct" href="struct_loader_message_start_by_name.html">LoaderMessageStartByName</a>;</div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span><span class="keyword">typedef</span> <span class="keyword">enum</span> {</div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>    LoaderMenuViewPrimary,</div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>    LoaderMenuViewSettings,</div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>} LoaderMenuView;</div>
-<div class="ttc" id="acli_8h_html"><div class="ttname"><a href="cli_8h.html">cli.h</a></div><div class="ttdoc">Cli API.</div></div>
-<div class="ttc" id="acli_8h_html_a4cf37d4c2950c1ca0dd1d8f7e4aacee5"><div class="ttname"><a href="cli_8h.html#a4cf37d4c2950c1ca0dd1d8f7e4aacee5">Cli</a></div><div class="ttdeci">struct Cli Cli</div><div class="ttdoc">Cli type anonymous structure.</div><div class="ttdef"><b>Definition:</b> cli.h:38</div></div>
-<div class="ttc" id="afuri__hal_8h_html"><div class="ttname"><a href="furi__hal_8h.html">furi_hal.h</a></div><div class="ttdoc">Furi HAL API.</div></div>
-<div class="ttc" id="amenu_8h_html"><div class="ttname"><a href="menu_8h.html">menu.h</a></div><div class="ttdoc">GUI: Menu view module API.</div></div>
-<div class="ttc" id="apubsub_8h_html"><div class="ttname"><a href="pubsub_8h.html">pubsub.h</a></div><div class="ttdoc">FuriPubSub.</div></div>
-<div class="ttc" id="astruct_flipper_application_html"><div class="ttname"><a href="struct_flipper_application.html">FlipperApplication</a></div><div class="ttdef"><b>Definition:</b> applications.h:11</div></div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno"><a class="line" href="struct_loader_message_loader_status_result.html">   36</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>    LoaderStatus value;</div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>} <a class="code hl_struct" href="struct_loader_message_loader_status_result.html">LoaderMessageLoaderStatusResult</a>;</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno"><a class="line" href="struct_loader_message_bool_result.html">   40</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    <span class="keywordtype">bool</span> value;</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>} <a class="code hl_struct" href="struct_loader_message_bool_result.html">LoaderMessageBoolResult</a>;</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno"><a class="line" href="struct_loader_message.html">   44</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    FuriApiLock api_lock;</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    LoaderMessageType type;</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span> </div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>    <span class="keyword">union </span>{</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>        <a class="code hl_struct" href="struct_loader_message_start_by_name.html">LoaderMessageStartByName</a> start;</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    };</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span> </div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    <span class="keyword">union </span>{</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        <a class="code hl_struct" href="struct_loader_message_loader_status_result.html">LoaderMessageLoaderStatusResult</a>* status_value;</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>        <a class="code hl_struct" href="struct_loader_message_bool_result.html">LoaderMessageBoolResult</a>* bool_value;</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>    };</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>} <a class="code hl_struct" href="struct_loader_message.html">LoaderMessage</a>;</div>
 <div class="ttc" id="astruct_furi_pub_sub_html"><div class="ttname"><a href="struct_furi_pub_sub.html">FuriPubSub</a></div><div class="ttdef"><b>Definition:</b> pubsub.c:15</div></div>
 <div class="ttc" id="astruct_furi_thread_html"><div class="ttname"><a href="struct_furi_thread.html">FuriThread</a></div><div class="ttdef"><b>Definition:</b> thread.c:26</div></div>
-<div class="ttc" id="astruct_gui_html"><div class="ttname"><a href="struct_gui.html">Gui</a></div><div class="ttdoc">Gui structure.</div><div class="ttdef"><b>Definition:</b> gui_i.h:59</div></div>
-<div class="ttc" id="astruct_loader_html"><div class="ttname"><a href="struct_loader.html">Loader</a></div><div class="ttdef"><b>Definition:</b> loader_i.h:17</div></div>
-<div class="ttc" id="astruct_menu_html"><div class="ttname"><a href="struct_menu.html">Menu</a></div><div class="ttdef"><b>Definition:</b> menu.c:8</div></div>
-<div class="ttc" id="astruct_submenu_html"><div class="ttname"><a href="struct_submenu.html">Submenu</a></div><div class="ttdef"><b>Definition:</b> submenu.c:7</div></div>
-<div class="ttc" id="astruct_view_dispatcher_html"><div class="ttname"><a href="struct_view_dispatcher.html">ViewDispatcher</a></div><div class="ttdef"><b>Definition:</b> view_dispatcher_i.h:17</div></div>
-<div class="ttc" id="asubmenu_8h_html"><div class="ttname"><a href="submenu_8h.html">submenu.h</a></div><div class="ttdoc">GUI: SubMenu view module API.</div></div>
-<div class="ttc" id="athread_8h_html_ac2abfcbec13d87c612b00717f444bda5"><div class="ttname"><a href="thread_8h.html#ac2abfcbec13d87c612b00717f444bda5">FuriThreadId</a></div><div class="ttdeci">void * FuriThreadId</div><div class="ttdoc">FuriThreadId proxy type to OS low level functions.</div><div class="ttdef"><b>Definition:</b> thread.h:38</div></div>
-<div class="ttc" id="aview__dispatcher_8h_html"><div class="ttname"><a href="view__dispatcher_8h.html">view_dispatcher.h</a></div><div class="ttdoc">GUI: ViewDispatcher API.</div></div>
+<div class="ttc" id="astruct_loader_app_data_html"><div class="ttname"><a href="struct_loader_app_data.html">LoaderAppData</a></div><div class="ttdef"><b>Definition:</b> loader_i.h:7</div></div>
+<div class="ttc" id="astruct_loader_html"><div class="ttname"><a href="struct_loader.html">Loader</a></div><div class="ttdef"><b>Definition:</b> loader_i.h:14</div></div>
+<div class="ttc" id="astruct_loader_menu_html"><div class="ttname"><a href="struct_loader_menu.html">LoaderMenu</a></div><div class="ttdef"><b>Definition:</b> loader_menu.c:12</div></div>
+<div class="ttc" id="astruct_loader_message_bool_result_html"><div class="ttname"><a href="struct_loader_message_bool_result.html">LoaderMessageBoolResult</a></div><div class="ttdef"><b>Definition:</b> loader_i.h:40</div></div>
+<div class="ttc" id="astruct_loader_message_html"><div class="ttname"><a href="struct_loader_message.html">LoaderMessage</a></div><div class="ttdef"><b>Definition:</b> loader_i.h:44</div></div>
+<div class="ttc" id="astruct_loader_message_loader_status_result_html"><div class="ttname"><a href="struct_loader_message_loader_status_result.html">LoaderMessageLoaderStatusResult</a></div><div class="ttdef"><b>Definition:</b> loader_i.h:36</div></div>
+<div class="ttc" id="astruct_loader_message_start_by_name_html"><div class="ttname"><a href="struct_loader_message_start_by_name.html">LoaderMessageStartByName</a></div><div class="ttdef"><b>Definition:</b> loader_i.h:31</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

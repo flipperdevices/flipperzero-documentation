@@ -1,11 +1,11 @@
-.. meta::be1e724b6b5efa1f4c1516e45146a5afc2bdc9df8468a948740658e41e44f515aa4602e7166dc605700e0fef680819bd19771a390fc494f3b10af2470e4d001d
+.. meta::0937339e31f47ff6c1347c792adb29f05d0608688e1e9ba99b543538721b6634af507a23319b11b1ed6d50aa38c8ec3f562454e5d105ade96c4f33b24503072a
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/system/updater/util/update_task_i.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/system/updater/util/update_task_i.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/system/updater/util/update\_task\_i.h Source File
-====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/system/updater/util/update\_task\_i.h Source File
+========================================================================================================
 
 .. container:: doxygen-content
 

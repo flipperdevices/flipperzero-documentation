@@ -1,11 +1,11 @@
-.. meta::f1f26eb5d9be8f409e63959aa4a6e464b703c7edb8d3bcb9c1e597c44d9279e585484568d8906194f5e341238b9d7a0ee88b5a162cf6f867b26e0fde9f2d7960
+.. meta::08d1c5ffa8e89e387528c7807ffd45567fdf37b8ab2f855ec92bc6297d8eaa036108694960eba9a6142a1b5c3494c859ea1cbfe60feb15ed6c37aceff6621b93
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/flipper_application/api_hashtable Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/flipper_application/api_hashtable Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/flipper\_application/api\_hashtable Directory Reference
-=================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/flipper\_application/api\_hashtable Directory Reference
+=====================================================================================================
 
 .. container:: doxygen-content
 

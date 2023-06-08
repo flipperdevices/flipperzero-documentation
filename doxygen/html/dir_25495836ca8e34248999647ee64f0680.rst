@@ -1,11 +1,11 @@
-.. meta::4c9107bdf356a6198165a42f7acb1900e845e9d7a5d80160bf458028db644d4a07818f64920bd1e39bb04bc183ecee7c04f94a7321b80303693164a23857b9b8
+.. meta::eb09ab2ba5f273bf20a92e5f66fdacddfbb19e84bdbc128a640e8f0341b2b143e7bef1a9b26f821f08d6e0c0ef68eddbcd220409844ae09583ae36217b0d875f
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/subghz/views Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/subghz/views Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/subghz/views Directory Reference
-========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/subghz/views Directory Reference
+============================================================================================
 
 .. container:: doxygen-content
 

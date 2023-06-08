@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal_cortex.h File Reference</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal_cortex.h File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -46,6 +46,7 @@ $(function() {
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Data Structures</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle"><div class="title">furi_hal_cortex.h File Reference</div></div>
 </div><!--header-->
@@ -63,6 +64,26 @@ Data Structures</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_furi_hal_cortex_timer.html">FuriHalCortexTimer</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cortex timer provides high precision low level expiring timer.  <a href="struct_furi_hal_cortex_timer.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:ad91be0cd115ffc0a9cd4134a986d109c"><td class="memItemLeft" align="right" valign="top"><a id="ad91be0cd115ffc0a9cd4134a986d109c" name="ad91be0cd115ffc0a9cd4134a986d109c"></a>enum &#160;</td><td class="memItemRight" valign="bottom"><b>FuriHalCortexComp</b> { <b>FuriHalCortexComp0</b>
+, <b>FuriHalCortexComp1</b>
+, <b>FuriHalCortexComp2</b>
+, <b>FuriHalCortexComp3</b>
+ }</td></tr>
+<tr class="separator:ad91be0cd115ffc0a9cd4134a986d109c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2b69a227131e2380c89646d14770651"><td class="memItemLeft" align="right" valign="top"><a id="af2b69a227131e2380c89646d14770651" name="af2b69a227131e2380c89646d14770651"></a>enum &#160;</td><td class="memItemRight" valign="bottom"><b>FuriHalCortexCompSize</b> { <b>FuriHalCortexCompSizeWord</b> = 0b10
+, <b>FuriHalCortexCompSizeHalfWord</b> = 0b01
+, <b>FuriHalCortexCompSizeByte</b> = 0b00
+ }</td></tr>
+<tr class="separator:af2b69a227131e2380c89646d14770651"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afcfb87112459733006096e31ad0e3bea"><td class="memItemLeft" align="right" valign="top"><a id="afcfb87112459733006096e31ad0e3bea" name="afcfb87112459733006096e31ad0e3bea"></a>enum &#160;</td><td class="memItemRight" valign="bottom"><b>FuriHalCortexCompFunction</b> { <b>FuriHalCortexCompFunctionPC</b> = 0b100
+, <b>FuriHalCortexCompFunctionRead</b> = 0b101
+, <b>FuriHalCortexCompFunctionWrite</b> = 0b110
+, <b>FuriHalCortexCompFunctionReadWrite</b> = 0b110
+ }</td></tr>
+<tr class="separator:afcfb87112459733006096e31ad0e3bea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -85,10 +106,102 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>furi_hal_cortex_init_
 <tr class="memitem:a819015eb6167241aba8ce0fd85f80b05"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="furi__hal__cortex_8h.html#a819015eb6167241aba8ce0fd85f80b05">furi_hal_cortex_timer_wait</a> (<a class="el" href="struct_furi_hal_cortex_timer.html">FuriHalCortexTimer</a> cortex_timer)</td></tr>
 <tr class="memdesc:a819015eb6167241aba8ce0fd85f80b05"><td class="mdescLeft">&#160;</td><td class="mdescRight">Wait for timer expire.  <a href="furi__hal__cortex_8h.html#a819015eb6167241aba8ce0fd85f80b05">More...</a><br /></td></tr>
 <tr class="separator:a819015eb6167241aba8ce0fd85f80b05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae64f47fa574a312339898dd7ff4d5847"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="furi__hal__cortex_8h.html#ae64f47fa574a312339898dd7ff4d5847">furi_hal_cortex_comp_enable</a> (FuriHalCortexComp comp, FuriHalCortexCompFunction function, uint32_t value, uint32_t mask, FuriHalCortexCompSize size)</td></tr>
+<tr class="memdesc:ae64f47fa574a312339898dd7ff4d5847"><td class="mdescLeft">&#160;</td><td class="mdescRight">Enable DWT comparator.  <a href="furi__hal__cortex_8h.html#ae64f47fa574a312339898dd7ff4d5847">More...</a><br /></td></tr>
+<tr class="separator:ae64f47fa574a312339898dd7ff4d5847"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d9c14f73d109716958e0a891fa787fe"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="furi__hal__cortex_8h.html#a2d9c14f73d109716958e0a891fa787fe">furi_hal_cortex_comp_reset</a> (FuriHalCortexComp comp)</td></tr>
+<tr class="memdesc:a2d9c14f73d109716958e0a891fa787fe"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reset DWT comparator.  <a href="furi__hal__cortex_8h.html#a2d9c14f73d109716958e0a891fa787fe">More...</a><br /></td></tr>
+<tr class="separator:a2d9c14f73d109716958e0a891fa787fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >ARM Cortex HAL. </p>
 </div><h2 class="groupheader">Function Documentation</h2>
+<a id="ae64f47fa574a312339898dd7ff4d5847" name="ae64f47fa574a312339898dd7ff4d5847"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae64f47fa574a312339898dd7ff4d5847">&#9670;&nbsp;</a></span>furi_hal_cortex_comp_enable()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void furi_hal_cortex_comp_enable </td>
+          <td>(</td>
+          <td class="paramtype">FuriHalCortexComp&#160;</td>
+          <td class="paramname"><em>comp</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FuriHalCortexCompFunction&#160;</td>
+          <td class="paramname"><em>function</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>value</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>mask</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FuriHalCortexCompSize&#160;</td>
+          <td class="paramname"><em>size</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Enable DWT comparator. </p>
+<p >Allows to programmatically set instruction/data breakpoints.</p>
+<p >More details on how it works can be found in armv7m official documentation: <a href="https://developer.arm.com/documentation/ddi0403/d/Debug-Architecture/ARMv7-M-Debug/The-Data-Watchpoint-and-Trace-unit/The-DWT-comparators">https://developer.arm.com/documentation/ddi0403/d/Debug-Architecture/ARMv7-M-Debug/The-Data-Watchpoint-and-Trace-unit/The-DWT-comparators</a> <a href="https://developer.arm.com/documentation/ddi0403/d/Debug-Architecture/ARMv7-M-Debug/The-Data-Watchpoint-and-Trace-unit/Comparator-Function-registers&ndash;DWT-FUNCTIONn">https://developer.arm.com/documentation/ddi0403/d/Debug-Architecture/ARMv7-M-Debug/The-Data-Watchpoint-and-Trace-unit/Comparator-Function-registers&amp;ndash;DWT-FUNCTIONn</a></p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">comp</td><td>The Comparator </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">function</td><td>The Comparator Function to use </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">value</td><td>The value </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">mask</td><td>The mask </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">size</td><td>The size </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a2d9c14f73d109716958e0a891fa787fe" name="a2d9c14f73d109716958e0a891fa787fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2d9c14f73d109716958e0a891fa787fe">&#9670;&nbsp;</a></span>furi_hal_cortex_comp_reset()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void furi_hal_cortex_comp_reset </td>
+          <td>(</td>
+          <td class="paramtype">FuriHalCortexComp&#160;</td>
+          <td class="paramname"><em>comp</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Reset DWT comparator. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">comp</td><td>The Comparator </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <a id="af252e1631a091d6ff2ce54dc37149adc" name="af252e1631a091d6ff2ce54dc37149adc"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#af252e1631a091d6ff2ce54dc37149adc">&#9670;&nbsp;</a></span>furi_hal_cortex_delay_us()</h2>
 

@@ -1,11 +1,11 @@
-.. meta::1b29b04a7d972d71445f020738d034856f0db211746715cc518f4bb10d23b135f5bdc679c25543ef49bf304a640e31e73c546e42c1ae516c8b8b12bf6277d3b7
+.. meta::620c465d484ada80ceaecb69e6880c4cd3d6b2faf3630a2966159b238fcd6eb0fbddb2d88d1695b522f016af6c3aac522214a92e1702e2e1ce425d9fbe272f00
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/bt/bt_service/bt_i.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/bt/bt_service/bt_i.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/bt/bt\_service/bt\_i.h Source File
-==============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/bt/bt\_service/bt\_i.h Source File
+==================================================================================================
 
 .. container:: doxygen-content
 

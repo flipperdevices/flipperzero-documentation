@@ -1,11 +1,11 @@
-.. meta::1c582672c533453efae4157b31177ab6418651b93d1293e4abf1bd48fa9c8e2e39ba9792949fcc16dcd54eb2f6aaeb0a50848a513eb4f5049022643ebdac44eb
+.. meta::4a5fab46e71d126442c6158eece2f6f8d3be2e1693b6da4682bcfd01dec84dce088d2d8a2b37b3e3044f8a595bd1030aa2b5ef7aa4fd028f0ce1dd51fa82e727
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/spi_mem_manager/scenes Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/spi_mem_manager/scenes Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/spi\_mem\_manager/scenes Directory Reference
-========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/spi\_mem\_manager/scenes Directory Reference
+============================================================================================================
 
 .. container:: doxygen-content
 

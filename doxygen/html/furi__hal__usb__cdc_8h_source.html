@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/furi_hal/furi_hal_usb_cdc.h Source File</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/furi_hal/furi_hal_usb_cdc.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -63,7 +63,7 @@ $(function() {
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    void (*rx_ep_callback)(<span class="keywordtype">void</span>* context);</div>
 <div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    void (*state_callback)(<span class="keywordtype">void</span>* context, uint8_t state);</div>
 <div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    void (*ctrl_line_callback)(<span class="keywordtype">void</span>* context, uint8_t state);</div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>    void (*config_callback)(<span class="keywordtype">void</span>* context, <span class="keyword">struct </span>usb_cdc_line_coding* <a class="code hl_struct" href="structconfig.html">config</a>);</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>    void (*config_callback)(<span class="keywordtype">void</span>* context, <span class="keyword">struct </span>usb_cdc_line_coding* config);</div>
 <div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>} <a class="code hl_struct" href="struct_cdc_callbacks.html">CdcCallbacks</a>;</div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span> </div>
 <div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="keywordtype">void</span> furi_hal_cdc_set_callbacks(uint8_t if_num, <a class="code hl_struct" href="struct_cdc_callbacks.html">CdcCallbacks</a>* cb, <span class="keywordtype">void</span>* context);</div>
@@ -80,7 +80,6 @@ $(function() {
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>}</div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span><span class="preprocessor">#endif</span></div>
 <div class="ttc" id="astruct_cdc_callbacks_html"><div class="ttname"><a href="struct_cdc_callbacks.html">CdcCallbacks</a></div><div class="ttdef"><b>Definition:</b> furi_hal_usb_cdc.h:12</div></div>
-<div class="ttc" id="astructconfig_html"><div class="ttname"><a href="structconfig.html">config</a></div><div class="ttdef"><b>Definition:</b> heatshrink.c:99</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

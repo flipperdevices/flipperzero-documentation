@@ -1,11 +1,11 @@
-.. meta::1df3d7a77aaaf1e05ee8a92a2f9205a29926faf1b3e992c8c0ce39407edd49ba114f7e9ca203f29f4f2bb0249f5bfe9c9f2ed06d27b6b26f13e2aa37f806cf4b
+.. meta::1bb443c3239a85be0cd9a0190a583ac5facd11fefde2e35a2ce1029d5331157e8e8e354a03f413cfd6f4f4bf0c9e714ece290c7aa2d8a0c1d0b9a8c8a85ccdce
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/settings/power_settings_app/views/battery_info.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/settings/power_settings_app/views/battery_info.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/settings/power\_settings\_app/views/battery\_info.h Source File
-==================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/settings/power\_settings\_app/views/battery\_info.h Source File
+======================================================================================================================
 
 .. container:: doxygen-content
 

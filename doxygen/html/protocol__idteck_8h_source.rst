@@ -1,11 +1,11 @@
-.. meta::a5173b9050ac50a1c1f1a2d66052e4dd3f851dd87badd8a00e72f819afc5ca398409c23e409527881910f6d6a9356c2de6dd82fbc8f9781c2e30b8766a5ca49a
+.. meta::a8942abe04ced78921eb1381427aa23d3e33aac0792213aaaeff396cbd9f3902c704d0972dd47c3b942b0cc153b15fbc71571dc5c1e4db116693b5ca3dfb7d7a
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol_idteck.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol_idteck.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol\_idteck.h Source File
-=========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol\_idteck.h Source File
+=============================================================================================
 
 .. container:: doxygen-content
 

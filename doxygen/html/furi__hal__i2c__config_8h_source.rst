@@ -1,11 +1,11 @@
-.. meta::5a6d6f07d3e133b920811ee6fbfc2977ac909c8dd5e93b0ac2031e455b9f5801068e5db8789cf5d0fdbf7663a997eae96390fac9bcda5e7d672a4958f248f757
+.. meta::6d7293e565d1c227a0737ea18fbe64009c9cc314087d42ff4a444bd216471339c1eee12a06b6159e45adddf844beb80fa6d51e7079a5e3a451c03fd8ae838d92
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/furi_hal/furi_hal_i2c_config.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/furi_hal/furi_hal_i2c_config.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/furi\_hal/furi\_hal\_i2c\_config.h Source File
-========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/furi\_hal/furi\_hal\_i2c\_config.h Source File
+============================================================================================================
 
 .. container:: doxygen-content
 

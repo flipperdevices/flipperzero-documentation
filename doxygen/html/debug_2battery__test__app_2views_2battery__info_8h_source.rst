@@ -1,11 +1,11 @@
-.. meta::eef094159a2a84ac5dc16871a6d64ce28ab43aab9769b193daf9c994d38093f36e71dccb36ad2b865c0f27e5f2f28c3efc56a3341e464a625cb0d3bd991ecb67
+.. meta::9b5a9a3a63c96e704dad28f60456ce6eec580da9957a65f1b573808bc2f3ab19e8fec2c44b9769ac4b2750b784779b90da15c2ef475135a272a04205bd6eba3f
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/debug/battery_test_app/views/battery_info.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/debug/battery_test_app/views/battery_info.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/debug/battery\_test\_app/views/battery\_info.h Source File
-=============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/debug/battery\_test\_app/views/battery\_info.h Source File
+=================================================================================================================
 
 .. container:: doxygen-content
 

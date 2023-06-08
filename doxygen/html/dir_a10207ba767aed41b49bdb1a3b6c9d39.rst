@@ -1,11 +1,11 @@
-.. meta::4aacdf728df92221de8d94a6b6f88c47d16357e68a2869c764935ff87f9af0aa9bf836e1f89a096ea02195b2865512b9dc4f7f5349981c8c73f2f35231d14a6f
+.. meta::93d233d72fcd2caf2c799fd03643da7af941a7cb96f607b37c8c7272c2ba53caee29a9f3f2c2595e3df1e246d5fb398e3d5ca1a85f8511062e6f367f668f1c0b
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/fnv1a-hash Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/fnv1a-hash Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/fnv1a-hash Directory Reference
-========================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/fnv1a-hash Directory Reference
+============================================================================
 
 .. container:: doxygen-content
 

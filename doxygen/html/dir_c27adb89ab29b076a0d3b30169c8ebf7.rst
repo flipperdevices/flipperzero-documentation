@@ -1,11 +1,11 @@
-.. meta::596e92259ab9cebea7fd09f76312972278191d8a98e3aab2ab06167ad91f81337c69277b37d1849f163567822ce31da1ad8d94a17a34894b69645487e61d447d
+.. meta::9efd899b4ebb6434bbbdd6143575f0cfe151f2b9a76cd4374f4d9c547811b8adaf7f660365654b06d6f0e161d8c9b4988f73b378d02b767bb778c037bea9e0c2
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/settings/notification_settings Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/settings/notification_settings Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/settings/notification\_settings Directory Reference
-======================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/settings/notification\_settings Directory Reference
+==========================================================================================================
 
 .. container:: doxygen-content
 

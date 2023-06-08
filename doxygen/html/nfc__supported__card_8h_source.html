@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/nfc/parsers/nfc_supported_card.h Source File</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/nfc/parsers/nfc_supported_card.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -60,31 +60,37 @@ $(function() {
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    NfcSupportedCardTypeTroika4K,</div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>    NfcSupportedCardTypeTwoCities,</div>
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    NfcSupportedCardTypeAllInOne,</div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span> </div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    NfcSupportedCardTypeEnd,</div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>} NfcSupportedCardType;</div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span> </div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="keyword">typedef</span> bool (*NfcSupportedCardVerify)(<a class="code hl_struct" href="struct_nfc_worker.html">NfcWorker</a>* nfc_worker, <a class="code hl_struct" href="struct_furi_hal_nfc_tx_rx_context.html">FuriHalNfcTxRxContext</a>* tx_rx);</div>
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span> </div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="keyword">typedef</span> bool (*NfcSupportedCardRead)(<a class="code hl_struct" href="struct_nfc_worker.html">NfcWorker</a>* nfc_worker, <a class="code hl_struct" href="struct_furi_hal_nfc_tx_rx_context.html">FuriHalNfcTxRxContext</a>* tx_rx);</div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span><span class="keyword">typedef</span> bool (*NfcSupportedCardParse)(<a class="code hl_struct" href="struct_nfc_device_data.html">NfcDeviceData</a>* dev_data);</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno"><a class="line" href="struct_nfc_supported_card.html">   24</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>    NfcProtocol protocol;</div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>    NfcSupportedCardVerify verify;</div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>    NfcSupportedCardRead read;</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>    NfcSupportedCardParse parse;</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>} <a class="code hl_struct" href="struct_nfc_supported_card.html">NfcSupportedCard</a>;</div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span> </div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span><span class="keyword">extern</span> <a class="code hl_struct" href="struct_nfc_supported_card.html">NfcSupportedCard</a> nfc_supported_card[NfcSupportedCardTypeEnd];</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span> </div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span><span class="keywordtype">bool</span> nfc_supported_card_verify_and_parse(<a class="code hl_struct" href="struct_nfc_device_data.html">NfcDeviceData</a>* dev_data);</div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    NfcSupportedCardTypeOpal,</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span> </div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    NfcSupportedCardTypeEnd,</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>} NfcSupportedCardType;</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span> </div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span><span class="keyword">typedef</span> bool (*NfcSupportedCardVerify)(<a class="code hl_struct" href="struct_nfc_worker.html">NfcWorker</a>* nfc_worker, <a class="code hl_struct" href="struct_furi_hal_nfc_tx_rx_context.html">FuriHalNfcTxRxContext</a>* tx_rx);</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span> </div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="keyword">typedef</span> bool (*NfcSupportedCardRead)(<a class="code hl_struct" href="struct_nfc_worker.html">NfcWorker</a>* nfc_worker, <a class="code hl_struct" href="struct_furi_hal_nfc_tx_rx_context.html">FuriHalNfcTxRxContext</a>* tx_rx);</div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span> </div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span><span class="keyword">typedef</span> bool (*NfcSupportedCardParse)(<a class="code hl_struct" href="struct_nfc_device_data.html">NfcDeviceData</a>* dev_data);</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span> </div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno"><a class="line" href="struct_nfc_supported_card.html">   25</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>    NfcProtocol protocol;</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>    NfcSupportedCardVerify verify;</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>    NfcSupportedCardRead read;</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>    NfcSupportedCardParse parse;</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>} <a class="code hl_struct" href="struct_nfc_supported_card.html">NfcSupportedCard</a>;</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span> </div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span><span class="keyword">extern</span> <a class="code hl_struct" href="struct_nfc_supported_card.html">NfcSupportedCard</a> nfc_supported_card[NfcSupportedCardTypeEnd];</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span> </div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span><span class="keywordtype">bool</span> nfc_supported_card_verify_and_parse(<a class="code hl_struct" href="struct_nfc_device_data.html">NfcDeviceData</a>* dev_data);</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span><span class="comment">// stub_parser_verify_read does nothing, and always reports that it does not</span></div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span><span class="comment">// support the card. This is needed for DESFire card parsers which can&#39;t</span></div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span><span class="comment">// provide keys, and only use NfcSupportedCard-&gt;parse.</span></div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span><span class="keywordtype">bool</span> stub_parser_verify_read(<a class="code hl_struct" href="struct_nfc_worker.html">NfcWorker</a>* nfc_worker, <a class="code hl_struct" href="struct_furi_hal_nfc_tx_rx_context.html">FuriHalNfcTxRxContext</a>* tx_rx);</div>
 <div class="ttc" id="afuri__hal__nfc_8h_html"><div class="ttname"><a href="furi__hal__nfc_8h.html">furi_hal_nfc.h</a></div><div class="ttdoc">NFC HAL API.</div></div>
 <div class="ttc" id="astruct_furi_hal_nfc_tx_rx_context_html"><div class="ttname"><a href="struct_furi_hal_nfc_tx_rx_context.html">FuriHalNfcTxRxContext</a></div><div class="ttdef"><b>Definition:</b> furi_hal_nfc.h:85</div></div>
-<div class="ttc" id="astruct_nfc_device_data_html"><div class="ttname"><a href="struct_nfc_device_data.html">NfcDeviceData</a></div><div class="ttdef"><b>Definition:</b> nfc_device.h:62</div></div>
-<div class="ttc" id="astruct_nfc_supported_card_html"><div class="ttname"><a href="struct_nfc_supported_card.html">NfcSupportedCard</a></div><div class="ttdef"><b>Definition:</b> nfc_supported_card.h:24</div></div>
-<div class="ttc" id="astruct_nfc_worker_html"><div class="ttname"><a href="struct_nfc_worker.html">NfcWorker</a></div><div class="ttdef"><b>Definition:</b> nfc_worker_i.h:16</div></div>
+<div class="ttc" id="astruct_nfc_device_data_html"><div class="ttname"><a href="struct_nfc_device_data.html">NfcDeviceData</a></div><div class="ttdef"><b>Definition:</b> nfc_device.h:65</div></div>
+<div class="ttc" id="astruct_nfc_supported_card_html"><div class="ttname"><a href="struct_nfc_supported_card.html">NfcSupportedCard</a></div><div class="ttdef"><b>Definition:</b> nfc_supported_card.h:25</div></div>
+<div class="ttc" id="astruct_nfc_worker_html"><div class="ttname"><a href="struct_nfc_worker.html">NfcWorker</a></div><div class="ttdef"><b>Definition:</b> nfc_worker_i.h:18</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
