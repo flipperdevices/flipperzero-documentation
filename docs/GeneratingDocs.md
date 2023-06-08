@@ -7,7 +7,7 @@
 - [Sphinx RTD theme](https://sphinx-rtd-theme.readthedocs.io/en/stable/installing.html)
 - [Doxygen](https://www.doxygen.nl/download.html)
 - [Doxysphinx](https://pypi.org/project/doxysphinx/)
-- [Sphinx-multiversion](https://pypi.org/project/sphinx-multiversion/)
+- Sphinx-multiversion - install our [fork](https://github.com/flipperdevices/sphinx-multiversion/tree/hleb/submodules) from the `hleb/submodules` branch, otherwise it won't work with submodules.
 - [Myst-parser](https://pypi.org/project/myst-parser/)
 
 ## Building documentation
