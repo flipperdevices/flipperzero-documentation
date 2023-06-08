@@ -1,11 +1,11 @@
-.. meta::24621a6d0871e778d9d6ec91731631d7fe70757c7426fb9502e8d32968a17d6140d27308ac539a71d567167794dbd39704c69e58a08dc0c16a888fe2632e00ce
+.. meta::6829c651e0702e2f3f7aa4851f9edbfd245dd4fcce19d77388fb117b173b355a6acc919d8404bae664b0927f19cf05e1f91c79501e1fd74893eee2cd7b62ef94
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/scene_manager_i.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/scene_manager_i.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/scene\_manager\_i.h Source File
-===============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/scene\_manager\_i.h Source File
+===================================================================================================
 
 .. container:: doxygen-content
 

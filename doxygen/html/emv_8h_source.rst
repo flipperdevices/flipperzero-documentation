@@ -1,11 +1,11 @@
-.. meta::450879fef04d3d51206dd277b277fb1a1193ac9fb7d0b8604a30f3b9d22753539ee5a7ab08e05d527663f84ce63896dae3f0c3be7be1e52f8916fa4bb96e3f66
+.. meta::dea02254cf3ebd86b6e301e24cda756e6365dd26b05cd83cac8c194b205f33782328320a9a2b87c32241ca482594fa72ccac4884ff1cbe0d006a3f28c3ba875e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/nfc/protocols/emv.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/nfc/protocols/emv.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/nfc/protocols/emv.h Source File
-=========================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/nfc/protocols/emv.h Source File
+=============================================================================
 
 .. container:: doxygen-content
 

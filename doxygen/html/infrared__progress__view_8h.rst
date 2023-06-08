@@ -1,11 +1,11 @@
-.. meta::01c6d057eb2dcc5fe7949b4a17899bc2816bfd77ce793679ea1acda42d84126afa6e2298f02ae63cb83ce63fe169fa7072cfaa4d9ab21d93d48b302b866e1b58
+.. meta::7b496588b4b2288dbea6e8a2d493e7214cba362554f93950fdae37d410e4238dd0a65ebfda7c9cb5c6e264cfc423fd2590f50454562914dda84da9936ccf08dc
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/infrared/views/infrared_progress_view.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/infrared/views/infrared_progress_view.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/infrared/views/infrared\_progress\_view.h File Reference
-================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/infrared/views/infrared\_progress\_view.h File Reference
+====================================================================================================================
 
 .. container:: doxygen-content
 

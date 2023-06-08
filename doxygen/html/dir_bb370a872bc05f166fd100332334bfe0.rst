@@ -1,11 +1,11 @@
-.. meta::abefe4235e9c130a5ad52f0c09baf6057d1b39295f10939ac035298435b029dc39388d1076b30245f2c4e38a66248a75084b363c7862f713f97018dbf00650d2
+.. meta::4d8cdef48db7f493342237ca08723ed1588b80e88c5debd80988c052ba124c40cd4b812109ab056503a110a28b2f4e4e5c5465a5fdf2c375d2ecbd4eb802ec38
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/u8g2 Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/u8g2 Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/u8g2 Directory Reference
-==================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/u8g2 Directory Reference
+======================================================================
 
 .. container:: doxygen-content
 

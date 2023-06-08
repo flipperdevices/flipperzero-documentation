@@ -1,11 +1,11 @@
-.. meta::0dfc93aafbb897cc2fb16f13b5ddb2b1532ffa31774ebf7b40cf5796eb2ddb55236a7347479da97161fdd83b64ca37ed50a03e0bb7a89f995a390d411d0890c3
+.. meta::b42589b7f57ce66b0e8664b92d1aea39611220ba589b67acd29ae01b8ee450be9588a775260874ff2baea48b33b62899bb0118a60226756ab8f8f44f81a1bca7
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/furi/core/timer.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/furi/core/timer.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/furi/core/timer.h Source File
-===================================================================
+/Users/astrr/flipper/flipperzero-firmware/furi/core/timer.h Source File
+=======================================================================
 
 .. container:: doxygen-content
 

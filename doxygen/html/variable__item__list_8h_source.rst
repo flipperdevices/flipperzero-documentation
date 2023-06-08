@@ -1,11 +1,11 @@
-.. meta::2c65d176ba9385fba080664a1e37cd7612d94461837be9fcab7750cbd127bc9358de65c6a0b55e584fd8d2f48f197c3ca760e331b5478361a81abf546e1b5fbd
+.. meta::c72206ef559b8a5b073a23e8897f54d7ab8184bf017be3258fdb46e837ab5a7d698cf8a276a63d8a8b32fd073c15db2ac375bbe9a9aa061d6311fd873a057065
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/variable_item_list.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/variable_item_list.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/variable\_item\_list.h Source File
-==========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/variable\_item\_list.h Source File
+==============================================================================================================
 
 .. container:: doxygen-content
 

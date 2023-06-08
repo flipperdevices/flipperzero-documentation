@@ -1,11 +1,11 @@
-.. meta::bfac5736b908f60717b6b722e75b35bbf376f04cb9217bc5316d4fafe2a37f6964b1d923a7bf7224de5e7557e980fe5aec5899b9dbdec41c34815081d50ad5c3
+.. meta::84d322cb5c17b7ee85a1136dd9ab5e4131d4a8010a120be5b3724c61a39312adf0c5b29269d7e51db0365aaa0df46538035a3fce19ee277a8d243971e134812a
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/one_wire/maxim_crc.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/one_wire/maxim_crc.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/one\_wire/maxim\_crc.h Source File
-============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/one\_wire/maxim\_crc.h Source File
+================================================================================
 
 .. container:: doxygen-content
 

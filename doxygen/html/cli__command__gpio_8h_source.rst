@@ -1,11 +1,11 @@
-.. meta::b46dd5cd8e2967d687ce38c0d8955c6ef05ce4769ed536c77e461fcb6c8f403e4f3603b57086b9f63c7ceb897857f9a737ada914ad52489f8805d61739f1a982
+.. meta::200fa0826a43a71fe1b166fc6c8cf02cb9ede6ee61d3f1bea7afd5d584b942ecda05a20597a14d3be9bbcd8116c2df3b5d64e14449b786353bc623f4e2b17148
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/cli/cli_command_gpio.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/cli/cli_command_gpio.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/cli/cli\_command\_gpio.h Source File
-================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/cli/cli\_command\_gpio.h Source File
+====================================================================================================
 
 .. container:: doxygen-content
 

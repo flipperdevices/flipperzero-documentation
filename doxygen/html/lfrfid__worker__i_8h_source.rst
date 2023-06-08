@@ -1,11 +1,11 @@
-.. meta::af995e57b3e2e7e19754a421d510d1595b5d56ac0b26bafc55d0b895f6255cce63ea2f5260dac58924768cb998d974526fdffde58944bb7c98ca56e11ce9161b
+.. meta::1fd1fa23680cfbeb49e410cda69a267ea17ad6d810ac2de61511df07dc86ecd7ca34f99d06b13fbdd6d009beec183227a96c73f1d260869554ed2746af66b2e5
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/lfrfid_worker_i.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/lfrfid_worker_i.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/lfrfid\_worker\_i.h Source File
-================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/lfrfid\_worker\_i.h Source File
+====================================================================================
 
 .. container:: doxygen-content
 

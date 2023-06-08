@@ -1,11 +1,11 @@
-.. meta::dbc955958129293df6455102a362eafd7394af73ddf8f3cc24d122ee0839735e56e3367a754dbb6e19ad38d2fe6ee362ae41e48e74daed3ebf8b6dc1187a83e2
+.. meta::4f996fe8bf580ca12cb67355af0e50dfed0e7bbffad697ef5c8b18dfbc602ae88fe5cffd0c97b976c5a530b92b948d22c1e5da4a85c6602465b80d857c57bf75
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/platform_specific/intrinsic_export.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/platform_specific/intrinsic_export.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/firmware/targets/f7/platform\_specific/intrinsic\_export.h Source File
-============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/firmware/targets/f7/platform\_specific/intrinsic\_export.h Source File
+================================================================================================================
 
 .. container:: doxygen-content
 

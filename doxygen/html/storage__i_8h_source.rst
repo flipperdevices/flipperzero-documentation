@@ -1,11 +1,11 @@
-.. meta::98837d84cb65fdb9bf24e631f39f00974eea56465f79614e45776e2638be42a5be963bd732fb06e6783d454b67d23b78f778ef80625a1cda3fe275b445f9bc4a
+.. meta::3439bfae60b4e7d9946f38389d04410c43a600a4f5e804730904b0024461391a3532ce0225801549e8b6da814730a1ca1521b11d3c7bfc0c91b8c5983a088f16
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/storage/storage_i.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/storage/storage_i.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/storage/storage\_i.h Source File
-============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/storage/storage\_i.h Source File
+================================================================================================
 
 .. container:: doxygen-content
 

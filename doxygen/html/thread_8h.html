@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/furi/core/thread.h File Reference</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/furi/core/thread.h File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -207,9 +207,9 @@ uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>furi_thread_flags
 <tr class="memitem:aef50fff1956f43e5167b180c96601b22"><td class="memItemLeft" align="right" valign="top"><a class="el" href="thread_8h.html#a3c6b408d9fd7848e4177c1fe273a2f25">FuriThreadStdoutWriteCallback</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="thread_8h.html#aef50fff1956f43e5167b180c96601b22">furi_thread_get_stdout_callback</a> ()</td></tr>
 <tr class="memdesc:aef50fff1956f43e5167b180c96601b22"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get STDOUT callback for thead.  <a href="thread_8h.html#aef50fff1956f43e5167b180c96601b22">More...</a><br /></td></tr>
 <tr class="separator:aef50fff1956f43e5167b180c96601b22"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6a9ca7157cbe1b5becaad38d9d223fe3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="thread_8h.html#a6a9ca7157cbe1b5becaad38d9d223fe3">furi_thread_set_stdout_callback</a> (<a class="el" href="thread_8h.html#a3c6b408d9fd7848e4177c1fe273a2f25">FuriThreadStdoutWriteCallback</a> callback)</td></tr>
-<tr class="memdesc:a6a9ca7157cbe1b5becaad38d9d223fe3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set STDOUT callback for thread.  <a href="thread_8h.html#a6a9ca7157cbe1b5becaad38d9d223fe3">More...</a><br /></td></tr>
-<tr class="separator:a6a9ca7157cbe1b5becaad38d9d223fe3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8dbd881b368224864c1e28c71a08fa83"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="thread_8h.html#a8dbd881b368224864c1e28c71a08fa83">furi_thread_set_stdout_callback</a> (<a class="el" href="thread_8h.html#a3c6b408d9fd7848e4177c1fe273a2f25">FuriThreadStdoutWriteCallback</a> callback)</td></tr>
+<tr class="memdesc:a8dbd881b368224864c1e28c71a08fa83"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set STDOUT callback for thread.  <a href="thread_8h.html#a8dbd881b368224864c1e28c71a08fa83">More...</a><br /></td></tr>
+<tr class="separator:a8dbd881b368224864c1e28c71a08fa83"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4ab14f3d8fdd31b1a23d674a64dc049a"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="thread_8h.html#a4ab14f3d8fdd31b1a23d674a64dc049a">furi_thread_stdout_write</a> (const char *data, size_t size)</td></tr>
 <tr class="memdesc:a4ab14f3d8fdd31b1a23d674a64dc049a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Write data to buffered STDOUT.  <a href="thread_8h.html#a4ab14f3d8fdd31b1a23d674a64dc049a">More...</a><br /></td></tr>
 <tr class="separator:a4ab14f3d8fdd31b1a23d674a64dc049a"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -561,7 +561,7 @@ uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>furi_thread_flags
 </div><div class="memdoc">
 
 <p>Get <a class="el" href="struct_furi_thread.html">FuriThread</a> instance for current thread. </p>
-<dl class="section return"><dt>Returns</dt><dd>FuriThread* </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>pointer to <a class="el" href="struct_furi_thread.html">FuriThread</a> or NULL if this thread doesn't belongs to Furi </dd></dl>
 
 </div>
 </div>
@@ -1224,14 +1224,14 @@ uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>furi_thread_flags
 
 </div>
 </div>
-<a id="a6a9ca7157cbe1b5becaad38d9d223fe3" name="a6a9ca7157cbe1b5becaad38d9d223fe3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6a9ca7157cbe1b5becaad38d9d223fe3">&#9670;&nbsp;</a></span>furi_thread_set_stdout_callback()</h2>
+<a id="a8dbd881b368224864c1e28c71a08fa83" name="a8dbd881b368224864c1e28c71a08fa83"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8dbd881b368224864c1e28c71a08fa83">&#9670;&nbsp;</a></span>furi_thread_set_stdout_callback()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool furi_thread_set_stdout_callback </td>
+          <td class="memname">void furi_thread_set_stdout_callback </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="thread_8h.html#a3c6b408d9fd7848e4177c1fe273a2f25">FuriThreadStdoutWriteCallback</a>&#160;</td>
           <td class="paramname"><em>callback</em></td><td>)</td>
@@ -1243,11 +1243,10 @@ uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>furi_thread_flags
 <p>Set STDOUT callback for thread. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">callback</td><td>callback or NULL to clear</td></tr>
+    <tr><td class="paramname">callback</td><td>callback or NULL to clear </td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>true on success, otherwise fail </dd></dl>
 
 </div>
 </div>

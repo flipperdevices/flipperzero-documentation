@@ -1,11 +1,11 @@
-.. meta::66095abfd8295d389a1883adf1452c921bfbe9242f2551a13f85a45f44f1dbab00088b678b3e433fff29067a56fa7e636cdf58935bc69a63f1420ee3abfbf169
+.. meta::49fb8afb67db369003a3ae9135fe68d4b322424e08a3d318589909dfef9141aa0f551152d134e484fc726dd2cfecc965e5b0a6d0012cf748ac7c825ed0ff7bc8
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol_gallagher.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol_gallagher.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol\_gallagher.h Source File
-============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol\_gallagher.h Source File
+================================================================================================
 
 .. container:: doxygen-content
 

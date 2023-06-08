@@ -1,11 +1,11 @@
-.. meta::58864b168a02253f67d86f04ca142245b41f81d95875129aa42a44dc02c668f44a1a194926e49ab39b4459b466151dbb6606fefb026d7119ad9476d4ad1ec322
+.. meta::a6ee7a5a1171f5cc3af172a3388999651d431b8f14765d5d3876148eb91e86f6b5e12f85883547b1d54d15dfe9c2711be2db9d7cd0491723118d3f109a158fc7
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/dap_link/usb/dap_v2_usb.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/dap_link/usb/dap_v2_usb.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/dap\_link/usb/dap\_v2\_usb.h Source File
-====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/dap\_link/usb/dap\_v2\_usb.h Source File
+========================================================================================================
 
 .. container:: doxygen-content
 

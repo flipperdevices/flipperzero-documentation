@@ -1,11 +1,11 @@
-.. meta::3863b62d4252e0b81c026ec843039576ebc816c1c3b277ad0d74556a811b4da38b4c2db21c84164201754e6c527d3d4749f81d02dd0ce7d00dac80b9ae3d1987
+.. meta::e07ca361ca146043cc7495f85bc7b764453e8a987e770e67531ee346ed6c464d94753082d2afcdbc106c911f54e46b432901e7ba9f977396165c7217b2fa0693
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/came_atomo.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/came_atomo.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/came\_atomo.h Source File
-====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/came\_atomo.h Source File
+========================================================================================
 
 .. container:: doxygen-content
 

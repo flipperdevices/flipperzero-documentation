@@ -1,11 +1,11 @@
-.. meta::e487a0cd4a633a6a5f94facf538502f3524823a903c97a1aca08bb9408e157719a552f22f63ce921685f4ede5519713b69d1013b5cdb114e8efa47bb69261f7e
+.. meta::a93c85ff67d172dcc7a922e63b184952c901dd67d672ff5d7d6858837a306341d9b2e1fb88c17f36d1dd4be5acb51f2684b0bfcbe668f7475a656108835bea49
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/ibutton/ibutton_key_i.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/ibutton/ibutton_key_i.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/ibutton/ibutton\_key\_i.h Source File
-===============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/ibutton/ibutton\_key\_i.h Source File
+===================================================================================
 
 .. container:: doxygen-content
 

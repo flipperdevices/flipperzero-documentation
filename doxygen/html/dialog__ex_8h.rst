@@ -1,11 +1,11 @@
-.. meta::31e5f43fdd17b98f74fe0fa362ba923fe67c28974b74b585a307f6ba50561bfc75e3918eae8322f6b45f144cd6a402c3630663199c80024b6f0eb3c4ab5b4cfa
+.. meta::e697fc9e9a0af1e043a0fad3f2a80d63c574fd484d5e77b5a260ee1ae0b6842d07c1396541adc4316d785529a914f2bf31eac552e137fc6bc772c33b3d6ec22e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/dialog_ex.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/dialog_ex.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/dialog\_ex.h File Reference
-===================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/dialog\_ex.h File Reference
+=======================================================================================================
 
 .. container:: doxygen-content
 

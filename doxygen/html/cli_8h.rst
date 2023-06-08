@@ -1,11 +1,11 @@
-.. meta::8ce306886d3391316cbf093059b9acbc8a71f0877bf05d2ec669ea7f91c396cd537233c78cf3697d10cf1d56090da5cb1f99c5f33035cb0ebb136bf6ca459bce
+.. meta::c69eb691b5f1ab5dbe385c542e51759d9410a74d123d7277e34c9bbf9fc6d1d1d4b98e2f821b5a5fd2fb8d4369b7ea006a9745fb7b477c1627d118db235a2330
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/cli/cli.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/cli/cli.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/cli/cli.h File Reference
-====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/cli/cli.h File Reference
+========================================================================================
 
 .. container:: doxygen-content
 

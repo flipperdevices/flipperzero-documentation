@@ -1,11 +1,11 @@
-.. meta::9ddfcef5ef58e25768c773fb5313b474a40840b5d27844f8302b9cea8d65cc608dd22e7f8c8618214da67107bc3d323e5b0f52d8f248cfdd08d4fd562f11fe06
+.. meta::53d69c1bcd18f585d6ddfaab5248130fa9697815034b1cc85b138362e6a43b5ce22b994a0b1c86990fb9fa6d1cc61e4a1fe72b09120407b4625b4884d0df57cb
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/power/power_service/views Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/power/power_service/views Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/power/power\_service/views Directory Reference
-==========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/power/power\_service/views Directory Reference
+==============================================================================================================
 
 .. container:: doxygen-content
 

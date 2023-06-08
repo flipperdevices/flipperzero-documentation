@@ -1,11 +1,11 @@
-.. meta::da63eaa8569364d94c32486e6ca87645e06c4a853c248f662b44da0f6a7ccd6ab3ad55bbed5c13a2e43d85dbb0b494600b07f224b2fa8ee8e84e9b38a84ee9e5
+.. meta::4cfd3772a271e4b039942c098f4d48684c18e05e152a5c985581cb4f0e365a356c4c76bc96c24f8f110f2f632ef6da07cdcbb7d86ee15fd07ac5f07c9986d17b
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/animations/animation_manager.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/animations/animation_manager.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/animations/animation\_manager.h Source File
-===============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/animations/animation\_manager.h Source File
+===================================================================================================================
 
 .. container:: doxygen-content
 

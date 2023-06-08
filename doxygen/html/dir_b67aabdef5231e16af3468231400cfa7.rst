@@ -1,11 +1,11 @@
-.. meta::e744d09a6c13798602a47bff0744fa18a3fca33f28ffbe94daa25d787f5628966b6f621f2e2ec4a073564c29097200b36400beb4135cd91666d5a8a878822602
+.. meta::40ad567c9c295ff2845f218310b7673f7a2bb6c52ab5a3c54fb76b5d94d65e2c1ccf791f1c5cb935ab2df9c14e12cd1d686ee024c9de4f19d474f09b9a6f94dd
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/clock Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/clock Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/clock Directory Reference
-=====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/clock Directory Reference
+=========================================================================================
 
 .. container:: doxygen-content
 

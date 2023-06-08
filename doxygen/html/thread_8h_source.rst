@@ -1,11 +1,11 @@
-.. meta::f3a5476eafbd714f16bf6f84566eaa9c27970854ee9b8d0cb9d72c44b5cc7586c914ffb489a7498924178365d1525876eafdf67c192d77d6234908ecba266529
+.. meta::f7835aac723294324935355459a31512eafd4bd26e57bf6a651ec73775cfd60b5050bc3be017beea90813dfae5c0384d36094b3c1b55513dfbd43796469eaa9e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/furi/core/thread.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/furi/core/thread.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/furi/core/thread.h Source File
-====================================================================
+/Users/astrr/flipper/flipperzero-firmware/furi/core/thread.h Source File
+========================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::025d44a4992325588b0de2eb88389bc0b77953348234a02877e54e4829cbf2c772665a264c3e95d868af08ba6bfd946a94e8d08af10ead664bf5d56d363fbb58
+.. meta::11cfc4d0cbbae2fa3d1fa35ea579f80bde19b1561d074de398e7e0726f4a9ca3b42d8d021df244551fa5661772b0abe179c6ae60c91896aa0762d9a218f31478
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/picopass/lib/loclass/optimized_elite.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/picopass/lib/loclass/optimized_elite.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/picopass/lib/loclass/optimized\_elite.h Source File
-===============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/picopass/lib/loclass/optimized\_elite.h Source File
+===================================================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::2a69286e5e9f2080d9aa9531ea30221fcc0749378e877897512c31ccf0c86cabfef195dfff55fc061714991f998ac8965b4f73cf9aec3245b503ef9059642911
+.. meta::e589e53eff74a744c00a3453693f7db630f53bc9f68cc89210221f8fb5c10a992388188ddfb19339abd69f56b549abc8df31d784d3f1f5562ceb71cb43e1ac02
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/nfc/parsers/all_in_one.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/nfc/parsers/all_in_one.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/nfc/parsers/all\_in\_one.h Source File
-================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/nfc/parsers/all\_in\_one.h Source File
+====================================================================================
 
 .. container:: doxygen-content
 

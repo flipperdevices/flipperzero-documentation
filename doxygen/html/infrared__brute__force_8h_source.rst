@@ -1,11 +1,11 @@
-.. meta::49a6754e5a1d71c830f86c341590d55d0ab4822812eaf0fc9395ac14dc77c8b0742724d8d13f2c6a70e31581480101f6559f7c5eacc3966f79f68510931ddeaa
+.. meta::b247b4443b9bfb7d5c6b2f03a1331973eee6c5d2999eedfd536f14e0677b32a6e2d40c11bf86738a8e6785cf855090857fe792187d01d888e23307d3722b0140
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/infrared/infrared_brute_force.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/infrared/infrared_brute_force.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/infrared/infrared\_brute\_force.h Source File
-=====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/infrared/infrared\_brute\_force.h Source File
+=========================================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::0458a591c7dd6a21839732a9c88d6fa7892e07cc56ec98b1afdc46cdb304f6dd7aecbd6a5af31215efa6a1b6cbb7720905a24c950f77512c63001ec48b2b909b
+.. meta::84749189a4f872ff0c69513c02f0e568b3cf4bd543acd22d25cddaf59f9c930b879285e4c6cb15c642b449ecd8df47e33adb43050dc676844eacc1990e73038d
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/music_player Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/music_player Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/music\_player Directory Reference
-=============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/music\_player Directory Reference
+=================================================================================================
 
 .. container:: doxygen-content
 

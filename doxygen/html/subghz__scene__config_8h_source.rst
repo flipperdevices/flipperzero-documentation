@@ -1,11 +1,11 @@
-.. meta::5a8badc5ce4d8342fe75121f2f6fa519e195633aa40f491239e64ba34d2d5c96f3cd77eba64a4da9990d246ed1a4114b9aac28324164311224bdd58d248e3925
+.. meta::c79f4ba694db33258c04ee833e3be5fb60b46886a8b16b808c0badd0de178b33d46525f5298214c551036712e7fb7d9ee824df085fa58976b8fd4698f21ce295
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/subghz/scenes/subghz_scene_config.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/subghz/scenes/subghz_scene_config.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/subghz/scenes/subghz\_scene\_config.h Source File
-=========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/subghz/scenes/subghz\_scene\_config.h Source File
+=============================================================================================================
 
 .. container:: doxygen-content
 

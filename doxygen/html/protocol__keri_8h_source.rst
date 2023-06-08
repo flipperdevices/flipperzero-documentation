@@ -1,11 +1,11 @@
-.. meta::032e185ee7ce4052b570d53213c2ace7c9d3dc3a1f6b6fc86ab3ea2280ac74f0c43bb7cea9ee8668126b79632ed0a75b60cb95e665581512ccafe67471bfb985
+.. meta::32d0dbd63f95151437e1a4c892f2b72cd551c6cd45384b40540e5c38833b9d32a1e78d99ee1b751da6a2341aa1799f4e4983ce758f64898d28ae4a0879e48cb6
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol_keri.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol_keri.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/lfrfid/protocols/protocol\_keri.h Source File
-=======================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/lfrfid/protocols/protocol\_keri.h Source File
+===========================================================================================
 
 .. container:: doxygen-content
 

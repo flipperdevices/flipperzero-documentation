@@ -1,11 +1,11 @@
-.. meta::6d97c695668df212984bf5a5f219467b738a78f731b78a5e8a097aac5a37f728faeefaaeb58ed13151dc78eb2310b755d7eefb84721ac9927f8a9206ed6d2c23
+.. meta::552e790c945cbba88f6832672159899c0ddafe04ff6a2ecbd26972d511493f13010fd7d42697e5e9d88290f99786c53f98a75d30ac0467f7463468ccb6a4e94b
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/animations/animation_storage_i.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/animations/animation_storage_i.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/animations/animation\_storage\_i.h Source File
-==================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/animations/animation\_storage\_i.h Source File
+======================================================================================================================
 
 .. container:: doxygen-content
 

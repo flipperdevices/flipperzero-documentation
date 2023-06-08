@@ -1,11 +1,11 @@
-.. meta::bb1a0939d2cb9411864afe20ef9385a47b1f00c20471b46da03bfbff7838954ea7dda6c87a993fdbd40f94098d1a8e6199dac584b7c47d2f5e3a3704a86efae3
+.. meta::d3f0a184907f1300e2d0dec55a948741df6ef5e8456faf9c034c4a5b2a150a0b8a6953c0f5b43ce45bd4c101fb8e5921d595d6ad29dc3599695de85fd528a041
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/kia.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/kia.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/protocols/kia.h Source File
-============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/protocols/kia.h Source File
+================================================================================
 
 .. container:: doxygen-content
 

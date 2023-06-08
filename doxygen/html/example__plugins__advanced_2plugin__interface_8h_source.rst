@@ -1,11 +1,11 @@
-.. meta::1c0febd619a37a86f2f4125386e0ef0c4715ce15d3e8846f5239f6362981e51095ec5fed7608ead661b0d60b78bdd134bebfb15abeb4168f436a3b0add7ebb5c
+.. meta::7649c3d4e7d7b8a2e24eb879aff2e7e97a376769afddd4f7694d28477a91cf5fe8f1eb4e1031d1c37b7fc208a71caa7c99cc9546b85b1a768385193db9270bb8
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/examples/example_plugins_advanced/plugin_interface.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/examples/example_plugins_advanced/plugin_interface.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/examples/example\_plugins\_advanced/plugin\_interface.h Source File
-======================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/examples/example\_plugins\_advanced/plugin\_interface.h Source File
+==========================================================================================================================
 
 .. container:: doxygen-content
 

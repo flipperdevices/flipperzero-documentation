@@ -1,11 +1,11 @@
-.. meta::cf3618f27c6b700307e805e35a7860b48445a45eeec6e6feb5d1f90c32a37c3af70077b87911fadb32de41b26fa9faa8aa1c2b9c9fa499bd0e28daf091c44dce
+.. meta::39500933bcaefb24ca0a25bb5790e5cce569b7d1ce46659e13d65d2be53bcad94019cefe04990805aaf9af57fc0c764444af6d82175eed11efc4219bc02ab02f
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/spi_mem_manager/lib/spi/spi_mem_tools.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/spi_mem_manager/lib/spi/spi_mem_tools.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/spi\_mem\_manager/lib/spi/spi\_mem\_tools.h Source File
-===================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/spi\_mem\_manager/lib/spi/spi\_mem\_tools.h Source File
+=======================================================================================================================
 
 .. container:: doxygen-content
 

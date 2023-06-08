@@ -1,11 +1,11 @@
-.. meta::604fc6afa477c11bb4c1a1fa14b28c2810eefa21572ffda419242251a6557aa54273285306fe7f2b70506a9cd8bec23fff4f1086fc97f03a102a95c0b6e45c40
+.. meta::31a48641bf2e80ece0b02624da016f45ab70136d4dba39de1bd63964242dc26fff6fe1a30784fc1f0cb47e45064bb10108cbce9ac3e4b81c25f3b427ed781161
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/toolbox/pretty_format.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/toolbox/pretty_format.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/toolbox/pretty\_format.h Source File
-==============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/toolbox/pretty\_format.h Source File
+==================================================================================
 
 .. container:: doxygen-content
 

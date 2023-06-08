@@ -1,11 +1,11 @@
-.. meta::74921d4453a9c4190ca022c491e278d5db60d6ce6a54ec0841cb52089a3d72562ef00416691b74893da6da67d6f8abfdcefa885248920eae681564c5fce5c47e
+.. meta::48eb0bf54d39862534962c43ea8949f4f96cd27571e3bccbc742a80543a0af24962579a2537e4a1ca39cfcba6c422ce712b6e7d8c9f6620a1a1a7467a536266a
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/helpers/slideshow.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/helpers/slideshow.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/helpers/slideshow.h Source File
-===================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/helpers/slideshow.h Source File
+=======================================================================================================
 
 .. container:: doxygen-content
 

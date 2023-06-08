@@ -1,11 +1,11 @@
-.. meta::1a3b8801cdb90f27fcb0dd2485ec8a7ef86b5b1e7619a95c91c03c6a945da1bd57c2a31773fad6b8145dbd5ea637efa1d6d8d2580bc71a29eb9f3e996029af63
+.. meta::442bd49a811845f252dc3d2dc8bebda78a93d90323cf182cc12ffc21e0977503890edb0daed1ab3d9f73405ff7649e9455181558e0681ca5859ef639ecdb96c2
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/gpio/scenes/gpio_scene.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/gpio/scenes/gpio_scene.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/gpio/scenes/gpio\_scene.h Source File
-=============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/gpio/scenes/gpio\_scene.h Source File
+=================================================================================================
 
 .. container:: doxygen-content
 

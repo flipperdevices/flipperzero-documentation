@@ -1,11 +1,11 @@
-.. meta::14e92d7c1f53f0d0d7802f68c8dd83f03ea9ebdedd9f25f4544a9fccd17b6ba667c928f2aede2951b8a2cd3b62f454207187856321d5830f588b2bf25bb8c0d0
+.. meta::4a467efbe6c1cc6e3eb73c6b0ae6541bf6ae8bac35a48ead84a45618408cea26e11348b9dd8ec3394c0b870abc72b6013822bb9e8f1ff212a17b7d8c54d61f5a
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/debug/keypad_test Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/debug/keypad_test Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/debug/keypad\_test Directory Reference
-=========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/debug/keypad\_test Directory Reference
+=============================================================================================
 
 .. container:: doxygen-content
 

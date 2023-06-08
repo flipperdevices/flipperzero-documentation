@@ -1,11 +1,11 @@
-.. meta::dff6b7de391a3aa060a9536538d96e1683c6296c1ae80a251b3a8c3657607ca6a5a41f331c7e1fe3d6b0dce71a1da9cfbf94ce65ec90f0f3935ac0754acf4927
+.. meta::6dd4b0d726c6a9ab7a893111dce459ce5a99036fabef8fd6b19252b561a5a99232269b525a17e58d538b5586727b8f9a210721536f20c2a49dd27901c3e6cf7d
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/firmware/targets/furi\_hal\_include/furi\_hal.h File Reference
-====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/firmware/targets/furi\_hal\_include/furi\_hal.h File Reference
+========================================================================================================
 
 .. container:: doxygen-content
 

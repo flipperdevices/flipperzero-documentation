@@ -1,11 +1,11 @@
-.. meta::803dc136701f15d1dc02dab7afc7e4fed8d1611a549c6a25f76d1fb2e1a1e97d548f9373b0c89759e5d4a68c01be30c4a0aaf354557c1951791edcb80e3a8724
+.. meta::cb222e4dbf8ecc123060dbd7d26cb6378ab0d167b7c49aabb4db5f7ac0d1b18183da1e7448fbd6c81042297e7690b86aadb9c4868b6debadf35dd88baee5db56
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/nfc/helpers/mf_classic_dict.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/nfc/helpers/mf_classic_dict.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/nfc/helpers/mf\_classic\_dict.h Source File
-=====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/nfc/helpers/mf\_classic\_dict.h Source File
+=========================================================================================
 
 .. container:: doxygen-content
 

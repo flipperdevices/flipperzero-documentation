@@ -1,11 +1,11 @@
-.. meta::fe2d49dbca68e9906a1cd217a0d4fe155f75f31d405de5dc9812a13c6d5fb2b9aad5e3044e3955137723785d39fd88d6197e228de29b01b65ca983604cf97372
+.. meta::d3e441ca253b653df2bce9df93e82cb1ca614614c69f63e352a6b2833cbb66de11e2987ccbca91c37b03d4180c8325c418fd9d354252897034efd4321c7b6395
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/ibutton/protocols/misc Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/ibutton/protocols/misc Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/ibutton/protocols/misc Directory Reference
-====================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/ibutton/protocols/misc Directory Reference
+========================================================================================
 
 .. container:: doxygen-content
 

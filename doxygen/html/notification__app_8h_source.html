@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/notification/notification_app.h Source File</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/notification/notification_app.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -81,7 +81,7 @@ $(function() {
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>    Light light;</div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>} <a class="code hl_struct" href="struct_notification_led_layer.html">NotificationLedLayer</a>;</div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span><span class="preprocessor">#define NOTIFICATION_SETTINGS_VERSION 0x01</span></div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span><span class="preprocessor">#define NOTIFICATION_SETTINGS_VERSION 0x02</span></div>
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span><span class="preprocessor">#define NOTIFICATION_SETTINGS_PATH INT_PATH(NOTIFICATION_SETTINGS_FILE_NAME)</span></div>
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span> </div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno"><a class="line" href="struct_notification_settings.html">   38</a></span><span class="keyword">typedef</span> <span class="keyword">struct </span>{</div>
@@ -90,25 +90,26 @@ $(function() {
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    <span class="keywordtype">float</span> led_brightness;</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    <span class="keywordtype">float</span> speaker_volume;</div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>    uint32_t display_off_delay_ms;</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>    <span class="keywordtype">bool</span> vibro_on;</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>} <a class="code hl_struct" href="struct_notification_settings.html">NotificationSettings</a>;</div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span> </div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno"><a class="line" href="struct_notification_app.html">   47</a></span><span class="keyword">struct </span><a class="code hl_struct" href="struct_notification_app.html">NotificationApp</a> {</div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>    FuriMessageQueue* queue;</div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    <a class="code hl_struct" href="struct_furi_pub_sub.html">FuriPubSub</a>* event_record;</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    FuriTimer* display_timer;</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span> </div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    <a class="code hl_struct" href="struct_notification_led_layer.html">NotificationLedLayer</a> display;</div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <a class="code hl_struct" href="struct_notification_led_layer.html">NotificationLedLayer</a> led[NOTIFICATION_LED_COUNT];</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>    uint8_t display_led_lock;</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span> </div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>    <a class="code hl_struct" href="struct_notification_settings.html">NotificationSettings</a> settings;</div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>};</div>
-<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span> </div>
-<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span><span class="keywordtype">void</span> notification_message_save_settings(<a class="code hl_struct" href="struct_notification_app.html">NotificationApp</a>* app);</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>    int8_t contrast;</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    <span class="keywordtype">bool</span> vibro_on;</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>} <a class="code hl_struct" href="struct_notification_settings.html">NotificationSettings</a>;</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span> </div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno"><a class="line" href="struct_notification_app.html">   48</a></span><span class="keyword">struct </span><a class="code hl_struct" href="struct_notification_app.html">NotificationApp</a> {</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    FuriMessageQueue* queue;</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    <a class="code hl_struct" href="struct_furi_pub_sub.html">FuriPubSub</a>* event_record;</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    FuriTimer* display_timer;</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span> </div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <a class="code hl_struct" href="struct_notification_led_layer.html">NotificationLedLayer</a> display;</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>    <a class="code hl_struct" href="struct_notification_led_layer.html">NotificationLedLayer</a> led[NOTIFICATION_LED_COUNT];</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>    uint8_t display_led_lock;</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span> </div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>    <a class="code hl_struct" href="struct_notification_settings.html">NotificationSettings</a> settings;</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>};</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span> </div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span><span class="keywordtype">void</span> notification_message_save_settings(<a class="code hl_struct" href="struct_notification_app.html">NotificationApp</a>* app);</div>
 <div class="ttc" id="afuri__hal_8h_html"><div class="ttname"><a href="furi__hal_8h.html">furi_hal.h</a></div><div class="ttdoc">Furi HAL API.</div></div>
 <div class="ttc" id="astruct_furi_pub_sub_html"><div class="ttname"><a href="struct_furi_pub_sub.html">FuriPubSub</a></div><div class="ttdef"><b>Definition:</b> pubsub.c:15</div></div>
-<div class="ttc" id="astruct_notification_app_html"><div class="ttname"><a href="struct_notification_app.html">NotificationApp</a></div><div class="ttdef"><b>Definition:</b> notification_app.h:47</div></div>
+<div class="ttc" id="astruct_notification_app_html"><div class="ttname"><a href="struct_notification_app.html">NotificationApp</a></div><div class="ttdef"><b>Definition:</b> notification_app.h:48</div></div>
 <div class="ttc" id="astruct_notification_app_message_html"><div class="ttname"><a href="struct_notification_app_message.html">NotificationAppMessage</a></div><div class="ttdef"><b>Definition:</b> notification_app.h:16</div></div>
 <div class="ttc" id="astruct_notification_led_layer_html"><div class="ttname"><a href="struct_notification_led_layer.html">NotificationLedLayer</a></div><div class="ttdef"><b>Definition:</b> notification_app.h:28</div></div>
 <div class="ttc" id="astruct_notification_settings_html"><div class="ttname"><a href="struct_notification_settings.html">NotificationSettings</a></div><div class="ttdef"><b>Definition:</b> notification_app.h:38</div></div>

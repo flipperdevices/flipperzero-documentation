@@ -1,11 +1,11 @@
-.. meta::0f39e96995d6ca490c02668d195dbc7ad1cf51f3805706f22a9524320001bf7677d367c1a6bc5a6ac5c6e54422e2025a0e39054e9d2ecbe075078f8f8283b42a
+.. meta::b681be01cc8b900b02ee98a4cd57d7d02c323897f903e088fa3d2d55137291515fe7788ea606d66c08c6cc5cf981eb8305f276004de3d8b89f3eb270c5adb28b
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/desktop.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/desktop.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/desktop/desktop.h Source File
-=========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/desktop/desktop.h Source File
+=============================================================================================
 
 .. container:: doxygen-content
 

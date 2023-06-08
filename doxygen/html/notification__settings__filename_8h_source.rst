@@ -1,11 +1,11 @@
-.. meta::4cfc7d050df3ab38196d322fb1b078194444eabf7f4407ce48b2175456c27929342a664b770e8b59adb5d3dae9dd0d7b36912f1047633c833f79b8a46599fd1c
+.. meta::0386c394c8dfd67edce73ee2f58acf285cc134b8db803664ffbc9701c37a1bcc82229ed6ff504aefd0ae469e205d54b9605401786895a81c59d9ee8ff33cb3f5
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/notification/notification_settings_filename.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/notification/notification_settings_filename.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/notification/notification\_settings\_filename.h Source File
-=======================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/notification/notification\_settings\_filename.h Source File
+===========================================================================================================================
 
 .. container:: doxygen-content
 

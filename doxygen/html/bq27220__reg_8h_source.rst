@@ -1,11 +1,11 @@
-.. meta::bb7bf6afdb44f4fccab47c4b91d080825a06dffd427ed4a5397cd6a18bdaeda8825679d146fbe3f1cfe6fd25925e4a3ff2be9a8de313de25beb80b390907d621
+.. meta::df953933b42ac6139983c717c313513e98b97007fb693ea5675cacc9e3e9a456317b0cac6af695cb3eb6f121301aa1e9675c4a68131ce0648cdfa8bcc40fdf31
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/drivers/bq27220_reg.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/drivers/bq27220_reg.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/drivers/bq27220\_reg.h Source File
-============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/drivers/bq27220\_reg.h Source File
+================================================================================
 
 .. container:: doxygen-content
 

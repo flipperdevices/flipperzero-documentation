@@ -1,11 +1,11 @@
-.. meta::31a1b9a7d743ad9cf999d75f40b54e9416558f9e0a5127fdc25e59a49b09e9ff9a05d2399934ff5ccf235b72256cc504db773bfa19b9d9bcea1b23b80c8675e3
+.. meta::98a5fb3cafb5d00db66a3b0074b6221e7d60c51af24aa3375eb9d020fff492783e48c33c8bb472db226627ef896fb2b347ce5d170e78aaf7662319a15d241078
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/signal_generator/scenes/signal_gen_scene_config.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/signal_generator/scenes/signal_gen_scene_config.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/signal\_generator/scenes/signal\_gen\_scene\_config.h Source File
-=============================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/signal\_generator/scenes/signal\_gen\_scene\_config.h Source File
+=================================================================================================================================
 
 .. container:: doxygen-content
 

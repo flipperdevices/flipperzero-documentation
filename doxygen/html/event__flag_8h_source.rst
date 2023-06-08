@@ -1,11 +1,11 @@
-.. meta::46687a01b669775d59c01576fb9ad1e365ce8cd00d01312fcc095eb485e4b6906942df672381a1384dfd8785a13ab8c335ac270d17eb6b5233ecf8e10b9daaaa
+.. meta::696882497ee9abb292483db84247b40e7c7b94a549bb34b8fa4ca997b85ea8d71d980351cbb4997327870f4d2f09868b5a60941ea9cfcb584e6decc41248605e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/furi/core/event_flag.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/furi/core/event_flag.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/furi/core/event\_flag.h Source File
-=========================================================================
+/Users/astrr/flipper/flipperzero-firmware/furi/core/event\_flag.h Source File
+=============================================================================
 
 .. container:: doxygen-content
 

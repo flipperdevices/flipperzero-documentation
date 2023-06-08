@@ -1,11 +1,11 @@
-.. meta::6464926b113a6f149cb9186b0e5cdbe01546a3d788902e877a47fe0b218d0bdc29aa58a13eaf85d58f948770b5c457db19d7b9f0a69858b442cb9350e5a52f88
+.. meta::a2f9b9ff8ab08a15882b58eeaa7ba63768e5d89ec784d585229cf5f1d0bc8aad112e41cc8cbca6c2a2f257747a9528e7adb991595284f4635f7283a971606aa5
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/picopass/views Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/picopass/views Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/picopass/views Directory Reference
-==============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/picopass/views Directory Reference
+==================================================================================================
 
 .. container:: doxygen-content
 

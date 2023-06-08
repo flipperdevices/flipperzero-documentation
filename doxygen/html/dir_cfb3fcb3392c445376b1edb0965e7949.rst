@@ -1,11 +1,11 @@
-.. meta::85c88b5838756c684f1fff3ae097f4840747d34efff44634f7a95df44fb330c925e283aeeef3c23010d00a81938ca51f51a2af65ee9f631772fe908c89c7bd24
+.. meta::56bcfeb069e2681352aed34b06dfaa05d0229df1412114e7194cf4284f6a02c239baaa88fb811abd347437be0ca2f023def1d404ba807ab3160e9e5a61174ee9
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/digital_signal Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/digital_signal Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/digital\_signal Directory Reference
-=============================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/digital\_signal Directory Reference
+=================================================================================
 
 .. container:: doxygen-content
 

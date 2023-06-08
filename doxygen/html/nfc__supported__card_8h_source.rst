@@ -1,11 +1,11 @@
-.. meta::02da82fd56eb78ed02a29ef86482a0e9dabf93772e2fdc9a1c41654569e003eeecaa10b216670d3ae7179809191ca5ef3f6e5260848a772f6ad66c47c172e5b9
+.. meta::39c59be1ac3c775fb6aba452393a08d655c6678d1b20d208c9440df9a39bda93b6584731b9e662e252bba4f37cac317dc4843e921198fb4ce192d9d405341146
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/nfc/parsers/nfc_supported_card.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/nfc/parsers/nfc_supported_card.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/nfc/parsers/nfc\_supported\_card.h Source File
-========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/nfc/parsers/nfc\_supported\_card.h Source File
+============================================================================================
 
 .. container:: doxygen-content
 

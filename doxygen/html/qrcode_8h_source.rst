@@ -1,11 +1,11 @@
-.. meta::d73714ee1ffe0597d22a84ef0d7835e5119e77a3f23eecc51294e34a8a3b65b349468c113cfbdc6a77373cc299f0081b2d5b69989c6bcb3cb113e7e4d8e91933
+.. meta::0f34c93c7beafa8dd4142da8167a233aa76775727f1a78c015186d37e50829aba111bc551c792925dcfcc4298a917e00b281544747c01682dbd4ca14da3129f1
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/qrcode/qrcode.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/qrcode/qrcode.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/qrcode/qrcode.h Source File
-=====================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/qrcode/qrcode.h Source File
+=========================================================================
 
 .. container:: doxygen-content
 

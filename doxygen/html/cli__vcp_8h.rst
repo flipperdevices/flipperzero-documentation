@@ -1,11 +1,11 @@
-.. meta::83b6854cf8c3707b2697c9e4fcb704e37ef04a3a97fb9b9dd311d407ecac4294a2d41a8acda6b504db59d40d5da6391d52db9591e46a2e0e2ecc9e37014d6fff
+.. meta::2041a5efd02b8793cfb5f0dede6de7cca88e27bfe87757012ce9077290bd481ac2c0a8ed0f25f187af72443729d3bfcfe663085284477670af0cd24107335df6
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/cli/cli_vcp.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/cli/cli_vcp.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/cli/cli\_vcp.h File Reference
-=========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/cli/cli\_vcp.h File Reference
+=============================================================================================
 
 .. container:: doxygen-content
 

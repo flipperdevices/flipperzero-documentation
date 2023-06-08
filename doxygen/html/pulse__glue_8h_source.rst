@@ -1,11 +1,11 @@
-.. meta::f75d2afa64443da9409c34334e7e3cd8f09b3c7fd0903e17c3d638aed681c9291a239b2969e4174edf6aa6abda0c39fa1ff76fed59c5ecc8a03002238de6156e
+.. meta::4f8e63ecccde59496a7e64b3c5c82d7f8206b0b4e8b08575dd3344d18ca8bf79ffccac6a7ce1cbbde6095078f46741b0dfe45b9454cf77ba022d6473fa69fd3b
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/toolbox/pulse_protocols/pulse_glue.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/toolbox/pulse_protocols/pulse_glue.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/toolbox/pulse\_protocols/pulse\_glue.h Source File
-============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/toolbox/pulse\_protocols/pulse\_glue.h Source File
+================================================================================================
 
 .. container:: doxygen-content
 

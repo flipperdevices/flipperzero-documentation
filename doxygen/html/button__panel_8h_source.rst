@@ -1,11 +1,11 @@
-.. meta::249cdb902c14178f1187c25c6bf221de0c85f538282eb3850232b891e6bd4a31f99cd69216c324495c3f7fb285ef0371f69b660b1e43f2b99ae7926fbb9afbb9
+.. meta::e73f682ebc3e354817d0c015142b757e730d49716a8700bec700903e6a5a55d1194773baeaf625dd74a1e69f6631e2db7a198eb73d0d5422f6775acee9c14c21
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/button_panel.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/button_panel.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/button\_panel.h Source File
-===================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/button\_panel.h Source File
+=======================================================================================================
 
 .. container:: doxygen-content
 

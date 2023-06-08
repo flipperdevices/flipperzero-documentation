@@ -1,11 +1,11 @@
-.. meta::e7edb257b9579beab640baca55f89fd1b33245c165b7f36ce34e976ad8500eb0f50cc12fc94a616425f46dcc74550e2422507e1f8d60a43b0d9eeff6049e69c1
+.. meta::0d9fb4513afb9f2bae1f0f017d23d78aaf5fe5fd900ec08224c9341fff8232d92238c57e21b2ca99be3efe9b62ba4841962b45f6de533073d601daf9406785cf
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/text_input.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/text_input.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/text\_input.h File Reference
-====================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/text\_input.h File Reference
+========================================================================================================
 
 .. container:: doxygen-content
 

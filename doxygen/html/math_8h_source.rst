@@ -1,11 +1,11 @@
-.. meta::600488bb8a1be5bc6285b1f80084381c11ed8d22cc1669b026a5744feec6cdcc8c4c3705d7ab90260a9a14ebd8e93603b2a45228e485593e97b061ab1a404b00
+.. meta::b4c914249ad47162102ae7c06f69626ccb1a947f3cb8bc901a7c221ce0068429bca84650321863e7d89e118d2b2b857131caa62c02e2de23c366a30587f3e3aa
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/subghz/blocks/math.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/subghz/blocks/math.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/subghz/blocks/math.h Source File
-==========================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/subghz/blocks/math.h Source File
+==============================================================================
 
 .. container:: doxygen-content
 

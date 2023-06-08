@@ -1,11 +1,11 @@
-.. meta::ed2509d0d31fde4578640133db6132d9a86683abc1d89e27557212ef84f205278aa9b91d97fa74f2fcacccb892b16441ed022d4fa264a47fd06d6477645797bd
+.. meta::fcf4e0510dc35d23cd74975ef321440697d65e2882d194886eca578b796a48a8aa78edae78ab39f4381a05d2c379ad5f4fac835fa0e57ea2a25624f7ad0d6fd9
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/external/music_player/music_player_worker.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/external/music_player/music_player_worker.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/external/music\_player/music\_player\_worker.h Source File
-=============================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/external/music\_player/music\_player\_worker.h Source File
+=================================================================================================================
 
 .. container:: doxygen-content
 

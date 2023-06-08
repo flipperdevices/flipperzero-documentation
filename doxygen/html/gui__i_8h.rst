@@ -1,11 +1,11 @@
-.. meta::a162121ba46f61297e12cbbbd15ed304cb89e9820b1e14cd6dc53bf64252aa8235b81882bbbb1ee05bbbe2e5bbfb48907b820c705c34eb1eff90c240fe09a553
+.. meta::f8204bea3b6e13c43e92ebb100fa1a0ded4aba3659e7a08d8fcb04b2d63d7aa742fe12032693ac73042f63ef3ec0954c95154f2a6995f01e0269fec12e541708
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/gui_i.h File Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/gui_i.h File Reference
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/gui\_i.h File Reference
-=======================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/gui\_i.h File Reference
+===========================================================================================
 
 .. container:: doxygen-content
 

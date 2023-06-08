@@ -1,11 +1,11 @@
-.. meta::f0d5cd6e2d23f0d970b2a2883222ab44dbf501b86b3ee3cf26b8c00b7d6f1ed5699e063cbe7d890ca9b3015289ab0865160050fa1ca6529313ce3428cb32c9f0
+.. meta::b7243adca42271b93c66c97f7bf08c35d1d11cdde644a65469167b1f04db08a6fa8fe0700c1b0a7e9e4e5e1d8b013b207a1fafd6f853ee88ff01d3037a416ea5
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/nfc/protocols/mifare_ultralight.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/nfc/protocols/mifare_ultralight.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/nfc/protocols/mifare\_ultralight.h Source File
-========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/nfc/protocols/mifare\_ultralight.h Source File
+============================================================================================
 
 .. container:: doxygen-content
 

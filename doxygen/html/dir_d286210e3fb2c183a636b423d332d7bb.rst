@@ -1,11 +1,11 @@
-.. meta::862d4aaaf74a2c3af72c40aab9f6323df74c9c28bba5f2f57320085add547c229ba8bf9c642e90dfc069f38435d3535faca57f94c8d4f5a74bf741789f6ed97f
+.. meta::4cafeec384e6e630f438709d7376b28420fc2e01d88f969042ec6844d2a344cc4548b718fedbb2dfc7008b86cc3e7144c8b847cdb2122e29a7076db98d5b3b42
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/ibutton/protocols/dallas Directory Reference
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/ibutton/protocols/dallas Directory Reference
 
-/Users/astrr/wtf/flipperzero-firmware/lib/ibutton/protocols/dallas Directory Reference
-======================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/ibutton/protocols/dallas Directory Reference
+==========================================================================================
 
 .. container:: doxygen-content
 

@@ -1,11 +1,11 @@
-.. meta::a92441ebea640b458a4f3f72b37fa2dbdfc6b1c3dfa3013a47d555ad4a65461144c9537f6fc4593624d8dcfaa0f43691a351085155f4e19e2aa9e05cbda547ec
+.. meta::f2bbcee1f0801b323288b01d04629c4b0b326804f1ca65f91b9760bb3bb4caaab0ceab98f9831317c6cb2e36e98b07b9a63466e5d4cc0fd6f5028d8c24ee03f0
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/main/u2f/u2f.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/main/u2f/u2f.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/main/u2f/u2f.h Source File
-=============================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/main/u2f/u2f.h Source File
+=================================================================================
 
 .. container:: doxygen-content
 

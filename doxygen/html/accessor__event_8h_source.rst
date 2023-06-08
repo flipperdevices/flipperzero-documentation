@@ -1,11 +1,11 @@
-.. meta::36176816bff45aea2e54a7ce725ce759d535ab90ac7fd0e07c7a9d2e3ba3a28c0b62de4b715011b3e2f07e01297ddf5c10df6edf987a112004eda538c6e8f1d0
+.. meta::5e9061f2774334f2e89c772ff4a982ca9a13dc8c11b6b077208218dcc0ac1e48074d08c8d196b92cc79a8eb3c95e2e6241d9597e06f59d2f466ae95ae761051e
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/debug/accessor/accessor_event.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/debug/accessor/accessor_event.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/debug/accessor/accessor\_event.h Source File
-===============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/debug/accessor/accessor\_event.h Source File
+===================================================================================================
 
 .. container:: doxygen-content
 

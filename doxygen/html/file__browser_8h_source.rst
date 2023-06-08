@@ -1,11 +1,11 @@
-.. meta::18c590bb07e2383e4be25bc9038cd40947288b399aa231dd1fb50c215bfb677db54aa244e7de283af66334bd3b1a00df19a0d39f657796343e5482021d3529a6
+.. meta::f00e8987db0ade0a665def69b416c7fc593bee3961a95bc24e93b1787f7b4f23f63ecb0852c4b9722c100735f60b25da8c6c0170903f2f5b63744a680a71ace6
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/file_browser.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/file_browser.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/file\_browser.h Source File
-===================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/file\_browser.h Source File
+=======================================================================================================
 
 .. container:: doxygen-content
 

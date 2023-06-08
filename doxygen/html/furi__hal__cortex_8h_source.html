@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal_cortex.h Source File</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal_cortex.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -74,15 +74,46 @@ $(function() {
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span> </div>
 <div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span><span class="keywordtype">void</span> <a class="code hl_function" href="furi__hal__cortex_8h.html#a819015eb6167241aba8ce0fd85f80b05">furi_hal_cortex_timer_wait</a>(<a class="code hl_struct" href="struct_furi_hal_cortex_timer.html">FuriHalCortexTimer</a> cortex_timer);</div>
 <div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span> </div>
-<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span><span class="preprocessor">#ifdef __cplusplus</span></div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>}</div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span><span class="preprocessor">#endif</span></div>
-<div class="ttc" id="afuri__hal__cortex_8h_html_a4e3cb9414ad1b611f1c76e49af221229"><div class="ttname"><a href="furi__hal__cortex_8h.html#a4e3cb9414ad1b611f1c76e49af221229">furi_hal_cortex_timer_get</a></div><div class="ttdeci">FuriHalCortexTimer furi_hal_cortex_timer_get(uint32_t timeout_us)</div><div class="ttdoc">Get Timer.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:27</div></div>
-<div class="ttc" id="afuri__hal__cortex_8h_html_a7a87eb22bfcdeba98eb8d47dadbc53b6"><div class="ttname"><a href="furi__hal__cortex_8h.html#a7a87eb22bfcdeba98eb8d47dadbc53b6">furi_hal_cortex_init_early</a></div><div class="ttdeci">void furi_hal_cortex_init_early()</div><div class="ttdoc">Early init stage for cortex.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:7</div></div>
-<div class="ttc" id="afuri__hal__cortex_8h_html_a819015eb6167241aba8ce0fd85f80b05"><div class="ttname"><a href="furi__hal__cortex_8h.html#a819015eb6167241aba8ce0fd85f80b05">furi_hal_cortex_timer_wait</a></div><div class="ttdeci">void furi_hal_cortex_timer_wait(FuriHalCortexTimer cortex_timer)</div><div class="ttdoc">Wait for timer expire.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:38</div></div>
-<div class="ttc" id="afuri__hal__cortex_8h_html_aaea128ff082fc804671bca1f7662d1db"><div class="ttname"><a href="furi__hal__cortex_8h.html#aaea128ff082fc804671bca1f7662d1db">furi_hal_cortex_timer_is_expired</a></div><div class="ttdeci">bool furi_hal_cortex_timer_is_expired(FuriHalCortexTimer cortex_timer)</div><div class="ttdoc">Check if timer expired.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:34</div></div>
-<div class="ttc" id="afuri__hal__cortex_8h_html_ad538925936bf7bb9bb124d103888e2c4"><div class="ttname"><a href="furi__hal__cortex_8h.html#ad538925936bf7bb9bb124d103888e2c4">furi_hal_cortex_instructions_per_microsecond</a></div><div class="ttdeci">uint32_t furi_hal_cortex_instructions_per_microsecond()</div><div class="ttdoc">Get instructions per microsecond count.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:23</div></div>
-<div class="ttc" id="afuri__hal__cortex_8h_html_af252e1631a091d6ff2ce54dc37149adc"><div class="ttname"><a href="furi__hal__cortex_8h.html#af252e1631a091d6ff2ce54dc37149adc">furi_hal_cortex_delay_us</a></div><div class="ttdeci">void furi_hal_cortex_delay_us(uint32_t microseconds)</div><div class="ttdoc">Microseconds delay.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:16</div></div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span><span class="keyword">typedef</span> <span class="keyword">enum</span> {</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>    FuriHalCortexComp0,</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>    FuriHalCortexComp1,</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>    FuriHalCortexComp2,</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>    FuriHalCortexComp3,</div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>} FuriHalCortexComp;</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span> </div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span><span class="keyword">typedef</span> <span class="keyword">enum</span> {</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>    FuriHalCortexCompSizeWord = 0b10,</div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>    FuriHalCortexCompSizeHalfWord = 0b01,</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>    FuriHalCortexCompSizeByte = 0b00,</div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>} FuriHalCortexCompSize;</div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span> </div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span><span class="keyword">typedef</span> <span class="keyword">enum</span> {</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>    FuriHalCortexCompFunctionPC = 0b100,</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>    FuriHalCortexCompFunctionRead = 0b101,</div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>    FuriHalCortexCompFunctionWrite = 0b110,</div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>    FuriHalCortexCompFunctionReadWrite = 0b110,</div>
+<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>} FuriHalCortexCompFunction;</div>
+<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span> </div>
+<div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span><span class="keywordtype">void</span> <a class="code hl_function" href="furi__hal__cortex_8h.html#ae64f47fa574a312339898dd7ff4d5847">furi_hal_cortex_comp_enable</a>(</div>
+<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>    FuriHalCortexComp comp,</div>
+<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>    FuriHalCortexCompFunction <span class="keyword">function</span>,</div>
+<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>    uint32_t value,</div>
+<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>    uint32_t mask,</div>
+<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>    FuriHalCortexCompSize size);</div>
+<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span> </div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span><span class="keywordtype">void</span> <a class="code hl_function" href="furi__hal__cortex_8h.html#a2d9c14f73d109716958e0a891fa787fe">furi_hal_cortex_comp_reset</a>(FuriHalCortexComp comp);</div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span> </div>
+<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span><span class="preprocessor">#ifdef __cplusplus</span></div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>}</div>
+<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span><span class="preprocessor">#endif</span></div>
+<div class="ttc" id="afuri__hal__cortex_8h_html_a2d9c14f73d109716958e0a891fa787fe"><div class="ttname"><a href="furi__hal__cortex_8h.html#a2d9c14f73d109716958e0a891fa787fe">furi_hal_cortex_comp_reset</a></div><div class="ttdeci">void furi_hal_cortex_comp_reset(FuriHalCortexComp comp)</div><div class="ttdoc">Reset DWT comparator.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:84</div></div>
+<div class="ttc" id="afuri__hal__cortex_8h_html_a4e3cb9414ad1b611f1c76e49af221229"><div class="ttname"><a href="furi__hal__cortex_8h.html#a4e3cb9414ad1b611f1c76e49af221229">furi_hal_cortex_timer_get</a></div><div class="ttdeci">FuriHalCortexTimer furi_hal_cortex_timer_get(uint32_t timeout_us)</div><div class="ttdoc">Get Timer.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:28</div></div>
+<div class="ttc" id="afuri__hal__cortex_8h_html_a7a87eb22bfcdeba98eb8d47dadbc53b6"><div class="ttname"><a href="furi__hal__cortex_8h.html#a7a87eb22bfcdeba98eb8d47dadbc53b6">furi_hal_cortex_init_early</a></div><div class="ttdeci">void furi_hal_cortex_init_early()</div><div class="ttdoc">Early init stage for cortex.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:8</div></div>
+<div class="ttc" id="afuri__hal__cortex_8h_html_a819015eb6167241aba8ce0fd85f80b05"><div class="ttname"><a href="furi__hal__cortex_8h.html#a819015eb6167241aba8ce0fd85f80b05">furi_hal_cortex_timer_wait</a></div><div class="ttdeci">void furi_hal_cortex_timer_wait(FuriHalCortexTimer cortex_timer)</div><div class="ttdoc">Wait for timer expire.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:39</div></div>
+<div class="ttc" id="afuri__hal__cortex_8h_html_aaea128ff082fc804671bca1f7662d1db"><div class="ttname"><a href="furi__hal__cortex_8h.html#aaea128ff082fc804671bca1f7662d1db">furi_hal_cortex_timer_is_expired</a></div><div class="ttdeci">bool furi_hal_cortex_timer_is_expired(FuriHalCortexTimer cortex_timer)</div><div class="ttdoc">Check if timer expired.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:35</div></div>
+<div class="ttc" id="afuri__hal__cortex_8h_html_ad538925936bf7bb9bb124d103888e2c4"><div class="ttname"><a href="furi__hal__cortex_8h.html#ad538925936bf7bb9bb124d103888e2c4">furi_hal_cortex_instructions_per_microsecond</a></div><div class="ttdeci">uint32_t furi_hal_cortex_instructions_per_microsecond()</div><div class="ttdoc">Get instructions per microsecond count.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:24</div></div>
+<div class="ttc" id="afuri__hal__cortex_8h_html_ae64f47fa574a312339898dd7ff4d5847"><div class="ttname"><a href="furi__hal__cortex_8h.html#ae64f47fa574a312339898dd7ff4d5847">furi_hal_cortex_comp_enable</a></div><div class="ttdeci">void furi_hal_cortex_comp_enable(FuriHalCortexComp comp, FuriHalCortexCompFunction function, uint32_t value, uint32_t mask, FuriHalCortexCompSize size)</div><div class="ttdoc">Enable DWT comparator.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:50</div></div>
+<div class="ttc" id="afuri__hal__cortex_8h_html_af252e1631a091d6ff2ce54dc37149adc"><div class="ttname"><a href="furi__hal__cortex_8h.html#af252e1631a091d6ff2ce54dc37149adc">furi_hal_cortex_delay_us</a></div><div class="ttdeci">void furi_hal_cortex_delay_us(uint32_t microseconds)</div><div class="ttdoc">Microseconds delay.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.c:17</div></div>
 <div class="ttc" id="astruct_furi_hal_cortex_timer_html"><div class="ttname"><a href="struct_furi_hal_cortex_timer.html">FuriHalCortexTimer</a></div><div class="ttdoc">Cortex timer provides high precision low level expiring timer.</div><div class="ttdef"><b>Definition:</b> furi_hal_cortex.h:16</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->

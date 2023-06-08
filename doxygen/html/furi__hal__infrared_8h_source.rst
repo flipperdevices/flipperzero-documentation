@@ -1,11 +1,11 @@
-.. meta::4eb9e6d6bc9456f5c7afe85a87b963b4572da9f944e8bc598e7c59cef98b2be4f2645b88f7bdccb0bc90069200eb58a4454a301f1af054136d493db7a34c6d2c
+.. meta::f5a5fd390f205199ad2009bbfee0e2d47de6caf63f71c77ae3c82db6e5fe48a0bb588824f2c53c31ef80f8811e1e255052d0b07b85d66e43d1f7d131c10c3fb6
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal_infrared.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal_infrared.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/firmware/targets/furi\_hal\_include/furi\_hal\_infrared.h Source File
-===========================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/firmware/targets/furi\_hal\_include/furi\_hal\_infrared.h Source File
+===============================================================================================================
 
 .. container:: doxygen-content
 

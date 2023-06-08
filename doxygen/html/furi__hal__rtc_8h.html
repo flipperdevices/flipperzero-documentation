@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal_rtc.h File Reference</title>
+<title>Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/firmware/targets/furi_hal_include/furi_hal_rtc.h File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -217,6 +217,15 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>furi_hal_rtc_sync_sha
 <tr class="memitem:a309770f52a18b743766022e21731add5"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="furi__hal__rtc_8h.html#a309770f52a18b743766022e21731add5">furi_hal_rtc_datetime_to_timestamp</a> (<a class="el" href="struct_furi_hal_rtc_date_time.html">FuriHalRtcDateTime</a> *datetime)</td></tr>
 <tr class="memdesc:a309770f52a18b743766022e21731add5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert DateTime to UNIX timestamp.  <a href="furi__hal__rtc_8h.html#a309770f52a18b743766022e21731add5">More...</a><br /></td></tr>
 <tr class="separator:a309770f52a18b743766022e21731add5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af5ea1b7054cd377d688a8fe5f6864f55"><td class="memItemLeft" align="right" valign="top">uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="furi__hal__rtc_8h.html#af5ea1b7054cd377d688a8fe5f6864f55">furi_hal_rtc_get_days_per_year</a> (uint16_t year)</td></tr>
+<tr class="memdesc:af5ea1b7054cd377d688a8fe5f6864f55"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the number of days in the year according to the Gregorian calendar.  <a href="furi__hal__rtc_8h.html#af5ea1b7054cd377d688a8fe5f6864f55">More...</a><br /></td></tr>
+<tr class="separator:af5ea1b7054cd377d688a8fe5f6864f55"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aded0a41830ca44669334ef27459c3137"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="furi__hal__rtc_8h.html#aded0a41830ca44669334ef27459c3137">furi_hal_rtc_is_leap_year</a> (uint16_t year)</td></tr>
+<tr class="memdesc:aded0a41830ca44669334ef27459c3137"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check if a year a leap year in the Gregorian calendar.  <a href="furi__hal__rtc_8h.html#aded0a41830ca44669334ef27459c3137">More...</a><br /></td></tr>
+<tr class="separator:aded0a41830ca44669334ef27459c3137"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1a49323c06ebd523cb24a4f25860473"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="furi__hal__rtc_8h.html#af1a49323c06ebd523cb24a4f25860473">furi_hal_rtc_get_days_per_month</a> (bool leap_year, uint8_t month)</td></tr>
+<tr class="memdesc:af1a49323c06ebd523cb24a4f25860473"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the number of days in the month.  <a href="furi__hal__rtc_8h.html#af1a49323c06ebd523cb24a4f25860473">More...</a><br /></td></tr>
+<tr class="separator:af1a49323c06ebd523cb24a4f25860473"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Furi Hal RTC API. </p>
@@ -437,6 +446,71 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>furi_hal_rtc_sync_sha
 
 </div>
 </div>
+<a id="af1a49323c06ebd523cb24a4f25860473" name="af1a49323c06ebd523cb24a4f25860473"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1a49323c06ebd523cb24a4f25860473">&#9670;&nbsp;</a></span>furi_hal_rtc_get_days_per_month()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t furi_hal_rtc_get_days_per_month </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>leap_year</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>month</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get the number of days in the month. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">leap_year</td><td>true to calculate based on leap years </td></tr>
+    <tr><td class="paramname">month</td><td>month to check, where 1 = January </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>the number of days in the month </dd></dl>
+
+</div>
+</div>
+<a id="af5ea1b7054cd377d688a8fe5f6864f55" name="af5ea1b7054cd377d688a8fe5f6864f55"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5ea1b7054cd377d688a8fe5f6864f55">&#9670;&nbsp;</a></span>furi_hal_rtc_get_days_per_year()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint16_t furi_hal_rtc_get_days_per_year </td>
+          <td>(</td>
+          <td class="paramtype">uint16_t&#160;</td>
+          <td class="paramname"><em>year</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Gets the number of days in the year according to the Gregorian calendar. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">year</td><td><a class="el" href="struct_input.html" title="Input state.">Input</a> year.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>number of days in `year`. </dd></dl>
+
+</div>
+</div>
 <a id="adec6c8ebaafb4da3e04a4ef956fea9c3" name="adec6c8ebaafb4da3e04a4ef956fea9c3"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#adec6c8ebaafb4da3e04a4ef956fea9c3">&#9670;&nbsp;</a></span>furi_hal_rtc_get_fault_data()</h2>
 
@@ -648,6 +722,33 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>furi_hal_rtc_sync_sha
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true if set </dd></dl>
+
+</div>
+</div>
+<a id="aded0a41830ca44669334ef27459c3137" name="aded0a41830ca44669334ef27459c3137"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aded0a41830ca44669334ef27459c3137">&#9670;&nbsp;</a></span>furi_hal_rtc_is_leap_year()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool furi_hal_rtc_is_leap_year </td>
+          <td>(</td>
+          <td class="paramtype">uint16_t&#160;</td>
+          <td class="paramname"><em>year</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Check if a year a leap year in the Gregorian calendar. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">year</td><td><a class="el" href="struct_input.html" title="Input state.">Input</a> year.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>true if `year` is a leap year. </dd></dl>
 
 </div>
 </div>

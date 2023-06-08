@@ -1,11 +1,11 @@
-.. meta::6c3f47e7e06e03ec9add49bf7f3c46c30e379105d804b6d9d17e8c8169cb07fb8bccb148945c1ff1a0dc2ffa4e53438202ac796f871e007015343b4b619cf63c
+.. meta::20b784cdbf881f081aedb5d24372ee1289207b842e14f3a8f99f236ce25a75df30771a0b73f4349a79d9771026d235b6d71738bec2e1c72351e7ce6aa8506133
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/toolbox/protocols/protocol_dict.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/toolbox/protocols/protocol_dict.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/toolbox/protocols/protocol\_dict.h Source File
-========================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/toolbox/protocols/protocol\_dict.h Source File
+============================================================================================
 
 .. container:: doxygen-content
 

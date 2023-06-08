@@ -1,11 +1,11 @@
-.. meta::2aaf7260ba242fe8c2b2a38982e971e640993197ba0042f28a8a8fcc6788f8de9deea942580462e57a94d9a8ce9116a24ac1f94d17463eb07cd9de2404b60359
+.. meta::6d8092d92cb9c2063419c31d13b6c82397cee5827ed923c32108acb3f2436369ace233c995aea7a63c33ec9343212f88c6b06caad171faa8250709522ba6a8ec
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/settings/bt_settings_app/scenes/bt_settings_scene.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/settings/bt_settings_app/scenes/bt_settings_scene.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/settings/bt\_settings\_app/scenes/bt\_settings\_scene.h Source File
-======================================================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/settings/bt\_settings\_app/scenes/bt\_settings\_scene.h Source File
+==========================================================================================================================
 
 .. container:: doxygen-content
 

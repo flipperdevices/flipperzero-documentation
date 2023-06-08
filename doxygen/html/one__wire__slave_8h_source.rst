@@ -1,11 +1,11 @@
-.. meta::2ef1168b9884f6c0854ba0ac2cdb93f6e530e6aa61e3c56cb47f328215ccd7960218be3033fac094783d93e73d6ac5fc72e3c98b6d23fa726ded58f51768ff53
+.. meta::fbcafb86df5df247e2f69353adf0743250d48b97059f6ae7b624086fbf1d048799fb99eeb25df9d72faf5a832a632829aa19d7b118dce27beba58bcf66d09d95
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/one_wire/one_wire_slave.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/one_wire/one_wire_slave.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/one\_wire/one\_wire\_slave.h Source File
-==================================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/one\_wire/one\_wire\_slave.h Source File
+======================================================================================
 
 .. container:: doxygen-content
 

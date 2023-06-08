@@ -1,11 +1,11 @@
-.. meta::d620b6faff3775b7aadc7556c4343ccee5fb4f0015f7986a8613dfd47a24014084a249a334ee91a0d7bcfc60dec5e1e3aa048369c94f98a37bb225924f5ea9d5
+.. meta::6787126ed7319b58cdaa867a35090d6268e18650388929d292bfb219911b19be0b5f64bc4b2332a17defff8292631a951411d1089f54590658f0454035488546
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/text_box.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/text_box.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/applications/services/gui/modules/text\_box.h Source File
-===============================================================================================
+/Users/astrr/flipper/flipperzero-firmware/applications/services/gui/modules/text\_box.h Source File
+===================================================================================================
 
 .. container:: doxygen-content
 

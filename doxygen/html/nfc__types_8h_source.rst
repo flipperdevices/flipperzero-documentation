@@ -1,11 +1,11 @@
-.. meta::e7c375665b376b07eb85ef64f0d70182094f9ee4747a005f29819a79a5c8200a77ee386c0e6d8bb550e0aea45ed8e14e0142752a90dae1cb595091911a47232f
+.. meta::ec1aaac4ed243140f16cad727efb592d07b3b0424ebff46983da50f9f49bc95756dcd1d24126b9b4875cfb04c07f101bfc37b2daa3c284ec60b4bffc5e15fbe6
 
 :orphan:
 
-.. title:: Flipper Zero Firmware: /Users/astrr/wtf/flipperzero-firmware/lib/nfc/nfc_types.h Source File
+.. title:: Flipper Zero Firmware: /Users/astrr/flipper/flipperzero-firmware/lib/nfc/nfc_types.h Source File
 
-/Users/astrr/wtf/flipperzero-firmware/lib/nfc/nfc\_types.h Source File
-======================================================================
+/Users/astrr/flipper/flipperzero-firmware/lib/nfc/nfc\_types.h Source File
+==========================================================================
 
 .. container:: doxygen-content
 
