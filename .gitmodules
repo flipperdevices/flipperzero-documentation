@@ -1,0 +1,3 @@
+[submodule "sphinx-multiversion"]
+	path = sphinx-multiversion
+	url = https://github.com/flipperdevices/sphinx-multiversion.git
