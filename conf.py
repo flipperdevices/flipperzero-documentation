@@ -62,7 +62,7 @@ smv_tag_whitelist = r'^.*$'
 smv_branch_whitelist = r'^.*$'
 
 # Whitelist pattern for remotes (set to None to use local branches only)
-smv_remote_whitelist = None
+smv_remote_whitelist = r'^.*$'
 
 # Pattern for released versions
 smv_released_pattern = r'^tags/.*$'
