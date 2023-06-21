@@ -12,19 +12,19 @@ Welcome to the Flipper Zero Firmware Developer Documentation!
    :hidden:
 
    Auto-generated <doxygen/html/index>
-   file_formats/index
-   AppManifests
-   AppsOnSDCard
-   fbt
-   FuriHalDebugging
-   HardwareTargets
-   KeyCombo
-   LFRFIDRaw
-   OTA
-   RoadMap
-   UnitTests
-   UniversalRemotes
-   GeneratingDocs
+   docs/file_formats/index
+   docs/AppManifests
+   docs/AppsOnSDCard
+   docs/fbt
+   docs/FuriHalDebugging
+   docs/HardwareTargets
+   docs/KeyCombo
+   docs/LFRFIDRaw
+   docs/OTA
+   docs/RoadMap
+   docs/UnitTests
+   docs/UniversalRemotes
+   docs/GeneratingDocs
 
 
 This documentation is intended for developers who want to modify the firmware of the Flipper Zero. If you are looking for the user manual, please visit `the User Documentation <https://docs.flipperzero.one/>`_.
