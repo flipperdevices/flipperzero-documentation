@@ -14,6 +14,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('./doxygen/html'))
 sys.path.insert(0, os.path.abspath('./docs'))
+sys.path.insert(0, os.path.abspath('../documentation'))
 
 
 # -- Project information -----------------------------------------------------
